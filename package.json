@@ -1,0 +1,14 @@
+{
+  "name": "lambertvilleporchfest",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gmap-vue": "^1.4.0",
+    "google-maps-api-loader": "1.1.1",
+    "gridsome": "^0.7.0"
+  }
+}
