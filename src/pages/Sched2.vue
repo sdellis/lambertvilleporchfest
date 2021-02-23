@@ -1,9 +1,11 @@
 <template>
   <Layout>
-  
+
   <VsaList>
-    <VsaItem v-for="performance in performances">
-      <VsaHeading>{{performance.artist}}</VsaHeading>
+    <VsaItem v-for="performance in performances" v-bind:key="performance.id">
+      <VsaHeading>
+        {{moment(performance.timeslot).format('h:MM P')}} - {{performance.artist}} @ {{performance.location}}
+        </VsaHeading>
       <VsaContent>{{performance.description}}</VsaContent>
     </VsaItem>
   </VsaList>
@@ -21,18 +23,19 @@ import {
   VsaIcon
 } from 'vue-simple-accordion';
 import 'vue-simple-accordion/dist/vue-simple-accordion.css';
+import moment from 'moment';
 
 export default {
   data() {
     return {
-      performances: performances.data
+      performances: performances.data,
+      sortBy: 'time',
+      times: [1, 2, 3, 4, 5]
     } 
   },
   computed: {
     byTime() {
-      return performances.reduce((acculmulator, currentItem, currentIndex, array) => {
-        
-      }, [])
+      return this.performances.filter(item => item.timeslot !== time);
     }
   },
   components: {
@@ -41,12 +44,21 @@ export default {
     VsaHeading,
     VsaContent,
     VsaIcon
+  },
+  created() {
+    console.log(this.byTime);
+  },
+  methods: {
+    moment: function() {
+      return moment();
+    }
   }
 }
+
 </script>
 
 <style scoped>
   h1 {
-    background: red;
+    /* background: red; */
   }
 </style>

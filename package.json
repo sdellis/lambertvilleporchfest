@@ -10,6 +10,7 @@
     "gmap-vue": "^1.4.0",
     "google-maps-api-loader": "1.1.1",
     "gridsome": "^0.7.0",
+    "moment": "^2.29.1",
     "vue-simple-accordion": "^0.1.0"
   }
 }
