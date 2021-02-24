@@ -4,7 +4,7 @@
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
     <g-image alt="Lambertville Porchfest, October 3, 2020, 12-6pm" src="~/porchfest-type.png" width="400" />
   </div>
-    <h1>Frequently Asked Questions</h1>
+    <PageHeader title="Frequently Asked Questions" />
 
     <h2>What is Lambertville Porchfest?</h2>
     <p>Lambertville Porchfest is a do-it-yourself community music festival.
@@ -132,9 +132,13 @@
 </template>
 
 <script>
+import PageHeader from '../components/layout/PageHeader';
 export default {
   metaInfo: {
     title: 'About us'
+  },
+  components: {
+    PageHeader
   }
 }
 </script>

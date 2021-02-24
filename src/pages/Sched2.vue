@@ -1,6 +1,6 @@
 <template>
   <Layout>
-
+  <PageHeader title="Sample Schedule" />
   <VsaList>
     <VsaItem v-for="performance in performances" v-bind:key="performance.id">
       <VsaHeading>
@@ -14,6 +14,7 @@
 </template>
 
 <script>
+import PageHeader from '../components/layout/PageHeader';
 import performances from '../data/performances.json'
 import {
   VsaList,
@@ -35,7 +36,9 @@ export default {
   },
   computed: {
     byTime() {
-      return this.performances.filter(item => item.timeslot !== time);
+      return this.performances.reduce((acc, item, index, arr) => {
+        return [];
+      }, [])
     }
   },
   components: {
@@ -43,7 +46,8 @@ export default {
     VsaItem,
     VsaHeading,
     VsaContent,
-    VsaIcon
+    VsaIcon,
+    PageHeader
   },
   created() {
     console.log(this.byTime);
@@ -58,7 +62,11 @@ export default {
 </script>
 
 <style scoped>
-  h1 {
-    /* background: red; */
+  .vsa-item__trigger {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .vsa-item__content {
+
   }
 </style>

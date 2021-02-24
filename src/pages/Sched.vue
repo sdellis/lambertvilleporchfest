@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h1 class="title">Schedule</h1>
+    <PageHeader title="Schedule" />
     <p>Rest rooms are available at in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
 12 N. Union Street</a> and <a href="http://maps.google.com/maps?q=3+Station+Ct,+Lambertville,+NJ+08530">
 3 Station Ct</a>, or by patronizing one of our local restaurants. Porch hosts are not obligated to provide rest rooms.</p>
@@ -373,9 +373,13 @@ prolific one, with more than six studio albums.</p>
 </template>
 
 <script>
+import PageHeader from '../components/layout/PageHeader';
 export default {
   metaInfo: {
     title: 'Map / Schedule'
+  },
+  components: {
+    PageHeader
   }
 }
 </script>
@@ -385,16 +389,16 @@ export default {
    height: 800px;
  }
  h1 {
-   background-color: 	#585858;
+   /* background-color: 	#585858;
    color: white;
-   padding: 1em;
+   padding: 1em; */
  }
  h1.title {
-   text-align: center;
-   background-color: black;
+   /* text-align: center;
+   background-color: black; */
  }
  .act {
-   background-color: #EEE;
+   /* background-color: #EEE; */
    padding: 1em;
    margin-bottom: 1em;
  }
