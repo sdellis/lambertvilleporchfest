@@ -92,4 +92,16 @@ h1.title a {
   margin: 0 auto;
 }
 
+.btn {
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  padding: 8px 12px;
+  border: none;
+  background: #9fbba9;
+  color: white;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
 </style>
