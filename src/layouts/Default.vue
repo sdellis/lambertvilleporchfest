@@ -35,7 +35,7 @@ body {
   line-height: 1.5;
   position: relative;
   z-index: 0;
-  background: #DCEAE1;
+  background: white;
   color: rgb(46, 51, 47);
 }
 

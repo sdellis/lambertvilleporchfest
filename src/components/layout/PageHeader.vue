@@ -5,10 +5,7 @@
 <script>
 export default {
   name: 'PageHeader',
-  props: ['title'],
-  created() {
-    document.querySelectorAll('h1').classList.add('fat-header');
-  }
+  props: ['title']
 }
 </script>
 
@@ -18,7 +15,7 @@ export default {
     padding-left: 20px;
     padding-top: 10px;
     padding-bottom: 0px;
-    border-bottom: 4px solid rgb(219, 215, 214);
+    border-bottom: 4px solid #DCEAE1;
     text-transform: uppercase;
     letter-spacing: 2px;
     animation: grow 1s linear 0s 1 forwards;

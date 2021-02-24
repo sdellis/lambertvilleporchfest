@@ -4,7 +4,7 @@
   <VsaList>
     <VsaItem v-for="performance in performances" v-bind:key="performance.id">
       <VsaHeading>
-        {{moment(performance.timeslot).format('h:MM P')}} - {{performance.artist}} @ {{performance.location}}
+        {{moment(performance.timeslot).format('h:MM')}} - {{performance.artist}} @ {{performance.location}}
         </VsaHeading>
       <VsaContent>{{performance.description}}</VsaContent>
     </VsaItem>
@@ -37,7 +37,9 @@ export default {
   computed: {
     byTime() {
       return this.performances.reduce((acc, item, index, arr) => {
-        return [];
+        if (item == 1) {
+          
+        }
       }, [])
     }
   },
@@ -62,11 +64,5 @@ export default {
 </script>
 
 <style scoped>
-  .vsa-item__trigger {
-    padding-top: 5px;
-    padding-bottom: 5px;
-  }
-  .vsa-item__content {
 
-  }
 </style>
