@@ -7,6 +7,7 @@
       <nav class="nav">
         <g-link class="nav__link" to="/map/">Map</g-link>
         <g-link class="nav__link" to="/sched/">Schedule</g-link>
+        <g-link class="nav__link" to="/porches/">Porches</g-link>
         <g-link class="nav__link" to="/about/">About</g-link>
         <g-link class="nav__link" to="/faq/">FAQ</g-link>
       </nav>

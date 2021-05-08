@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: "static/uploads"
+public_folder: "/uploads"
+collections:
+    - name: "porches"
+      label: "Porches"
+      folder: "porches"
+      create: true
+      slug: "{{slug}}"
+      fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Message", name: "message", widget: "text"}
+        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Host", name: "host", widget: "string"}
+        - {label: "House Number", name: "house_number", widget: "string"}
+        - {label: "Street Name", name: "street_name", widget: "string"}
+        - {label: "Latitude", name: "lat", widget: "string"}
+        - {label: "Longitude", name: "long", widget: "string"}
+        - {label: "Contact Email", name: "email", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
