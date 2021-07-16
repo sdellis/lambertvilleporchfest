@@ -24,7 +24,7 @@ module.exports = {
         path: 'artists/**/*.md',
         typeName: 'Artists',
         refs: {
-          porch: 'Porch',
+          porches: 'Porches',
         },
         remark: {
           plugins: [
