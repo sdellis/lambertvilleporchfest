@@ -21,6 +21,21 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
+        path: 'artists/**/*.md',
+        typeName: 'Artists',
+        refs: {
+          porch: 'Porch',
+        },
+        remark: {
+          plugins: [
+            // ...local plugins
+          ]
+        }
+      }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
         path: 'porches/**/*.md',
         typeName: 'Porches',
         remark: {

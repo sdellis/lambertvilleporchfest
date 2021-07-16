@@ -13,6 +13,7 @@
     "google-maps-api-loader": "1.1.1",
     "gridsome": "^0.7.0",
     "gridsome-plugin-netlify-cms": "^1.0.9",
-    "netlify-cms": "^2.10.122"
+    "netlify-cms": "^2.10.122",
+    "uuid": "^8.3.2"
   }
 }
