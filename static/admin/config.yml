@@ -5,7 +5,7 @@ media_folder: "static/uploads"
 public_folder: "/uploads"
 collections:
     - name: "artist"
-      label: "Artits"
+      label: "Artists"
       folder: "artists"
       create: true
       slug: "{{slug}}"
@@ -17,15 +17,15 @@ collections:
         - {label: "Link", name: "link", widget: "string"}
         - {label: "Time", name: "time", widget: "datetime"}
         - {label: "Contact Email", name: "email", widget: "string"}
-        - label: "Porch"
-          name: "porch"
+        - label: "Porches"
+          name: "porches"
           widget: "relation"
           collection: "porches"
           searchFields: ["name"]
           displayFields: ["name"]
           valueField: "id"
 
-    - name: "porch"
+    - name: "porches"
       label: "Porches"
       folder: "porches"
       create: true
