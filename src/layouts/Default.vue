@@ -7,7 +7,7 @@
       <nav class="nav">
         <g-link class="nav__link" to="/map/">Map</g-link>
         <g-link class="nav__link" to="/sched/">Schedule</g-link>
-        <g-link class="nav__link" to="/porches/">Porches</g-link>
+        <g-link class="nav__link" to="https://docs.google.com/forms/d/e/1FAIpQLSfGWsqy6rAya_yv_ucb2lPSynFVUi9zkGR9f9JjlFniP8bNNQ/viewform">Porch Registration</g-link>
         <g-link class="nav__link" to="/about/">About</g-link>
         <g-link class="nav__link" to="/faq/">FAQ</g-link>
       </nav>

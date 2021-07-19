@@ -26,7 +26,7 @@
     <h2>Will bathrooms be available?</h2>
     <p><strong>Attendees</strong> are responsible for finding their own bathrooms. There is a public
     bathroom in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
-12 N. Union Street</a>. There is also a public bathroom at the boat 
+12 N. Union Street</a>. There is also a public bathroom at the boat
     launch down past The Lambertville Station (south end of town). We also encourage
     you to dine at one of the many fine restaurants in Lambertville, which have bathrooms for patrons.</p>
     <p><strong>Artists</strong> should negotiate bathroom access with the porch owners. In most cases,
@@ -49,7 +49,8 @@
 
     <h2>Who are the musicians? Can I play?</h2>
     <p>Yes, you can play! All you need is a porch (or a stoop, or a patio that is
-    visible from the sidewalk). You can <a href="https://forms.gle/5n9aYc6xWTY49Uji9" target="_blank" rel="noopener">add your info to a Local Artists list</a> that
+    visible from the sidewalk). You can <a href="https://www.facebook.com/groups/517604519484347" target="_blank" rel="noopener">
+    add your info to a Local Artists list</a> that
     Porch Hosts may consult to book their porches, but there is no guarantee that
     registration alone will find you a porch. The musicians of Lambertville Porchfest
     represent every genre and every level of experience. Within blocks of each other,
@@ -63,15 +64,26 @@
     house attached to a porch), not the Lambertville Porchfest Organizing Committee.
     If you’re a musician interested in playing at Porchfest we recommend talking
     to potential hosts (see below) in the neighborhood or
-    <a href="https://forms.gle/5n9aYc6xWTY49Uji9" target="_blank" rel="noopener">
-    adding your info to a Local Artists list</a> . And, of course, if you live in
+    <a href="https://www.facebook.com/groups/517604519484347" target="_blank" rel="noopener">
+    the Porchfest Musician/Porch Connector on Facebook</a>. And, of course, if you live in
     the neighborhood, you can always play on your own porch.</p>
 
-    <h2>Who are the porch hosts? Can I host?</h2>
-    <p>Anyone can host, if you have the rights/permission to use a porch in the neighborhood.
-    To get on the map and schedule, <a href="https://forms.gle/uVCTS1iu8DAmCM3F7" target="_blank" rel="noopener">register your porch</a>.
-    If you need help finding artists to perform on your porch you can indicate that when you register and
-    we will follow up with a list of local artists in search of a porch.</p>
+    <h2>“I don’t have a porch”</h2>
+    That’s okay! Even if you don’t have a porch we can figure something out! Do you have a stoop?
+    How about a tiny lawn or walkway leading up to your front yard? We can call those honorary
+    porches for this one day. If you’re still struggling to figure out where the show can take
+    place, you may have to call up your Lambertville friends to see if you can host a show on
+    their porch. If you’re still coming up short, check out <a href="https://www.facebook.com/groups/517604519484347" target="_blank" rel="noopener">
+    the Porchfest Musician/Porch Connector
+    on Facebook</a> to meet people with porches that want to have shows on them! Team up to book
+    the porch show of your dreams!
+
+    <h2>“I want to host but I need to book musicians”</h2>
+    We’ve got you covered. We created <a href="https://www.facebook.com/groups/517604519484347" target="_blank" rel="noopener">
+    the Porchfest Musician/Porch Connector on Facebook</a>
+    for just this scenario. There you will find many excited musicians who would love to be
+    asked to play a show on your porch. You can even post that you have a porch and let the
+    musicians come to you!
 
     <h2>What are the responsibilities of hosting?</h2>
     <p>The porch hosts play an absolutely essential role in Porchfest. Porchfest is,
