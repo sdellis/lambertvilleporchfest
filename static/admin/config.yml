@@ -4,12 +4,34 @@ backend:
 media_folder: "static/uploads"
 public_folder: "/uploads"
 collections:
+    - name: "artist"
+      label: "Artists"
+      folder: "artists"
+      create: true
+      slug: "{{slug}}"
+      fields:
+        - {label: "ID", name: "id", widget: "id"}
+        - {label: "Name", name: "name", widget: "string"}
+        - {label: "Bio", name: "bio", widget: "markdown"}
+        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Link", name: "link", widget: "string"}
+        - {label: "Time", name: "time", widget: "datetime"}
+        - {label: "Contact Email", name: "email", widget: "string"}
+        - label: "Porches"
+          name: "porches"
+          widget: "relation"
+          collection: "porches"
+          searchFields: ["name"]
+          displayFields: ["name"]
+          valueField: "id"
+
     - name: "porches"
       label: "Porches"
       folder: "porches"
       create: true
       slug: "{{slug}}"
       fields:
+        - {label: "ID", name: "id", widget: "id"}
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Message", name: "message", widget: "text"}
         - {label: "Image", name: "image", widget: "image"}

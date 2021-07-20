@@ -1,9 +1,12 @@
 <template>
   <Layout>
     <h1 class="title">Schedule</h1>
-    <p>Rest rooms are available at in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
-12 N. Union Street</a> and <a href="http://maps.google.com/maps?q=3+Station+Ct,+Lambertville,+NJ+08530">
+    <p>Rest rooms are available in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
+12 N. Union Street</a>, <a href="https://www.google.com/maps/place/25+S+Union+St,+Lambertville,+NJ+08530"> the Justice Center (ACME building) on S. Union Street</a>, and <a href="http://maps.google.com/maps?q=3+Station+Ct,+Lambertville,+NJ+08530">
 3 Station Ct</a>, or by patronizing one of our local restaurants. Porch hosts are not obligated to provide rest rooms.</p>
+
+<h1>The Porchfest schedule is coming soon!</h1>
+<!--
     <h1>Noon</h1>
       <div class="act">
         <h2>Bill and Fred’s Excellent Adventure</h2>
@@ -369,6 +372,7 @@ prolific one, with more than six studio albums.</p>
         <a href="http://maps.google.com/maps?q=37+Clinton+Street,+Lambertville,+NJ+08530">
   37 Clinton Street</a>
       </div>
+-->
   </Layout>
 </template>
 

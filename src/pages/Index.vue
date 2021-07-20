@@ -2,13 +2,13 @@
   <Layout>
     <div class="imgdiv">
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Lambertville Porchfest, October 3, 2020, 12-6pm" src="~/porchfest-poster-bw.jpg"/>
+    <g-image alt="Lambertville Porchfest, October 2, 2021, 12-6pm" src="~/porchfest-poster-2021.jpg"/>
 
     <p>
       A do-it-yourself music festival featuring free shows on porches all over
       downtown Lambertville. Anyone can host or play a show!
     </p>
-    <p class="credit"><em>If you like the Lambertville Porchfest poster art, please consider dropping a tip to Thyme Quinn via Venmo: @ThymeSpace222</em></p>
+    <p class="credit"><em>If you like the Lambertville Porchfest poster art, please consider dropping a tip to Anabel Bouza via Venmo: @Anabel-Bouza</em></p>
   </div>
   </Layout>
 </template>
