@@ -10,7 +10,7 @@ collections:
       create: true
       slug: "{{slug}}"
       fields:
-        - {label: "ID", name: "id", widget: "id"}
+        - {label: "ID", name: "id", widget: "string"}
         - {label: "Name", name: "name", widget: "string"}
         - {label: "Bio", name: "bio", widget: "markdown"}
         - {label: "Image", name: "image", widget: "image"}
@@ -31,7 +31,7 @@ collections:
       create: true
       slug: "{{slug}}"
       fields:
-        - {label: "ID", name: "id", widget: "id"}
+        - {label: "ID", name: "id", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Message", name: "message", widget: "text"}
         - {label: "Image", name: "image", widget: "image"}
