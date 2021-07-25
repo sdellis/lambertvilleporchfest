@@ -38,7 +38,8 @@ query {
 export default {
   metaInfo: {
     title: "Porches"
-  }
+  },
+
 };
 </script>
 <style>

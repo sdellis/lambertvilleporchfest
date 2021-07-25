@@ -8,7 +8,7 @@ collections:
       label: "Artists"
       folder: "artists"
       create: true
-      slug: "{{slug}}"
+      slug: "{{name}}"
       fields:
         - {label: "ID", name: "id", widget: "string"}
         - {label: "Name", name: "name", widget: "string"}
@@ -29,7 +29,7 @@ collections:
       label: "Porches"
       folder: "porches"
       create: true
-      slug: "{{slug}}"
+      slug: "{{name}}"
       fields:
         - {label: "ID", name: "id", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
