@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h1>Porch Map</h1>
+    <Header>Porch Map</Header>
     <p><strong>Click or touch a red pin/marker to see the porch line-up.</strong></p>
     <p>Rest rooms are available at in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
 12 N. Union Street</a> and <a href="http://maps.google.com/maps?q=3+Station+Ct,+Lambertville,+NJ+08530">
@@ -429,7 +429,7 @@ methods: {
 }
 </script>
 
-<style>
+<style scoped>
  .travel-map {
    height: 800px;
  }

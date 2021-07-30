@@ -39,7 +39,7 @@ export default {
   }
 };
 </script>
-<style>
+<style scoped>
 .container--porch {
   margin-top: -140px;
   background-color: #fff;

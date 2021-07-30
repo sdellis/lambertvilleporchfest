@@ -10,6 +10,14 @@ const c9 = () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\
 
 export default [
   {
+    path: "/porches/test-porch/",
+    component: c1
+  },
+  {
+    path: "/porches/blahvocado/",
+    component: c1
+  },
+  {
     path: "/porches/204-brunswick-ave/",
     component: c1
   },

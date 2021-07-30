@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <div class="container">
-      <h1>List porches</h1>
+      <Header>List porches</Header>
       <div v-for="porch in $page.porches.edges" :key="porch.id" class="porch d-flex">
         <div class="porch__img"
              :style="{ 'background-image': 'url(' + porch.node.image + ')' }"></div>
@@ -42,7 +42,8 @@ export default {
 
 };
 </script>
-<style>
+
+<style scoped>
 .porch {
   display: flex;
   align-items: center;

@@ -2,9 +2,9 @@
   <Layout>
     <div style="text-align: center">
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Lambertville Porchfest, October 3, 2020, 12-6pm" src="~/porchfest-type.png" width="400" />
+    <!-- <g-image alt="Lambertville Porchfest, October 3, 2020, 12-6pm" src="~/porchfest-type.png" width="400" /> -->
   </div>
-    <h1>Frequently Asked Questions</h1>
+    <Header>Frequently Asked Questions</Header>
 
     <h2>What is Lambertville Porchfest?</h2>
     <p>Lambertville Porchfest is a do-it-yourself community music festival.
