@@ -1,11 +1,11 @@
 <template>
   <Layout>
-    <h1 class="title">Schedule</h1>
-    <p>Rest rooms are available in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
+    <Header>Schedule</Header>
+    <!-- <p>Rest rooms are available in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
 12 N. Union Street</a>, <a href="https://www.google.com/maps/place/25+S+Union+St,+Lambertville,+NJ+08530"> the Justice Center (ACME building) on S. Union Street</a>, and <a href="http://maps.google.com/maps?q=3+Station+Ct,+Lambertville,+NJ+08530">
-3 Station Ct</a>, or by patronizing one of our local restaurants. Porch hosts are not obligated to provide rest rooms.</p>
+3 Station Ct</a>, or by patronizing one of our local restaurants. Porch hosts are not obligated to provide rest rooms.</p> -->
 
-<h1>The Porchfest schedule is coming soon!</h1>
+    <p class="stay-tuned">Stay tuned for the Porchfest schedule coming soon!</p>
 <!--
     <h1>Noon</h1>
       <div class="act">
@@ -384,22 +384,18 @@ export default {
 }
 </script>
 
-<style>
- .travel-map {
-   height: 800px;
- }
- h1 {
-   background-color: 	#585858;
-   color: white;
-   padding: 1em;
- }
- h1.title {
-   text-align: center;
-   background-color: black;
- }
- .act {
-   background-color: #EEE;
-   padding: 1em;
-   margin-bottom: 1em;
- }
+<style scoped>
+.travel-map {
+  height: 800px;
+}
+
+.stay-tuned {
+  font-size: 24px;
+}
+
+.act {
+  background-color: #EEE;
+  padding: 1em;
+  margin-bottom: 1em;
+}
 </style>

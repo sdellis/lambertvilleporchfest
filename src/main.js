@@ -3,11 +3,13 @@
 
 import DefaultLayout from '~/layouts/Default.vue'
 import TravelMap from "~/components/TravelMap.vue"
+import Header from '~/components/Header.vue';
 import * as GmapVue from 'gmap-vue'
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout),
+  Vue.component('Header', Header),
   Vue.component('TravelMap', TravelMap),
   Vue.use(GmapVue, {
     load: {

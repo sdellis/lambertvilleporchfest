@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h1>About</h1>
+    <Header>About</Header>
     <g-image alt="Band on a porch" src="~/porchfest.png" width="400" />
     <p>Lambertville Porchfest is a do-it-yourself music festival, featuring
       musicians of all kinds playing free shows on porches throughout the neighborhood.
@@ -33,3 +33,9 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+h2 {
+  margin-top: 36px;
+}
+</style>
