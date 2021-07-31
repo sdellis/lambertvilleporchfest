@@ -10,12 +10,13 @@ export default {
 
 <style scoped>
  h1.title {
-   background-color: #c9ccea;
+   background-color: var(--bg);
    /* color: white; */
    padding: 0.5rem;
    letter-spacing: 2px;
    font-weight: 500;
-   border-left: 3px solid var(--gold);
+   /* border-left: 3px solid var(--gold); */
+   border-bottom: 4px solid var(--light-blue);
    text-transform: none;
    padding-left: 3.2rem;
    margin-top: 2.8rem;

@@ -28,8 +28,10 @@ export default {
   margin-right: 1rem;
 }
 img {
-  max-width: 100%;
+  max-width: 600px;
+  border: 10px solid var(--light-blue);
   height: auto;
+  margin-top: 30px;
 }
 h2 {
   font-size: 32px;
@@ -44,5 +46,10 @@ p {
 }
 .credit {
   font-size: 1em;
+}
+@media (max-width: 794px) {
+  img {
+    max-width: 100%;
+  }
 }
 </style>

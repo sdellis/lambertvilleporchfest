@@ -10,12 +10,12 @@
           <div class="line line-2"></div>
         </button>
       </div>
-      <nav class="nav" :class="{open: menuOpen}">
-        <g-link class="nav__link" @click="handleOpen" to="/about/"><span>About</span></g-link>
-        <g-link class="nav__link" @click="handleOpen" to="/map/"><span>Map</span></g-link>
-        <g-link class="nav__link" @click="handleOpen" to="/sched/"><span>Schedule</span></g-link>
-        <g-link class="nav__link" @click="handleOpen" to="https://docs.google.com/forms/d/e/1FAIpQLSfGWsqy6rAya_yv_ucb2lPSynFVUi9zkGR9f9JjlFniP8bNNQ/viewform"><span>Porch Registration</span></g-link>
-        <g-link class="nav__link" @click="handleOpen" to="/faq/"><span>FAQ</span></g-link>
+      <nav class="nav" :class="{open: menuOpen}" ref="nav">
+        <g-link class="nav__link" to="/about/"><span>About</span></g-link>
+        <g-link class="nav__link" to="/map/"><span>Map</span></g-link>
+        <g-link class="nav__link" to="/sched/"><span>Schedule</span></g-link>
+        <g-link class="nav__link" to="https://docs.google.com/forms/d/e/1FAIpQLSfGWsqy6rAya_yv_ucb2lPSynFVUi9zkGR9f9JjlFniP8bNNQ/viewform"><span>Porch Registration</span></g-link>
+        <g-link class="nav__link" to="/faq/"><span>FAQ</span></g-link>
       </nav>
     </header>
     <slot/>
@@ -40,6 +40,13 @@ export default {
   methods: {
     handleOpen() {
       this.menuOpen = !this.menuOpen;
+    },
+    handleClose() {
+      // console.log('hey')
+      // this.$refs.nav.classList.add('close');
+      // setTimeout(() => {
+      //   this.menuOpen = !this.menuOpen
+      // }, 500);
     }
   }
 }
@@ -49,7 +56,9 @@ export default {
 :root {
   --text: #1d1e27;
   --border: #8a8fbb;
+  --dark-gold: #7e671d;
   --gold: #AE9030;
+  --light-gold: #ceb974;
   --light-blue: #a7aee6;
   --bg: #d7dbf5;
 }
@@ -58,7 +67,8 @@ body {
   margin:0;
   padding:0;
   line-height: 1.5;
-  background: var(--bg);
+  /* background: var(--bg); */
+  background: white;
   font-family: 'M PLUS 1p', sans-serif;
   font-weight: 500;
 }
@@ -85,7 +95,7 @@ header strong {
 header strong a {
   text-decoration: none;
   color: var(--text);
-  transition: color 500ms ease;
+  transition: color 1000ms ease;
 }
 nav.nav {
   border-top: 1px solid var(--border);
@@ -110,6 +120,12 @@ nav.nav .nav__link span {
 }
 nav.nav .nav__link span:hover {
   transform: translateY(-3px);
+}
+nav.nav .nav__link.active span {
+  transform: translateY(-3px);
+}
+nav.nav .nav__link.active::after {
+  width: 100%;
 }
 nav.nav .nav__link::after {
   content: '';
@@ -140,7 +156,7 @@ button.burger .line {
   border-radius: 20px;
   background: var(--text);
   margin: 12px 0;
-  transition: all 500ms ease;
+  transition: all 1000ms ease;
 }
 button.burger.open .line-1 {
   transform: translateY(7px) rotate(45deg);
@@ -151,6 +167,7 @@ button.burger.open .line-2 {
 img {
   max-width: 100%;
   height: auto;
+  box-sizing: border-box;
 }
 .layout {
   max-width: 760px;
@@ -160,6 +177,10 @@ img {
   margin-bottom: 80px;
 }
 @media (max-width: 794px) {
+  .layout {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
   button.burger {
     display: block;
   }
@@ -170,6 +191,8 @@ img {
     align-items: center;
     position: relative;
     z-index: 100; 
+    padding-left: 20px;
+    padding-right: 20px;
   }
   header > div.open strong a {
     color: white;
@@ -199,10 +222,17 @@ img {
   nav.nav.open {
     transform: translateX(0%);
   }
+  nav.nav.close {
+    /* transform: translateX(-200%); */
+    background: blue;
+  }
   nav.nav a.nav__link {
     color: white;
     font-size: 32px;
     margin: 24px 0;
+  }
+  nav.nav a.nav__link.active {
+    color: var(--dark-gold);
   }
   nav.nav a.nav__link:hover {
     transform: none;

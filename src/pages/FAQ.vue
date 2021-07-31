@@ -150,3 +150,8 @@ export default {
   }
 }
 </script>
+<style scoped>
+h2 {
+  margin-top: 42px;
+}
+</style>
