@@ -26,15 +26,14 @@
     <h2>Will bathrooms be available?</h2>
     <p><strong>Attendees</strong> are responsible for finding their own bathrooms. There is a public
     bathroom in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
-12 N. Union Street</a>. There is also a public bathroom at the boat
+12 N. Union Street</a>. The Justice Center (ACME building) on South Union Street has public restrooms. There is also a public bathroom at the boat
     launch down past The Lambertville Station (south end of town). We also encourage
     you to dine at one of the many fine restaurants in Lambertville, which have bathrooms for patrons.</p>
     <p><strong>Artists</strong> should negotiate bathroom access with the porch owners. In most cases,
     the hosts will be able to accommodate you, and make sure you are comfortable and your needs are met.</p>
 
     <h2>Is there a rain date?</h2>
-    <p>Yes! In the case of heavy rains, we may postpone until Oct 17th. We will
-    make this call the morning of and it will be posted on the website by 9am.
+    <p>We do not have plans to support a postponement due to inclement weather.
     Please plan accordingly for weather with protective layers, umbrellas,
     sunscreen, sufficient water etc.</p>
 
@@ -110,7 +109,7 @@
     joining us from out of town, plan to park it and walk. :)</p>
 
     <h2>Where can I find a map / lineup?</h2>
-    <p>You can find an online interactive version of the map and schedule on our webite after
+    <p>You can find an online interactive version of the map and schedule on our website after
     September 26th.</p>
 
     <h2>Does this cost money to host/play/attend?</h2>
@@ -123,15 +122,12 @@
 
     <p>Some porch hosts may pay their artists. Some porches may
     provide a way to tip the artists performing.
-    Each of these is at the discretion
-    of the host. Because Porchfest is free for everyone, we are grateful for any
+    Each of these is at the discretion of the host. Because Porchfest is free for everyone, we are grateful for any
     donations you can afford. The money you donate is not tax-deductible, but it
     does all go directly to making this community event possible.</p>
 
     <h2>Who puts on this event?</h2>
-    <p>This Porchfest is organized by Shaun Ellis, a 20 year Lambertville resident and local
-    musician, along with significant help from Ryan Spreen, man about town and
-    reformed musician.</p>
+    <p>This Porchfest is organized by volunteers within the community, hosts, and artists.</p>
 
     <h2>How do I get involved if I want to be part of making Lambertville Porchfest happen?</h2>
     <p>Porchfest is an all-volunteer effort and we would love to have your help!
