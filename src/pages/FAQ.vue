@@ -142,7 +142,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'About us'
+    title: 'Frequently Asked Questions'
   }
 }
 </script>
