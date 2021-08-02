@@ -3,7 +3,7 @@
     <Header>Porch Map</Header>
     <p><strong>Click or touch a red pin/marker to see the porch line-up.</strong></p>
     <p>Rest rooms are available at in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
-12 N. Union Street</a> and <a href="http://maps.google.com/maps?q=3+Station+Ct,+Lambertville,+NJ+08530">
+12 N. Union Street</a>, <a href="https://www.google.com/maps/place/Phillip+L.+Pittore+Justice+Center/@40.3646202,-74.9467619,17z/data=!3m1!4b1!4m5!3m4!1s0x89c3ff49de6e1487:0x3d4bfe5867e8bcff!8m2!3d40.3646219!4d-74.9445443">The Justice Center (ACME building)</a>, and <a href="http://maps.google.com/maps?q=3+Station+Ct,+Lambertville,+NJ+08530">
 3 Station Ct</a>, or by patronizing one of our local restaurants. Porch hosts are not obligated to provide rest rooms.</p>
     <GmapMap
       ref="mymap" :center="startLocation" :zoom="16" style="width: 100%; height: 800px"
@@ -37,6 +37,7 @@ export default {
       lng: -74.9472286
     },
     coordinates: [
+    /*
       {
         address: '5 York Street',
         lat: '40.3680643',
@@ -393,6 +394,7 @@ export default {
           },
         ],
       },
+      */
     ],
     infoPosition: null,
     infoContent: null,
