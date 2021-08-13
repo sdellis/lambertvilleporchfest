@@ -23,6 +23,15 @@
     the sidewalk or yard and not in the street unless the neighborhood has obtained a
     permit to close the street.</p>
 
+    <h2>What if my neighbors complain?</h2>
+    <p>Lambertville has a noise ordinance strictly prohibiting loud music. If neighbors find the volume of a
+    porch show to be a nuisance, they may call the police to enforce the noise ordinance. For this reason,
+    among many, we strongly encourage you to talk to your neighbors BEFORE agreeing to host a show, making sure you
+    address their concerns. Conversely, if a neighbor's show is too loud and disrupting your
+    life, please kindly ask them to turn it down BEFORE calling the police. One of the beautiful things about Porchfest
+    is that neighbors talk to neighbors and find solutions together. A successful and safe Porchfest (and community!)
+    is contingent on neighbors NOT CALLING THE COPS ON EACH OTHER.</p>
+
     <h2>Will bathrooms be available?</h2>
     <p><strong>Attendees</strong> are responsible for finding their own bathrooms. There is a public
     bathroom in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
@@ -33,14 +42,14 @@
     the hosts will be able to accommodate you, and make sure you are comfortable and your needs are met.</p>
 
     <h2>Is there a rain date?</h2>
-    <p>We do not have plans to support a postponement due to inclement weather.
-    Please plan accordingly for weather with protective layers, umbrellas,
-    sunscreen, sufficient water etc.</p>
+    <p>No. In the case of disruptive or dangerous weather, porch hosts may decide to cancel or postpone their shows,
+    but it's entirely up to the hosts. We encourage the hosts to update their Porchfest website page accordingly.
+    Please plan accordingly for weather with protective layers, umbrellas, sunscreen, sufficient water etc.</p>
 
     <h2>Why is Porchfest restricted to downtown Lambertville?</h2>
-    <p>This is our first year and we want to keep the events concentrated in the
+    <p>Since we are just starting out, we want to keep the events concentrated in the
     downtown neighborhood to make them easily accessible. We also want to support
-    downtown businesses and restaurants which will benefit from the foot traffic.</p>
+    downtown businesses and restaurants as they will benefit from the foot traffic.</p>
 
     <h2>How can I participate in Lambertville Porchfest?</h2>
     <p>There are lots of ways to be part of Porchfest! You can perform, host a show,
@@ -126,8 +135,13 @@
     donations you can afford. The money you donate is not tax-deductible, but it
     does all go directly to making this community event possible.</p>
 
+    <h2>How can my Lambertville-based business participate in Porchfest?</h2>
+    <p>Yes! For starters, you can participate as a porch host. You may also want to consider offering a
+    small "grab-and-go" meal for the day so attendees can pick up a bite on the way to see their favorite
+    performers.</p>
+
     <h2>Who puts on this event?</h2>
-    <p>This Porchfest is organized by volunteers within the community, hosts, and artists.</p>
+    <p>This Porchfest is organized by volunteers within the community, hosts, and performers.</p>
 
     <h2>How do I get involved if I want to be part of making Lambertville Porchfest happen?</h2>
     <p>Porchfest is an all-volunteer effort and we would love to have your help!
@@ -135,7 +149,7 @@
     If you would like to learn more about ways in which you can donate your time
     to Porchfest, or if you are a local business that wants to provide a place for
     attendees to pick up maps/schedules the day of the event, send an email to
-    shaun@sdellis.com.</p>
+    LambertvillePorchfest@gmail.com.</p>
   </Layout>
 </template>
 
