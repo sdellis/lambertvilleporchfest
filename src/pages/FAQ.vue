@@ -135,7 +135,7 @@
     donations you can afford. The money you donate is not tax-deductible, but it
     does all go directly to making this community event possible.</p>
 
-    <h2>How can my Lambertville-based business participate in Porchfest?</h2>
+    <h2>Can my Lambertville-based business participate in Porchfest?</h2>
     <p>Yes! For starters, you can participate as a porch host. You may also want to consider offering a
     small "grab-and-go" meal for the day so attendees can pick up a bite on the way to see their favorite
     performers.</p>
