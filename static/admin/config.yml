@@ -22,14 +22,14 @@ collections:
           widget: "relation"
           collection: "porches"
           searchFields: ["name"]
-          displayFields: ["name"]
+          display_fields: ["{{house_number}} {{street_name}}"]
           valueField: "id"
 
     - name: "porches"
       label: "Porches"
       folder: "porches"
       create: true
-      slug: "{{name}}"
+      slug: "{{house_number}}-{{street_name}}"
       fields:
         - {label: "ID", name: "id", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
