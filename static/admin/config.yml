@@ -42,10 +42,3 @@ collections:
           searchFields: ["name"]
           display_fields: ["name"]
           valueField: "id"
-        - label: "Artists - 1pm"
-          name: "artists1"
-          widget: "relation"
-          collection: "artists"
-          searchFields: ["name"]
-          display_fields: ["name"]
-          valueField: "id"
