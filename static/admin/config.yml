@@ -11,7 +11,8 @@ collections:
       slug: "{{title}}-{{email}}"
       fields:
         - {label: "ID", name: "id", widget: "string"}
-        - {label: "Name", name: "title", widget: "string"}
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Name", name: "name", widget: "string"}
         - {label: "Bio", name: "bio", widget: "markdown"}
         - {label: "Image", name: "image", widget: "image"}
         - {label: "Link", name: "link", widget: "string"}
