@@ -8,10 +8,10 @@ collections:
       label: "Artists"
       folder: "artists"
       create: true
-      slug: "{{name}}"
+      slug: "{{title}}-{{email}}"
       fields:
         - {label: "ID", name: "id", widget: "string"}
-        - {label: "Name", name: "name", widget: "string"}
+        - {label: "Name", name: "title", widget: "string"}
         - {label: "Bio", name: "bio", widget: "markdown"}
         - {label: "Image", name: "image", widget: "image"}
         - {label: "Link", name: "link", widget: "string"}
@@ -39,6 +39,6 @@ collections:
           name: "artists12"
           widget: "relation"
           collection: "artists"
-          searchFields: ["name"]
-          display_fields: ["name"]
+          searchFields: ["title"]
+          display_fields: ["title"]
           valueField: "id"
