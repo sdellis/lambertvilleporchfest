@@ -36,14 +36,14 @@ collections:
         - {label: "Contact Email", name: "email", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
         - label: "Artists - 12pm"
-          name: "artists"
+          name: "artists12"
           widget: "relation"
           collection: "artists"
           searchFields: ["name"]
           display_fields: ["name"]
           valueField: "id"
         - label: "Artists - 1pm"
-          name: "artists"
+          name: "artists1"
           widget: "relation"
           collection: "artists"
           searchFields: ["name"]
