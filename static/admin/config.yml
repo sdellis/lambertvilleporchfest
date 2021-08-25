@@ -17,13 +17,6 @@ collections:
         - {label: "Link", name: "link", widget: "string"}
         - {label: "Time", name: "time", widget: "datetime"}
         - {label: "Contact Email", name: "email", widget: "string"}
-        - label: "Porches"
-          name: "porches"
-          widget: "relation"
-          collection: "porches"
-          searchFields: ["name"]
-          display_fields: ["{{house_number}} {{street_name}}"]
-          valueField: "id"
 
     - name: "porches"
       label: "Porches"
@@ -42,3 +35,17 @@ collections:
         - {label: "Longitude", name: "long", widget: "string"}
         - {label: "Contact Email", name: "email", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
+        - label: "Artists - 12pm"
+          name: "artists"
+          widget: "relation"
+          collection: "artists"
+          searchFields: ["name"]
+          display_fields: ["name"]
+          valueField: "id"
+        - label: "Artists - 1pm"
+          name: "artists"
+          widget: "relation"
+          collection: "artists"
+          searchFields: ["name"]
+          display_fields: ["name"]
+          valueField: "id"
