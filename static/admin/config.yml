@@ -36,8 +36,43 @@ collections:
         - {label: "Longitude", name: "long", widget: "string"}
         - {label: "Contact Email", name: "email", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
-        - label: "Artist12"
+        - label: "Artist - Noon"
           name: "artist12"
+          widget: "relation"
+          collection: "artist"
+          searchFields: ["name"]
+          display_fields: ["{{name}}"]
+          valueField: "id"
+        - label: "Artist - 1pm"
+          name: "artist1"
+          widget: "relation"
+          collection: "artist"
+          searchFields: ["name"]
+          display_fields: ["{{name}}"]
+          valueField: "id"
+        - label: "Artist - 2pm"
+          name: "artist2"
+          widget: "relation"
+          collection: "artist"
+          searchFields: ["name"]
+          display_fields: ["{{name}}"]
+          valueField: "id"
+        - label: "Artist - 3pm"
+          name: "artist3"
+          widget: "relation"
+          collection: "artist"
+          searchFields: ["name"]
+          display_fields: ["{{name}}"]
+          valueField: "id"
+        - label: "Artist - 4pm"
+          name: "artist4"
+          widget: "relation"
+          collection: "artist"
+          searchFields: ["name"]
+          display_fields: ["{{name}}"]
+          valueField: "id"
+        - label: "Artist - 5pm"
+          name: "artist5"
           widget: "relation"
           collection: "artist"
           searchFields: ["name"]
