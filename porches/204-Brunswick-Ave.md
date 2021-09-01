@@ -1,14 +1,16 @@
 ---
+lng: "-74.9461641"
 id: 543223
 title: The Mothership
+message: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 image: https://source.unsplash.com/random/1
-message: |-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 host: Shaun Ellis
-street_name: Brunswick Ave
 house_number: 205
-lat: '40.3680643'
-lng: '-74.9461641'
+street_name: Brunswick Ave
+# Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
+lat: "40.3680643"
 email: a@b.com
+artist12: 12345
+artist3: "0987654321"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
