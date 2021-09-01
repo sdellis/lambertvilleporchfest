@@ -11,19 +11,13 @@ collections:
       slug: "{{name}}"
       fields:
         - {label: "ID", name: "id", widget: "string"}
+        - {label: "Title", name: "title", widget: "string"}
         - {label: "Name", name: "name", widget: "string"}
         - {label: "Bio", name: "bio", widget: "markdown"}
         - {label: "Image", name: "image", widget: "image"}
         - {label: "Link", name: "link", widget: "string"}
         - {label: "Time", name: "time", widget: "datetime"}
         - {label: "Contact Email", name: "email", widget: "string"}
-        - label: "Porches"
-          name: "porches"
-          widget: "relation"
-          collection: "porches"
-          searchFields: ["name"]
-          display_fields: ["{{house_number}} {{street_name}}"]
-          valueField: "id"
 
     - name: "porches"
       label: "Porches"
@@ -42,3 +36,10 @@ collections:
         - {label: "Longitude", name: "long", widget: "string"}
         - {label: "Contact Email", name: "email", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
+        - label: "Artist12"
+          name: "artist12"
+          widget: "relation"
+          collection: "artist"
+          searchFields: ["name"]
+          display_fields: ["{{name}}"]
+          valueField: "id"
