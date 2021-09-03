@@ -8,6 +8,7 @@
         <div class="porch__body">
           <g-link :to="porch.node.path" class="porch__link"></g-link>
           <h1 class="porch__title">{{porch.node.title}}</h1>
+          <em>{{porch.node.house_number}} {{porch.node.street_name}}</em>
           <p class="porch__abstract">{{porch.node.message}}</p>
         </div>
       </div>
