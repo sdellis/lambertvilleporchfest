@@ -2,7 +2,7 @@
 lng: "-74.9461641"
 id: 543223
 title: The Mothership
-message: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+message: Everything worthwhile is done with other people.
 image: https://source.unsplash.com/random/1
 host: Shaun Ellis
 house_number: 205
@@ -14,7 +14,7 @@ artist12: 12345
 artist1:
 artist2:
 artist3: "0987654321"
-artist4: 
+artist4:
 artist5:
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is just a test porch. 

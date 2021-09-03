@@ -13,12 +13,12 @@
         </div>
         <h2>Artist Schedule</h2>
         <ul>
-          <li v-if="$page.porch.artist12.length > 0">Noon-1pm: {{$page.porch.artist12}}</li>
-          <li v-if="$page.porch.artist1.length > 0">1-2pm: {{$page.porch.artist1}}</li>
-          <li v-if="$page.porch.artist2.length > 0">2-3pm: {{$page.porch.artist2}}</li>
-          <li v-if="$page.porch.artist3.length > 0">3-4pm: {{$page.porch.artist3}}</li>
-          <li v-if="$page.porch.artist4.length > 0">4-5pm: {{$page.porch.artist4}}</li>
-          <li v-if="$page.porch.artist5.length > 0">5-6pm: {{$page.porch.artist5}}</li>
+          <li>Noon-1pm: {{artist_12}}</li>
+          <li>1pm-2pm: {{artist_1}}</li>
+          <li>2pm-3pm: {{artist_2}}</li>
+          <li>3pm-4pm: {{artist_3}}</li>
+          <li>4pm-5pm: {{artist_4}}</li>
+          <li>5pm-6pm: {{artist_5}}</li>
         </ul>
       </div>
     </div>
@@ -39,11 +39,16 @@ query ($path: String!) {
     content
     path
     artist12
-    artist1
-    artist2
     artist3
-    artist4
-    artist5
+  }
+  artists: allArtists {
+    edges {
+      node {
+        id
+        title
+        name
+      }
+    }
   }
 }
 </page-query>
@@ -54,6 +59,56 @@ export default {
     return {
       title: this.$page.porch.title
     };
+  },
+  computed:{
+    artist_12(){
+      if (this.$page.porch.artist12 === undefined){
+        return ""
+      } else {
+        var id = String(this.$page.porch.artist12)
+        return this.$page.artists.edges.find(x => x.node.id === id).node.name
+      }
+    },
+    artist_1(){
+      if (this.$page.porch.artist1 === undefined){
+        return ""
+      } else {
+        var id = String(this.$page.porch.artist1)
+        return this.$page.artists.edges.find(x => x.node.id === id).node.name
+      }
+    },
+    artist_2(){
+      if (this.$page.porch.artist2 === undefined){
+        return ""
+      } else {
+        var id = String(this.$page.porch.artist2)
+        return this.$page.artists.edges.find(x => x.node.id === id).node.name
+      }
+    },
+    artist_3(){
+      if (this.$page.porch.artist3 === undefined){
+        return ""
+      } else {
+        var id = String(this.$page.porch.artist3)
+        return this.$page.artists.edges.find(x => x.node.id === id).node.name
+      }
+    },
+    artist_4(){
+      if (this.$page.porch.artist4 === undefined){
+        return ""
+      } else {
+        var id = String(this.$page.porch.artist4)
+        return this.$page.artists.edges.find(x => x.node.id === id).node.name
+      }
+    },
+    artist_5(){
+      if (this.$page.porch.artist5 === undefined){
+        return ""
+      } else {
+        var id = String(this.$page.porch.artist5)
+        return this.$page.artists.edges.find(x => x.node.id === id).node.name
+      }
+    },
   }
 };
 </script>
