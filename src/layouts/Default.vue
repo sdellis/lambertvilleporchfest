@@ -14,6 +14,7 @@
         <g-link class="nav__link" to="/about/"><span>About</span></g-link>
         <g-link class="nav__link" to="/map/"><span>Map</span></g-link>
         <g-link class="nav__link" to="/sched/"><span>Schedule</span></g-link>
+        <g-link class="nav__link" to="/porches/">Porches</g-link>
         <g-link class="nav__link" to="https://docs.google.com/forms/d/e/1FAIpQLSfGWsqy6rAya_yv_ucb2lPSynFVUi9zkGR9f9JjlFniP8bNNQ/viewform"><span>Porch Registration</span></g-link>
         <g-link class="nav__link" to="/faq/"><span>FAQ</span></g-link>
       </nav>
@@ -85,7 +86,7 @@ h2 {
 header {
   padding-top: 32px;
 }
-header strong { 
+header strong {
   display: block;
   width: 100%;
   text-transform: uppercase;
@@ -101,7 +102,7 @@ nav.nav {
   border-top: 1px solid var(--border);
   display: flex;
   justify-content: space-between;
-  padding: 10px;  
+  padding: 10px;
   margin-top: 10px;
 }
 nav.nav .nav__link {
@@ -190,7 +191,7 @@ img {
     justify-content: space-between;
     align-items: center;
     position: relative;
-    z-index: 100; 
+    z-index: 100;
     padding-left: 20px;
     padding-right: 20px;
   }

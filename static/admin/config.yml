@@ -27,21 +27,22 @@ collections:
       fields:
         - {label: "ID", name: "id", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
-        - {label: "Message", name: "message", widget: "text"}
+        - {label: "Your message to Porchfest attendees", name: "message", widget: "text", required: false}
         - {label: "Image", name: "image", widget: "image"}
-        - {label: "Host", name: "host", widget: "string"}
+        - {label: "Host Name", name: "host", widget: "string"}
         - {label: "House Number", name: "house_number", widget: "string"}
         - {label: "Street Name", name: "street_name", widget: "string"}
         - {label: "Latitude", name: "lat", widget: "string", comment: "Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.", required: false}
         - {label: "Longitude", name: "long", widget: "string", comment: "Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.", required: false}
-        - {label: "Contact Email", name: "email", widget: "string"}
-        - {label: "Body", name: "body", widget: "markdown"}
+        - {label: "Host Contact Email", name: "email", widget: "string"}
+        - {label: "Anything attendees need to know about your porch...", name: "body", widget: "markdown", comment: "You do NOT need to list the artists here."}
         - label: "Artist - Noon"
           name: "artist12"
           widget: "relation"
           collection: "artist"
           searchFields: ["name"]
           display_fields: ["{{name}}"]
+          default: ""
           valueField: "id"
           required: false
         - label: "Artist - 1pm"
@@ -50,6 +51,7 @@ collections:
           collection: "artist"
           searchFields: ["name"]
           display_fields: ["{{name}}"]
+          default: ""
           valueField: "id"
           required: false
         - label: "Artist - 2pm"
@@ -58,6 +60,7 @@ collections:
           collection: "artist"
           searchFields: ["name"]
           display_fields: ["{{name}}"]
+          default: ""
           valueField: "id"
           required: false
         - label: "Artist - 3pm"
@@ -66,6 +69,7 @@ collections:
           collection: "artist"
           searchFields: ["name"]
           display_fields: ["{{name}}"]
+          default: ""
           valueField: "id"
           required: false
         - label: "Artist - 4pm"
@@ -74,6 +78,7 @@ collections:
           collection: "artist"
           searchFields: ["name"]
           display_fields: ["{{name}}"]
+          default: ""
           valueField: "id"
           required: false
         - label: "Artist - 5pm"
@@ -82,5 +87,6 @@ collections:
           collection: "artist"
           searchFields: ["name"]
           display_fields: ["{{name}}"]
+          default: ""
           valueField: "id"
           required: false
