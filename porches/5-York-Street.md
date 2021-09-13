@@ -11,10 +11,10 @@ street_name: York Street
 lat: "40.3680643"
 email: a@b.com
 artist12: ""
-artist1: null
+artist1: ""
 artist2: ""
 artist3: "0987654321"
-artist4: 12345
+artist4: "12345"
 artist5: ""
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
