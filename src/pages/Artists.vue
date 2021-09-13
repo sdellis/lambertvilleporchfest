@@ -1,15 +1,14 @@
 <template>
   <Layout>
     <div class="container">
-      <Header>Participating Porches</Header>
-      <div v-for="porch in $page.porches.edges" :key="porch.id" class="porch d-flex">
-        <div class="porch__img"
-             :style="{ 'background-image': 'url(' + porch.node.image + ')' }"></div>
-        <div class="porch__body">
-          <g-link :to="porch.node.path" class="porch__link"></g-link>
-          <h1 class="porch__title">{{porch.node.title}}</h1>
-          <em>{{porch.node.house_number}} {{porch.node.street_name}}</em>
-          <p class="porch__abstract">{{porch.node.message}}</p>
+      <Header>Participating Artists</Header>
+      <div v-for="artist in $page.artists.edges" :key="artist.id" class="artist d-flex">
+        <div class="artist__img"
+             :style="{ 'background-image': 'url(' + artist.node.image + ')' }"></div>
+        <div class="artist__body">
+          <g-link :to="artist.node.path" class="artist__link"></g-link>
+          <h1 class="artist__title">{{artist.node.name}}</h1>
+          <em>{{artist.node.bio}}</em>
         </div>
       </div>
     </div>
@@ -17,17 +16,17 @@
 </template>
 <page-query>
 query {
-  porches: allPorches {
+  artists: allArtists {
     edges {
       node {
+        id
         title
+        name
+        bio
         image
-        message
-        host
-        street_name
-        house_number
-        lat
-        lng
+        link
+        venmo
+        paypal
         email
         path
       }
@@ -38,14 +37,14 @@ query {
 <script>
 export default {
   metaInfo: {
-    title: "Porches"
+    title: "Artists"
   },
 
 };
 </script>
 
 <style scoped>
-.porch {
+.artist {
   display: flex;
   align-items: center;
   box-shadow: 5px 5px 11px rgba(0, 0, 0, 0.15);
@@ -55,24 +54,24 @@ export default {
   background-color: #fff;
 }
 @media screen and (max-width: 992px) {
-  .porch {
+  .artist {
     display: block;
   }
 }
-.porch__title {
+.artist__title {
   margin-top: 0;
 }
-.porch__body {
+.artist__body {
   padding: 15px 30px;
 }
-.porch__link {
+.artist__link {
   position: absolute;
   top: 0;
   right: 0;
   left: 0;
   bottom: 0;
 }
-.porch__img {
+.artist__img {
   width: 250px;
   height: 140px;
   background-size: cover;
@@ -81,7 +80,7 @@ export default {
   margin-right: 15px;
 }
 @media screen and (max-width: 992px) {
-  .porch__img {
+  .artist__img {
     width: 100%;
     height: 180px;
   }
