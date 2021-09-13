@@ -27,7 +27,7 @@ query {
         street_name
         house_number
         lat
-        lng
+        long
         email
         path
       }

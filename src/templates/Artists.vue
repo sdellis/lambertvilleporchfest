@@ -46,7 +46,7 @@ query ($path: String!) {
         street_name
         house_number
         lat
-        lng
+        long
         path
         artist12
         artist1

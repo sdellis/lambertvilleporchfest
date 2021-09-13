@@ -34,7 +34,7 @@ query ($path: String!) {
     street_name
     house_number
     lat
-    lng
+    long
     email
     content
     path
