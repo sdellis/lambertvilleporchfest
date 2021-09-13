@@ -72,7 +72,7 @@ export default {
   },
   computed:{
     artist_12(){
-      if (this.$page.porch.artist12 === undefined){
+      if (this.$page.porch.artist12 === undefined || !this.$page.porch.artist12){
         return this.artistTemplate
       } else {
         var id = String(this.$page.porch.artist12)
@@ -80,7 +80,7 @@ export default {
       }
     },
     artist_1(){
-      if (this.$page.porch.artist1 === undefined){
+      if (this.$page.porch.artist1 === undefined || !this.$page.porch.artist1){
         return this.artistTemplate
       } else {
         var id = String(this.$page.porch.artist1)
@@ -88,7 +88,7 @@ export default {
       }
     },
     artist_2(){
-      if (this.$page.porch.artist2 === undefined){
+      if (this.$page.porch.artist2 === undefined || !this.$page.porch.artist2){
         return this.artistTemplate
       } else {
         var id = String(this.$page.porch.artist2)
@@ -96,7 +96,7 @@ export default {
       }
     },
     artist_3(){
-      if (this.$page.porch.artist3 === undefined){
+      if (this.$page.porch.artist3 === undefined || !this.$page.porch.artist3){
         return this.artistTemplate
       } else {
         var id = String(this.$page.porch.artist3)
@@ -104,7 +104,7 @@ export default {
       }
     },
     artist_4(){
-      if (this.$page.porch.artist4 === undefined){
+      if (this.$page.porch.artist4 === undefined || !this.$page.porch.artist4){
         return this.artistTemplate
       } else {
         var id = String(this.$page.porch.artist4)
@@ -112,7 +112,7 @@ export default {
       }
     },
     artist_5(){
-      if (this.$page.porch.artist5 === undefined){
+      if (this.$page.porch.artist5 === undefined || !this.$page.porch.artist5){
         return this.artistTemplate
       } else {
         var id = String(this.$page.porch.artist5)
