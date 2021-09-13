@@ -10,10 +10,10 @@ lat: "40.3680643"
 long: "40.3680643"
 email: mattpigs@gmail.com
 artist12: 12345
-artist1:
-artist2:
+artist1: ""
+artist2: ""
 artist3: "0987654321"
-artist4:
-artist5:
+artist4: ""
+artist5: ""
 ---
 body content

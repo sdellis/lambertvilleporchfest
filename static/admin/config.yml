@@ -13,11 +13,13 @@ collections:
         - {label: "ID", name: "id", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Name", name: "name", widget: "string"}
-        - {label: "Bio", name: "bio", widget: "markdown"}
+        - {label: "Short Bio / Tagline", name: "bio", widget: "markdown"}
         - {label: "Image", name: "image", widget: "image"}
         - {label: "Link", name: "link", widget: "string"}
         - {label: "Time", name: "time", widget: "datetime"}
         - {label: "Contact Email", name: "email", widget: "string"}
+        - {label: "Venmo", name: "venmo", widget: "string"}
+        - {label: "PayPal", name: "paypal", widget: "string"}
 
     - name: "porches"
       label: "Porches"
