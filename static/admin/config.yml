@@ -13,13 +13,13 @@ collections:
         - {label: "ID", name: "id", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Name", name: "name", widget: "string"}
-        - {label: "Short Bio / Tagline", name: "bio", widget: "markdown"}
-        - {label: "Image", name: "image", widget: "image"}
-        - {label: "Link", name: "link", widget: "string"}
+        - {label: "Short Bio / Tagline", name: "bio", widget: "markdown", default: "", required: false}
+        - {label: "Image", name: "image", widget: "image", required: false}
+        - {label: "Link", name: "link", widget: "string", default: "", required: false}
         - {label: "Time", name: "time", widget: "datetime"}
-        - {label: "Contact Email", name: "email", widget: "string"}
-        - {label: "Venmo", name: "venmo", widget: "string"}
-        - {label: "PayPal", name: "paypal", widget: "string"}
+        - {label: "Contact Email", name: "email", widget: "string", default: "", required: false}
+        - {label: "Venmo", name: "venmo", widget: "string", default: "???", required: false}
+        - {label: "PayPal", name: "paypal", widget: "string", default: "???", required: false}
 
     - name: "porches"
       label: "Porches"
@@ -29,15 +29,15 @@ collections:
       fields:
         - {label: "ID", name: "id", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
-        - {label: "Your message to Porchfest attendees", name: "message", widget: "text", required: false}
-        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Your message to Porchfest attendees", name: "message", widget: "text", default: "", required: false}
+        - {label: "Image", name: "image", widget: "image", required: false}
         - {label: "Host Name", name: "host", widget: "string"}
         - {label: "House Number", name: "house_number", widget: "string"}
         - {label: "Street Name", name: "street_name", widget: "string"}
-        - {label: "Latitude", name: "lat", widget: "string", comment: "Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.", required: false}
-        - {label: "Longitude", name: "long", widget: "string", comment: "Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.", required: false}
+        - {label: "Latitude", name: "lat", widget: "string", default: "", comment: "Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.", required: false}
+        - {label: "Longitude", name: "long", widget: "string", default: "", comment: "Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.", required: false}
         - {label: "Host Contact Email", name: "email", widget: "string"}
-        - {label: "Anything attendees need to know about your porch...", name: "body", widget: "markdown", comment: "You do NOT need to list the artists here."}
+        - {label: "Anything attendees need to know about your porch...", name: "body", widget: "markdown", comment: "You do NOT need to list the artists here.", default: "", required: false}
         - label: "Artist - Noon"
           name: "artist12"
           widget: "relation"
