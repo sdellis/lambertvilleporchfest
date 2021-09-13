@@ -7,6 +7,8 @@ host: Lillie Chen
 house_number: "17"
 street_name: Clinton Street
 email: Lillie4334@yahoo.com
+lat: ""
+long: ""
 artist12: ""
 artist1: "1231"
 artist2: ""
