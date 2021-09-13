@@ -39,7 +39,11 @@ query ($path: String!) {
     content
     path
     artist12
+    artist1
+    artist2
     artist3
+    artist4
+    artist5
   }
   artists: allArtists {
     edges {
