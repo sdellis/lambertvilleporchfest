@@ -1,4 +1,8 @@
 <template>
+  <div class="wrapper">
+  <banner>
+    <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Porchfest merchandise is now available for pre-order! 👕</a></p>
+  </banner>
   <div class="layout">
     <header class="header">
       <div :class="{open: menuOpen}">
@@ -22,6 +26,7 @@
     </header>
     <slot/>
   </div>
+  </div>
 </template>
 
 <static-query>
@@ -33,7 +38,11 @@ query {
 </static-query>
 
 <script>
+import Banner from "../components/Banner";
 export default {
+  components: {
+    Banner,
+  },
   data() {
     return {
       menuOpen: false,
@@ -195,6 +204,10 @@ img {
     z-index: 100;
     padding-left: 20px;
     padding-right: 20px;
+  }
+  header > div.open {
+    transform: translateY(-80px);
+    transition: all 500ms ease;
   }
   header > div.open strong a {
     color: white;
