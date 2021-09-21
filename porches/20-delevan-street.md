@@ -12,9 +12,9 @@ lat: ""
 long: ""
 email: Wmbbeyer@gmail.com
 artist12: f000g88888s222
-artist1: ""
+artist1: 09dddd0dd999d9eeeenbbbb
 artist2: 0000022999399d9id9
-artist3: ""
+artist3: 09dddd0dd999d9eeeenbbbb
 artist4: 08089797773333jdjj2
 artist5: ""
 ---
