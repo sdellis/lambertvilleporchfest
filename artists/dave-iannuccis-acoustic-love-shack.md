@@ -1,7 +1,7 @@
 ---
 id: loveshack
-title: Dave Iannucci's Acoustic Love Shack
-name: Dave Iannucci's Acoustic Love Shack
+title: Dave Iannucci
+name: Dave Iannucci
 bio: "Public Defender by day, musician by night, Dave has had a unique way of
   passing time during the pandemic: he has been posting songs up on facebook
   every day since March 27,2020. He's up to well over 245 songs now. Dave also
