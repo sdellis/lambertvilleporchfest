@@ -6,9 +6,9 @@ host: Bill Kershaw
 house_number: "99"
 street_name: Clinton Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.371822"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.947791"
 email: 99billkershaw@gmail.com
 artist12: ""
 artist1: ""
