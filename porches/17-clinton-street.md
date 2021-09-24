@@ -6,12 +6,14 @@ image: /uploads/laurie_vosberg.jpg
 host: Lillie Chen
 house_number: "17"
 street_name: Clinton Street
-email: Lillie4334@yahoo.com
+# Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 lat: ""
+# Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: ""
+email: Lillie4334@yahoo.com
 artist12: ""
 artist1: "1231"
-artist2: ""
+artist2: jbk23393999dd999dla
 artist3: ""
 artist4: ""
 artist5: ""
