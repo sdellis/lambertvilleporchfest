@@ -1,14 +1,13 @@
 <template>
   <div class="banner">
     <div class="announcement" role="alert">
-        <slot>{{ bannerMessage }}</slot>
+        <slot></slot>
       </wrapper>
     </div>
   </div>
 </template>
 
 <script>
-
 export default {
 
 };

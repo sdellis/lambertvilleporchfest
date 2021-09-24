@@ -1,6 +1,7 @@
 <template>
   <Layout>
     <Header>Schedule</Header>
+    <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Porchfest merchandise is now available for pre-order! 👕</a></p>
     <!-- <p>Rest rooms are available in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
 12 N. Union Street</a>, <a href="https://www.google.com/maps/place/25+S+Union+St,+Lambertville,+NJ+08530"> the Justice Center (ACME building) on S. Union Street</a>, and <a href="http://maps.google.com/maps?q=3+Station+Ct,+Lambertville,+NJ+08530">
 3 Station Ct</a>, or by patronizing one of our local restaurants. Porch hosts are not obligated to provide rest rooms.</p> -->

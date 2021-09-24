@@ -2,6 +2,7 @@
   <Layout>
     <div class="container">
       <Header>Participating Artists</Header>
+      <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Porchfest merchandise is now available for pre-order! 👕</a></p>
       <div v-for="artist in $page.artists.edges" :key="artist.id" class="artist d-flex">
         <div class="artist__img"
              :style="{ 'background-image': 'url(' + artist.node.image + ')' }"></div>

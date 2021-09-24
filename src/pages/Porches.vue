@@ -2,6 +2,7 @@
   <Layout>
     <div class="container">
       <Header>Participating Porches</Header>
+      <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Porchfest merchandise is now available for pre-order! 👕</a></p>
       <div v-for="porch in $page.porches.edges" :key="porch.id" class="porch d-flex">
         <div class="porch__img"
              :style="{ 'background-image': 'url(' + porch.node.image + ')' }"></div>

@@ -10,7 +10,9 @@
       A do-it-yourself music festival featuring free shows on porches all over
       downtown Lambertville.<br>Anyone can host or play a show!
     </p>
-    <p class="credit"><em>If you like the Lambertville Porchfest poster art, please consider dropping a tip to Anabel Bouza via Venmo: @Anabel-Bouza</em></p>
+    <p class="credit"><em>If you like the Lambertville Porchfest poster art,
+      please consider dropping a tip to Anabel Bouza via Venmo: @Anabel-Bouza or purchase
+      Lambertville Porchfest 2021 merchandise at <a href="https://logowearhouse.shop/lambertville_porchfest/">the online shop 👕</a></em></p>
   </div>
   </Layout>
 </template>

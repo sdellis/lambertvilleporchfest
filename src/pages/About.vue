@@ -17,12 +17,19 @@
         Porchfests have sprung up in over 100 other US and Canadian cities,
         including San Francisco, Cleveland, Tucson, Philadelphia, Montréal and Ottawa.
 
-        <p>This is the first Lambertville Porchfest, so it's up to us to make history!
+        <p>This is the second Lambertville Porchfest, so it's up to us to make history happen again!
           We have no doubt that it will bring neighbors together, give
           local artists a platform to share their music, and help support Lambertville's
           downtown restaurants and businesses -- all while being mindful of safety
           guidelines necessary to stop the spread of COVID-19.
           </p>
+
+      <h2>Artwork</h2>
+      <p>Each year a local artist contributes an annual Porchfest design. Our artwork this year
+        was created by Anabel Bouza, and is a modern take on a treasure map that attendees can
+        use to locate all the musical treasures and landmarks around town. You can support Anabel
+        (who lost her job at Rojo's due to Ida) and get yourself some great Lambertville Porchfest 2021 merchandise at
+        <a href="https://logowearhouse.shop/lambertville_porchfest/">the online shop 👕</a></p>.
   </Layout>
 </template>
 

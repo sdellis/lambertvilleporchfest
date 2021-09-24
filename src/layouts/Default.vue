@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
   <banner>
-    <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Porchfest merchandise is now available for pre-order! 👕</a></p>
+    <p><g-link to="/ida/">Donate to our Ida Recovery Fund! 🚑</g-link></p>
   </banner>
   <div class="layout">
     <header class="header">
