@@ -27,7 +27,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'About us'
+    title: 'Ida Recovery Fund'
   },
   methods : {
     btnClick: function(event) {

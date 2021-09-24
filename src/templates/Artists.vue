@@ -21,7 +21,7 @@
           <li>4pm-5pm: <a :href="porch_4.node.path" v-if="porch_4.node.path.length > 0">{{porch_4.node.title}} ({{porch_4.node.house_number}} {{porch_4.node.street_name}})</a></li>
           <li>5pm-6pm: <a :href="porch_5.node.path" v-if="porch_5.node.path.length > 0">{{porch_5.node.title}} ({{porch_5.node.house_number}} {{porch_5.node.street_name}})</a></li>
         </ul>
-        <small><em>Artists! If this is you, and you want to update your information, email PorchfestLambertville@gmail.com with any updates.</em></small>
+        <small><em>Artists! If this is you, and you want to update your information, email LambertvillePorchfest@gmail.com with any updates.</em></small>
       </div>
     </div>
   </Layout>
