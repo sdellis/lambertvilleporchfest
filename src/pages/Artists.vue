@@ -79,9 +79,19 @@ export default {
 }
 .artist__title {
   margin-top: 0;
+  font-family: 'Caveat', cursive;
+  font-weight: 400;
 }
 .artist__body {
   padding: 15px 30px;
+}
+em {
+    display: block;
+  width: 300px;
+  height: 100px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 .artist__link {
   position: absolute;
