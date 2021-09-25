@@ -10,10 +10,10 @@ lat: ""
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: ""
 email: allison.m.brown@comcast.net
-artist12: ""
-artist1: ""
-artist2: ""
-artist3: ""
-artist4: ""
-artist5: ""
+artist12: 000030-4403994ei87348
+artist1: 000030-4403994ei87348
+artist2: 000s0288881yhhwu8ujmmmmduu
+artist3: 000s0288881yhhwu8ujmmmmduu
+artist4: 000s0288881yhhwu8ujmmmmduu
+artist5: 000s0288881yhhwu8ujmmmmduu
 ---
