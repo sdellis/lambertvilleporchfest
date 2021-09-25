@@ -11,9 +11,9 @@ lat: ""
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: ""
 email: bakedbytheriver@gmail.com
-artist12: ""
-artist1: ""
-artist2: ""
+artist12: 209808-93903820
+artist1: 0929229909ff99090f90ej
+artist2: 09876ft5677t54essse44
 artist3: ""
 artist4: ""
 artist5: ""
