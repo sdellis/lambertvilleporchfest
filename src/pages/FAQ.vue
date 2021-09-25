@@ -164,5 +164,8 @@ export default {
 <style scoped>
 h2 {
   margin-top: 42px;
+  font-family: 'Caveat', cursive;
+  font-size: 28px;
+  text-transform: capitalize;
 }
 </style>

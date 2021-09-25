@@ -4,8 +4,9 @@
       <Header>Participating Porches</Header>
       <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Porchfest merchandise is now available for pre-order! 👕</a></p>
       <div v-for="porch in $page.porches.edges" :key="porch.id" class="porch d-flex">
-        <div class="porch__img"
+        <div class="porch__img" v-if="porch.node.image"
              :style="{ 'background-image': 'url(' + porch.node.image + ')' }"></div>
+        <div class="porch__img placeholder"  v-else><p>No image available</p></div>
         <div class="porch__body">
           <g-link :to="porch.node.path" class="porch__link"></g-link>
           <h1 class="porch__title">{{porch.node.title}}</h1>
@@ -49,19 +50,43 @@ export default {
 .porch {
   display: flex;
   align-items: center;
-  box-shadow: 5px 5px 11px rgba(0, 0, 0, 0.15);
+  box-shadow: 
+      0 0px 1px hsl(0deg 0% 0% / 0.1),
+      0 1px 2px hsl(0deg 0% 0% / 0.1),
+      0 2px 4px hsl(0deg 0% 0% / 0.1),
+      0 4px 8px hsl(0deg 0% 0% / 0.1),
+      0 8px 16px hsl(0deg 0% 0% / 0.1);
   border-radius: 8px;
   position: relative;
   margin-top: 50px;
   background-color: #fff;
+  padding: 1rem;
+  transition: background-color 250ms ease, transform 250ms ease, box-shadow 250ms ease;
+}
+.porch:hover {
+  background-color: var(--light-blue);
+  box-shadow: 
+      0 2px 1px hsl(0deg 0% 0% / 0.1),
+      0 4px 2px hsl(0deg 0% 0% / 0.1),
+      0 8px 4px hsl(0deg 0% 0% / 0.1),
+      0 16px 8px hsl(0deg 0% 0% / 0.1),
+      0 32px 16px hsl(0deg 0% 0% / 0.1);
+  transform: scale(1.05);
 }
 @media screen and (max-width: 992px) {
   .porch {
     display: block;
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+  .porch:hover {
+    transform: scale(1);
   }
 }
 .porch__title {
   margin-top: 0;
+  font-family: 'Caveat', cursive;
+  font-weight: 400;
 }
 .porch__body {
   padding: 15px 30px;
@@ -80,6 +105,15 @@ export default {
   background-position: center;
   border-radius: 8px;
   margin-right: 15px;
+}
+.porch__img.placeholder {
+  background: rgba(0,0,0,0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.porch__abstract {
+  margin: 0;
 }
 @media screen and (max-width: 992px) {
   .porch__img {
