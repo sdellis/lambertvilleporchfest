@@ -7,13 +7,13 @@
       <div class="container container--artist">
         <a href="" @click="$router.go(-1)" class="back"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-left" class="svg-inline--fa fa-arrow-left fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"></path></svg>Back</a>
         <h1 class="artistPage__title">{{$page.artist.name}}</h1>
-        <a href="$page.artist.link" class="slogan">{{$page.artist.link}}</a>
-        <p>Bio: {{$page.artist.bio}}</p>
+        <a :href="$page.artist.link" class="slogan">{{$page.artist.link}}</a>
+        <p>{{$page.artist.bio}}</p>
         <div v-html="$page.artist.content">
           {{$page.artist.content}}
         </div>
         <p>Venmo: <span v-if="$page.artist.venmo.length > 0">{{$page.artist.venmo}}</span><span v-else>???</span> | PayPal: <span v-if="$page.artist.paypal.length > 0">{{$page.artist.paypal}}</span><span v-else>???</span></p>
-        <h2>Playing at the following porches:</h2>
+        <h2>{{$page.artist.name}} is playing at the following porches:</h2>
         <ul>
           <li v-if="porch_12.node.path.length > 0">Noon-1pm: <a :href="porch_12.node.path" v-if="porch_12.node.path.length > 0">{{porch_12.node.title}} ({{porch_12.node.house_number}} {{porch_12.node.street_name}})</a></li>
           <li v-if="porch_1.node.path.length > 0">1pm-2pm: <a :href="porch_1.node.path" v-if="porch_1.node.path.length > 0">{{porch_1.node.title}} ({{porch_1.node.house_number}} {{porch_1.node.street_name}})</a></li>
