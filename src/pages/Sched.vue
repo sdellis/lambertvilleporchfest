@@ -5,14 +5,48 @@
     <!-- <p>Rest rooms are available in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
 12 N. Union Street</a>, <a href="https://www.google.com/maps/place/25+S+Union+St,+Lambertville,+NJ+08530"> the Justice Center (ACME building) on S. Union Street</a>, and <a href="http://maps.google.com/maps?q=3+Station+Ct,+Lambertville,+NJ+08530">
 3 Station Ct</a>, or by patronizing one of our local restaurants. Porch hosts are not obligated to provide rest rooms.</p> -->
-
-    <p class="stay-tuned">Stay tuned for the Porchfest schedule coming soon!</p>
     <h1>Noon</h1>
     <div v-for="artist in artists_12" :key="artist.id" class="porch d-flex">
       <h2>{{ artist.name }}</h2>
       <p>{{ artist.bio }}</p>
-      <a href="">Go to porch</a>
+      <p><a :href="artist.porchPath">Go to porch</a></p>
     </div>
+    <h1>1pm</h1>
+    <div v-for="artist in artists_1" :key="artist.id" class="porch d-flex">
+      <h2>{{ artist.name }}</h2>
+      <p>{{ artist.bio }}</p>
+      <p><a :href="artist.porchPath">Go to porch</a></p>
+    </div>
+    <h1>2pm</h1>
+    <div v-for="artist in artists_2" :key="artist.id" class="porch d-flex">
+      <h2>{{ artist.name }}</h2>
+      <p>{{ artist.bio }}</p>
+      <p><a :href="artist.porchPath">Go to porch</a></p>
+    </div>
+    <h1>3pm</h1>
+    <div v-for="artist in artists_3" :key="artist.id" class="porch d-flex">
+      <h2>{{ artist.name }}</h2>
+      <p>{{ artist.bio }}</p>
+      <p><a :href="artist.porchPath">Go to porch</a></p>
+    </div>
+    <h1>4pm</h1>
+    <div v-for="artist in artists_4" :key="artist.id" class="porch d-flex">
+      <h2>{{ artist.name }}</h2>
+      <p>{{ artist.bio }}</p>
+      <p><a :href="artist.porchPath">Go to porch</a></p>
+    </div>
+    <h1>5pm</h1>
+    <div v-for="artist in artists_5" :key="artist.id" class="porch d-flex">
+      <h2>{{ artist.name }}</h2>
+      <p>{{ artist.bio }}</p>
+      <p><a :href="artist.porchPath">Go to porch</a></p>
+    </div>
+    <h1>6pm-9pm</h1>
+
+      <h2>Elks Lodge Open Mic</h2>
+      <p>The Elks will keep the party going with their monthly open mic (every first Saturday!)</p>
+      <h2>City Wide Dance Party</h2>
+      <p>Parks &amp; Rec has sponsored a dance party at Ely Park with local djs and roller skating on the basketball court (byo-skates).</p>
 
   </Layout>
 </template>
@@ -68,17 +102,84 @@ export default {
 
         } else {
           var id = String(porch.node.artist12)
-          as12.push(id)
+          as12.push({id: id, porchPath: porch.node.path})
         }
       })
       const artistsNoon = as12.map(x => this.findArtist(x))
       return artistsNoon
     },
+    artists_1(){
+      var as1 = []
+      this.$page.porches.edges.forEach(function(porch){
+        if(porch.node.artist1 === undefined || !porch.node.artist1){
+
+        } else {
+          var id = String(porch.node.artist1)
+          as1.push({id: id, porchPath: porch.node.path})
+        }
+      })
+      const artistsOne = as1.map(x => this.findArtist(x))
+      return artistsOne
+    },
+    artists_2(){
+      var as2 = []
+      this.$page.porches.edges.forEach(function(porch){
+        if(porch.node.artist2 === undefined || !porch.node.artist2){
+
+        } else {
+          var id = String(porch.node.artist2)
+          as2.push({id: id, porchPath: porch.node.path})
+        }
+      })
+      const artistsTwo = as2.map(x => this.findArtist(x))
+      return artistsTwo
+    },
+    artists_3(){
+      var as3 = []
+      this.$page.porches.edges.forEach(function(porch){
+        if(porch.node.artist3 === undefined || !porch.node.artist3){
+
+        } else {
+          var id = String(porch.node.artist3)
+          as3.push({id: id, porchPath: porch.node.path})
+        }
+      })
+      const artistsThree = as3.map(x => this.findArtist(x))
+      return artistsThree
+    },
+    artists_4(){
+      var as4 = []
+      this.$page.porches.edges.forEach(function(porch){
+        if(porch.node.artist4 === undefined || !porch.node.artist4){
+
+        } else {
+          var id = String(porch.node.artist4)
+          as4.push({id: id, porchPath: porch.node.path})
+        }
+      })
+      const artistsFour = as4.map(x => this.findArtist(x))
+      return artistsFour
+    },
+    artists_5(){
+      var as5 = []
+      this.$page.porches.edges.forEach(function(porch){
+        if(porch.node.artist5 === undefined || !porch.node.artist5){
+
+        } else {
+          var id = String(porch.node.artist5)
+          as5.push({id: id, porchPath: porch.node.path})
+        }
+      })
+      const artistsFive = as5.map(x => this.findArtist(x))
+      return artistsFive
+    },
   },
   methods: {
-    findArtist: function(id) {
-      var id = String(id)
-      return this.$page.artists.edges.find(x => x.node.id === id).node
+    findArtist: function(artist) {
+      var id = String(artist.id)
+      var a = this.$page.artists.edges.find(x => x.node.id === artist.id).node
+      a.porchPath = artist.porchPath
+      return a
     },
   }
 }
