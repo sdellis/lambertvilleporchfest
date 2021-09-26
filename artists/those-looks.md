@@ -7,6 +7,6 @@ image: /uploads/trucksluts-1-.jpg
 link: https://thoselooks.bandcamp.com/
 time: 2021-09-20T23:48:38.032Z
 email: thoselooksnj@gmail.com
-venmo: ???
-paypal: ???
+venmo: "@thoselooksnj"
+paypal: N/A
 ---
