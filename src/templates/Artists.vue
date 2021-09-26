@@ -155,7 +155,7 @@ ul li {
   border-radius: 8px;
   padding: 30px 60px;
   margin-bottom: 100px;
-  box-shadow: 
+  box-shadow:
     0 2px 1px hsl(0deg 0% 0% / 0.1),
     0 4px 2px hsl(0deg 0% 0% / 0.1),
     0 8px 4px hsl(0deg 0% 0% / 0.1),
@@ -169,7 +169,7 @@ ul li {
 }
 .artistPage__img {
   width: 100%;
-  height: 400px;
+  height: 600px;
   background-size: cover;
   background-position: center;
   border-radius: 8px 8px 0px 0px;
