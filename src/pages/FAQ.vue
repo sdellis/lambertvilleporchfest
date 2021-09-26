@@ -164,7 +164,7 @@ export default {
 <style scoped>
 h2 {
   margin-top: 42px;
-  font-family: 'Caveat', cursive;
+  font-family: 'Forum', cursive;
   font-size: 28px;
   text-transform: capitalize;
 }

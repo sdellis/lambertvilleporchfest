@@ -13,7 +13,7 @@ export default {
    /* background-color: var(--bg); */
    /* color: white; */
    padding: 0.5rem;
-   font-family: 'Caveat', cursive;
+   font-family: 'Forum', cursive;
    letter-spacing: 2px;
    font-weight: 700;
    /* border-left: 3px solid var(--gold); */

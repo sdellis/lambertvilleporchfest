@@ -134,7 +134,7 @@ export default {
 </script>
 <style scoped>
 h1 {
-  font-family: 'Caveat', cursive;
+  font-family: 'Forum', cursive;
   font-size: 40px;
 }
 h2 {

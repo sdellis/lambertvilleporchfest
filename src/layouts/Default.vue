@@ -80,7 +80,7 @@ body {
   line-height: 1.5;
   /* background: var(--bg); */
   background: white;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-weight: 500;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -106,7 +106,7 @@ header h1 {
   text-transform: uppercase;
   font-size: 38px;
   font-weight: 700;
-  font-family: 'Caveat', cursive;
+  font-family: 'Forum', cursive;
 }
 header h1 a {
   text-decoration: none;
@@ -128,7 +128,7 @@ nav.nav .nav__link {
   font-weight: 400;
   display: inline-block;
   transition: all 200ms ease;
-  font-family: 'Caveat', cursive;
+  font-family: 'Forum', cursive;
 }
 nav.nav .nav__link span {
   width: 100%;

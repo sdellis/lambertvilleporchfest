@@ -85,7 +85,7 @@ export default {
 }
 .porch__title {
   margin-top: 0;
-  font-family: 'Caveat', cursive;
+  font-family: 'Forum', cursive;
   font-weight: 400;
 }
 .porch__body {
