@@ -10,17 +10,18 @@ export default {
 
 <style scoped>
  h1.title {
-   background-color: var(--bg);
+   /* background-color: var(--bg); */
    /* color: white; */
    padding: 0.5rem;
+   font-family: 'Open Sans', sans-serif;
    letter-spacing: 2px;
-   font-weight: 500;
+   font-weight: 700;
    /* border-left: 3px solid var(--gold); */
-   border-bottom: 4px solid var(--light-blue);
+   border-bottom: 2px solid var(--light-blue);
    text-transform: none;
    padding-left: 3.2rem;
    margin-top: 2.8rem;
- } 
+ }
  @media (max-width: 700px) {
   h1.title {
     padding-left: 1rem;

@@ -6,9 +6,9 @@
   <div class="layout">
     <header class="header">
       <div :class="{open: menuOpen}">
-        <strong>
+        <h1>
           <g-link to="/">Lambertville Porchfest</g-link>
-        </strong>
+        </h1>
         <button class="burger" :class="{open: menuOpen}" @click="handleOpen">
           <div class="line line-1"></div>
           <div class="line line-2"></div>
@@ -70,7 +70,7 @@ export default {
   --dark-gold: #7e671d;
   --gold: #AE9030;
   --light-gold: #ceb974;
-  --light-blue: #a7aee6;
+  --light-blue: #d7dbf6;
   --bg: #d7dbf5;
 }
 body {
@@ -80,7 +80,7 @@ body {
   line-height: 1.5;
   /* background: var(--bg); */
   background: white;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-weight: 500;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -89,21 +89,26 @@ h1,h2,h3,h4,h5,h6 {
 }
 p {
   font-size: 18px;
+  margin-left: 24px;
+  margin-right: 24px;
 }
 h2 {
+  margin-left: 24px;
+  margin-right: 24px;
   border-bottom: 1px solid var(--gold);
 }
 header {
   padding-top: 32px;
 }
-header strong {
+header h1 {
   display: block;
   width: 100%;
   text-transform: uppercase;
   font-size: 38px;
-  font-weight: 500;
+  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
 }
-header strong a {
+header h1 a {
   text-decoration: none;
   color: var(--text);
   transition: color 1000ms ease;
@@ -116,12 +121,14 @@ nav.nav {
   margin-top: 10px;
 }
 nav.nav .nav__link {
-  font-size: 20px;
+  font-size: 24px;
   color: var(--text);
   text-decoration: none;
   position: relative;
+  font-weight: 400;
   display: inline-block;
   transition: all 200ms ease;
+  font-family: 'Open Sans', sans-serif;
 }
 nav.nav .nav__link span {
   width: 100%;
@@ -254,12 +261,12 @@ img {
   }
 }
 @media (max-width: 594px) {
-  header strong {
+  header h1 {
     font-size: 26px;
   }
 }
 @media (max-width: 472px) {
-  header strong {
+  header h1 {
     font-size: 22px;
   }
 }
