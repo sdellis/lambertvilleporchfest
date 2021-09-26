@@ -7,37 +7,37 @@
 3 Station Ct</a>, or by patronizing one of our local restaurants. Porch hosts are not obligated to provide rest rooms.</p> -->
     <h1>Noon</h1>
     <div v-for="artist in artists_12" :key="artist.id" class="porch d-flex">
-      <h2>{{ artist.name }}</h2>
+      <h2><a :href="artist.path">{{ artist.name }}</a></h2>
       <p>{{ artist.bio }}</p>
       <p><a :href="artist.porchPath">Go to porch</a></p>
     </div>
     <h1>1pm</h1>
     <div v-for="artist in artists_1" :key="artist.id" class="porch d-flex">
-      <h2>{{ artist.name }}</h2>
+      <h2><a :href="artist.path">{{ artist.name }}</a></h2>
       <p>{{ artist.bio }}</p>
       <p><a :href="artist.porchPath">Go to porch</a></p>
     </div>
     <h1>2pm</h1>
     <div v-for="artist in artists_2" :key="artist.id" class="porch d-flex">
-      <h2>{{ artist.name }}</h2>
+      <h2><a :href="artist.path">{{ artist.name }}</a></h2>
       <p>{{ artist.bio }}</p>
       <p><a :href="artist.porchPath">Go to porch</a></p>
     </div>
     <h1>3pm</h1>
     <div v-for="artist in artists_3" :key="artist.id" class="porch d-flex">
-      <h2>{{ artist.name }}</h2>
+      <h2><a :href="artist.path">{{ artist.name }}</a></h2>
       <p>{{ artist.bio }}</p>
       <p><a :href="artist.porchPath">Go to porch</a></p>
     </div>
     <h1>4pm</h1>
     <div v-for="artist in artists_4" :key="artist.id" class="porch d-flex">
-      <h2>{{ artist.name }}</h2>
+      <h2><a :href="artist.path">{{ artist.name }}</a></h2>
       <p>{{ artist.bio }}</p>
       <p><a :href="artist.porchPath">Go to porch</a></p>
     </div>
     <h1>5pm</h1>
     <div v-for="artist in artists_5" :key="artist.id" class="porch d-flex">
-      <h2>{{ artist.name }}</h2>
+      <h2><a :href="artist.path">{{ artist.name }}</a></h2>
       <p>{{ artist.bio }}</p>
       <p><a :href="artist.porchPath">Go to porch</a></p>
     </div>
