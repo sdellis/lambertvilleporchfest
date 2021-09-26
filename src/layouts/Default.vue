@@ -106,7 +106,7 @@ header h1 {
   text-transform: uppercase;
   font-size: 38px;
   font-weight: 700;
-  font-family: 'Forum', cursive;
+  font-family: 'Open Sans', sans-serif;
 }
 header h1 a {
   text-decoration: none;
@@ -128,7 +128,7 @@ nav.nav .nav__link {
   font-weight: 400;
   display: inline-block;
   transition: all 200ms ease;
-  font-family: 'Forum', cursive;
+  font-family: 'Open Sans', sans-serif;
 }
 nav.nav .nav__link span {
   width: 100%;

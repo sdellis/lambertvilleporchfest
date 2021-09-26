@@ -79,7 +79,7 @@ export default {
 }
 .artist__title {
   margin-top: 0;
-  font-family: 'Forum', cursive;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
 }
 .artist__body {
