@@ -1,8 +1,10 @@
 ---
 id: wwe232243567676etge
-title: The Godzilla Blues band
-name: The Godzilla Blues band
-bio: ""
+title: The Godzilla Blues Band
+name: The Godzilla Blues Band
+bio: The Godzilla Blues band is the creation of Mike Smull, a studied and
+  accomplished guitar player and writer. The songs are all original and rocking
+  in nature.  Mike will be backed up by the EarthWorks band of guitar players.
 link: ""
 time: 2021-09-21T00:50:27.920Z
 email: ""
