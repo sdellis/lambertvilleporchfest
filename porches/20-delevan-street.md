@@ -7,9 +7,9 @@ host: William Beyer
 house_number: "20"
 street_name: Delevan Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.36921"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.946196"
 email: Wmbbeyer@gmail.com
 artist12: f000g88888s222
 artist1: 09dddd0dd999d9eeeenbbbb
