@@ -7,9 +7,9 @@ host: Jesse Marie
 house_number: "13"
 street_name: Lambert Lane
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.365685"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.946988"
 email: bakedbytheriver@gmail.com
 artist12: 209808-93903820
 artist1: 0929229909ff99090f90ej
