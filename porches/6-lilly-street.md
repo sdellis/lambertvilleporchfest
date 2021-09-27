@@ -7,9 +7,9 @@ host: Trina Bardusco
 house_number: "6"
 street_name: Lilly Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.365701"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.942295"
 email: barduscotrina@gmail.com
 artist12: ""
 artist1: ""
