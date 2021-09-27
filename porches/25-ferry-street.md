@@ -6,9 +6,9 @@ host: Michael Menche
 house_number: "25"
 street_name: Ferry Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.364983"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.944373"
 email: mike@michaelmenche.com
 artist12: ""
 artist1: dftr900000033333ee3337663
