@@ -6,9 +6,9 @@ host: Chris Ingram
 house_number: "28"
 street_name: Coryell Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.367508"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.945269"
 email: cmi147@gmail.com
 artist12: ""
 artist1: ""
