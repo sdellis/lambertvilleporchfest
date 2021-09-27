@@ -6,9 +6,9 @@ host: Barry Middleberg
 house_number: "272"
 street_name: Holcolme Way
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.380008"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.945149"
 email: bmiddleberg@gmail.com
 artist12: ""
 artist1: ""
