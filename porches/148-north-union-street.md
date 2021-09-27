@@ -7,9 +7,9 @@ host: Alex Palilonis
 house_number: "148"
 street_name: North Union Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.371778"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.946613"
 email: alexp@softhome.net
 artist12: ""
 artist1: 32r34thduuujjje
