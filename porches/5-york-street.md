@@ -7,9 +7,9 @@ host: Russel Genna
 house_number: "5"
 street_name: York Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.367968"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.946402"
 email: rgenna@gmail.com
 artist12: loveshack
 artist1: 03809324098345GGGG3
