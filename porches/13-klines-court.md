@@ -6,9 +6,9 @@ host: Todd Alan Ellis
 house_number: "13"
 street_name: Kline's Court
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.365154"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.945217"
 email: " info@morethanq.com"
 artist12: ""
 artist1: ""
