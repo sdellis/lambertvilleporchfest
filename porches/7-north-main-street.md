@@ -7,9 +7,9 @@ host: Bronwyn Bird
 house_number: "7"
 street_name: North Main Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.366546"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.943231"
 email: birdhousecenter@gmail.com
 artist12: ""
 artist1: ""
