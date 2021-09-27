@@ -7,9 +7,9 @@ host: Sue Dumas
 house_number: "138"
 street_name: North Union Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.37146"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.946615"
 email: dumassue@hotmail.com
 artist12: ""
 artist1: ""
