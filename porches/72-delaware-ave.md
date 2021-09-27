@@ -7,9 +7,9 @@ host: Joel Simmons
 house_number: "72"
 street_name: Delaware Ave
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.371487"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.944647"
 email: joel@soilfirst.com
 artist12: a33949949303kelk3
 artist1: a33949949303kelk3
