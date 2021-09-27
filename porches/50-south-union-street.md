@@ -7,9 +7,9 @@ host: Luis Sosa
 house_number: "50"
 street_name: South Union Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.363604"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.943955"
 email: sosacorp@gmail.com
 artist12: ""
 artist1: ""
