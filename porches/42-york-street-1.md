@@ -9,9 +9,9 @@ host: Jim Johnson
 house_number: "42"
 street_name: York Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.368797"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.944487"
 email: Johnsonj121023@gmail.com
 artist12: ""
 artist1: dfodooc00088y98y8ys
