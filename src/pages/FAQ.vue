@@ -5,7 +5,7 @@
     <!-- <g-image alt="Lambertville Porchfest, October 3, 2020, 12-6pm" src="~/porchfest-type.png" width="400" /> -->
   </div>
     <Header>Frequently Asked Questions</Header>
-    <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Porchfest merchandise is now available for pre-order! 👕</a></p>
+    <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Merchandise pre-order is closed! Taking new orders at Ely Park on Oct 2nd.👕</a></p>
 
     <h2>What is Lambertville Porchfest?</h2>
     <p>Lambertville Porchfest is a do-it-yourself community music festival.

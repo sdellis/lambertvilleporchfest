@@ -2,7 +2,7 @@
   <Layout>
     <div class="container">
       <Header>Participating Porches</Header>
-      <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Porchfest merchandise is now available for pre-order! 👕</a></p>
+      <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Merchandise pre-order is closed! Taking new orders at Ely Park on Oct 2nd.👕</a></p>
       <div v-for="porch in $page.porches.edges" :key="porch.id" class="porch d-flex">
         <div class="porch__img" v-if="porch.node.image"
              :style="{ 'background-image': 'url(' + porch.node.image + ')' }"></div>
@@ -50,7 +50,7 @@ export default {
 .porch {
   display: flex;
   align-items: center;
-  box-shadow: 
+  box-shadow:
       0 0px 1px hsl(0deg 0% 0% / 0.1),
       0 1px 2px hsl(0deg 0% 0% / 0.1),
       0 2px 4px hsl(0deg 0% 0% / 0.1),
@@ -65,7 +65,7 @@ export default {
 }
 .porch:hover {
   background-color: var(--light-blue);
-  box-shadow: 
+  box-shadow:
       0 2px 1px hsl(0deg 0% 0% / 0.1),
       0 4px 2px hsl(0deg 0% 0% / 0.1),
       0 8px 4px hsl(0deg 0% 0% / 0.1),
