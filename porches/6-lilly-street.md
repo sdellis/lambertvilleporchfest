@@ -14,8 +14,8 @@ long: "-74.942295"
 email: barduscotrina@gmail.com
 artist12: ""
 artist1: ""
-artist2: ""
-artist3: ""
-artist4: ""
-artist5: ""
+artist2: dd9d99e99odolmnbde22222
+artist3: dd9d99e99odolmnbde22222
+artist4: xxxxiiwi99993333
+artist5: ekk33333ke99d87333
 ---
