@@ -3,6 +3,7 @@ id: 0d0000eiifjjf8766eeee
 title: Libraries Rock! (Lambertville Free Public Library)
 message: “The rhythms of nature—the sounds of wind and water, of birds and
   insects—must inevitably find their analogues in music.” -- George Crumb
+image: /uploads/screenshot-2021-09-27-at-7.55.58-pm.png
 host: Trina Bardusco
 house_number: "6"
 street_name: Lilly Street
