@@ -25,7 +25,26 @@
     </GmapMap>
   </Layout>
 </template>
-
+<page-query>
+query {
+  porches: allPorches {
+    edges {
+      node {
+        title
+        image
+        message
+        host
+        street_name
+        house_number
+        lat
+        long
+        email
+        path
+      }
+    }
+  }
+}
+</page-query>
 <script>
 export default {
   metaInfo: {
@@ -38,35 +57,65 @@ export default {
       lng: -74.9472286
     },
     coordinates: [
-    /*
       {
         address: '5 York Street',
         lat: '40.3680643',
         lng: '-74.9461641',
         lineup: [
           {
-            artist: "Dave Iannucci",
-            link: "https://www.facebook.com/bigflopmoptop/",
-            description: "Song-a-day phenomenon keeps the solo tunes coming.",
+            artist: "Dave Iannucci's Acoustic Love Shack",
+            link: "https://lambertvilleporchfest.com/artists/dave-iannuccis-acoustic-love-shack/",
+            description: "Song-a-day phenomenon keeps the tunes flowing.",
+            timeslot: "12pm",
+          },
+          {
+            artist: "Crystal Bears Verb Dear",
+            link: "https://lambertvilleporchfest.com/artists/crystal-bears-verb-deer/",
+            description: "Poetic musings sink into experimental soundscapes.",
+            timeslot: "1pm",
+          },
+          {
+            artist: "Those Looks",
+            link: "https://lambertvilleporchfest.com/artists/crystal-bears-verb-deer/",
+            description: "Slo jams from the wilds of New Jersey",
             timeslot: "2pm",
           },
           {
-            artist: "Pyrenesia",
-            link: "https://www.facebook.com/bigflopmoptop/",
-            description: "Django-inspired quartet of accordion, fiddle, guitar, and upright bass.",
-            timeslot: "4pm",
+            artist: "Christina Ward",
+            link: "https://lambertvilleporchfest.com/artists/those-looks/",
+            description: "Enchanting and unique alt-folk",
+            timeslot: "2pm",
+          },
+          {
+            artist: "Chris Buccari",
+            link: "https://lambertvilleporchfest.com/artists/chris-buccari/",
+            description: "Classical guitar originals",
+            timeslot: "3pm",
+          },
+          {
+            artist: "Your Kids",
+            link: "https://lambertvilleporchfest.com/artists/crystal-bears-verb-deer/",
+            description: "Art school electro-punk with Brooklyn vibes",
+            timeslot: "3pm",
           }
         ]
       },
       {
-        address: '37 Clinton Street',
-        lat: '40.369310',
-        lng: '-74.947090',
+        address: '72 Delaware',
+        lat: '40.371487',
+        lng: '-74.944647',
         lineup: [
           {
-            artist: "Tim Kelly and Ryan Spreen",
-            description: "Classic Rock goodies from local duo. Guest appearances!",
-            timeslot: "4pm-6pm",
+            artist: "The Earthworks Band",
+            link: "https://lambertvilleporchfest.com/artists/the-earthworks-band/",
+            description: "Band with 5 guitarists plays covers from the 70’s and 80’s.",
+            timeslot: "12pm-2pm",
+          },
+          {
+            artist: "The Godzilla Blues Band",
+            link: "https://lambertvilleporchfest.com/artists/the-godzilla-blues-band/",
+            description: "Original rocking tunes by accomplished guitarist, Mike Smull.",
+            timeslot: "3pm-5pm",
           }
         ],
       },
@@ -75,87 +124,88 @@ export default {
         lat: 40.3658048, lng: -74.9468706,
         lineup: [
           {
-            artist: "Brad Staudle",
-            description: '"Silk and smoke" vocals. Like, for real. Brad croons out the best hits of the 60s through today.',
-            timeslot: "12pm",
-          },
-          {
             artist: "Rachel Rosemarie",
             link: "https://rachelrosemarie.bandcamp.com/album/growing-plants-inside",
-            description: "Solo alt folk originals. Eerily beautiful.",
-            timeslot: "1pm",
+            description: "Eerily beautiful melodies, treading like a golden carp in a sea of existential dread.",
+            timeslot: "12pm",
           },
           {
             artist: "Alyssa Zajac",
             link: "https://www.youtube.com/user/lyssy42197/videos",
             description: "Playful and whimsical musings of a human bean, with baritone ukulele",
-            timeslot: "2pm",
-          }
-        ],
-      },
-      {
-        address: "37 Perry Street",
-        lat: 40.3719588, lng: -74.9458192,
-        lineup: [
+            timeslot: "1pm",
+          },
           {
-            artist: "Chris Zaic (The Brooks Brothers Blues Band)",
-            link: "https://brooksblues.com/",
-            description: 'Progressive and Traditional Blues',
+            artist: "Chris Sailor",
+            link: "http://localhost:8080/artists/chris-sailor/",
+            description: "Original folk stuff.",
             timeslot: "2pm",
           },
-          {
-            artist: "LisaBeth Weber",
-            link: "http://lisabethweber.com/songwriting/",
-            description: "Acoustic singer/songwriter",
-            timeslot: "4pm",
-          },
-          {
-            artist: "Mary Barry Freedman",
-            link: "http://marybarrymusic.com",
-            description: "Americana / Folk",
-            timeslot: "5pm",
-          }
         ],
       },
       {
-        address: "63 Clinton Street",
-        lat: 40.3701383, lng: -74.9472286,
+        address: "42 York Street",
+        lat: 40.368797, lng: -74.944487,
         lineup: [
           {
-            artist: "Shady Groove",
-            link: "http://shadygrooveduo.com/",
-            description: 'Classic Covers with strong vocal harmonies',
-            timeslot: "1-3pm",
+            artist: "Lisa and Erica Moran and Chris Deakin",
+            link: "https://lambertvilleporchfest.com/artists/lisa-and-erica-moran-and-chris-deakin/",
+            description: 'Singer songwriter ensemble performs uplifting originals.',
+            timeslot: "1pm",
           },
-        ],
-      },
-      {
-        address: "163 North Union Street",
-        lat: 40.3721668, lng: -74.9471219,
-        lineup: [
           {
-            artist: "Tōth",
-            link: "http://tothtunes.com/",
-            description: 'Wistful soundscapes from accomplished songwriter and instrumentalist',
+            artist: "Jazz House Kids",
+            link: "https://lambertvilleporchfest.com/artists/jazz-house-kids/",
+            description: "ONE OF THE MOST SUCCESSFUL AND RESPECTED JAZZ EDUCATION PROGRAMS IN THE COUNTRY COMES TO LAMBERTVILLE.",
+            timeslot: "2pm",
+          },
+          {
+            artist: "Sayonne",
+            link: "https://lambertvilleporchfest.com/artists/sayonne/",
+            description: "Innovative, edgy, classic, fashion forward pop/R&B with an extraordinary stage presence that will leave you thirsting for more.",
             timeslot: "3pm",
           },
           {
-            artist: "Alix Paul with Jeffrey Fadden",
-            link: "https://alixpauljeffreyfadden.bandcamp.com/",
-            description: "Stream of conscious soul jazz acoustic vibes",
+            artist: "Kate Baker and Jim Johnson",
+            link: "https://lambertvilleporchfest.com/artists/kate-baker-and-jim-johnson/",
+            description: "",
             timeslot: "4pm",
           },
           {
-            artist: "Tōth",
-            link: "http://tothtunes.com/",
-            description: 'Wistful soundscapes from accomplished songwriter and instrumentalist',
+            artist: "Darius De Haas",
+            link: "https://lambertvilleporchfest.com/artists/darius-de-haas/",
+            description: "An award winning actor and singer with 'deeps roots in jazz and soul'. - NYTimes",
             timeslot: "5pm",
+          }
+        ],
+      },
+      {
+        address: "7 North Main Street",
+        lat: 40.366546, lng: -74.943231,
+        lineup: [
+          {
+            artist: "NJNO - Not Just Nickelharpa Orchestra",
+            link: "https://lambertvilleporchfest.com/artists/njno-not-just-nyckelharpa-orchestra/",
+            description: 'An amazing ensemble of unique instruments led by your local nyckelharpists at The Birdhouse Center for the Arts.',
+            timeslot: "3pm",
           },
         ],
       },
       {
-        address: "40 Perry Street",
-        lat: 40.3721268, lng: -74.9458424,
+        address: "61 Clinton Street",
+        lat: 40.37017, lng: -74.947341,
+        lineup: [
+          {
+            artist: "Little Flowers",
+            link: "https://lambertvilleporchfest.com/artists/little-flowers/",
+            description: 'Bedroom folk dream duo playing originals with heady lyrics.',
+            timeslot: "2pm",
+          },
+        ],
+      },
+      {
+        address: "6 Lilly Street",
+        lat: 40.365701, lng: -74.942295,
         lineup: [
           {
             artist: "Bill and Fred’s Excellent Adventure",
@@ -177,6 +227,7 @@ export default {
           },
         ],
       },
+      /*
       {
         address: "60 Elm Street",
         lat: 40.3740313, lng: -74.9460624,

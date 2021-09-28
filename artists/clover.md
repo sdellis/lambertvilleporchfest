@@ -10,11 +10,11 @@ bio: CLOVER is a singer-songwriter originally from Lambertville, New Jersey.
   Living in Brooklyn from 2018-2020, CLOVER frequently played shows at beloved
   venues like Rockwood Music Hall, Pianos, and Pete's Candy Store. After
   releasing her debut single “This Love” in early 2020, she decided to leave the
-  city and travel around the country while safely bringing music to the public
-  during the pandemic through street performance. From trailheads to
-  mountaintops and cities to beaches, CLOVER has performed in 22 states. To see
+  city and travel around the country while safely bringing music to the public during
+  the pandemic through street performance. From trailheads to mountaintops and
+  cities to beaches, CLOVER has performed in 22 states. To see
   if CLOVER is playing in a public space near you, check
-  her [Instagram](https://www.instagram.com/cloveronthemic/)!  Also be on the
+  her Instagram at https://www.instagram.com/cloveronthemic/!  Also be on the
   lookout for her new song “I Don’t Use Your Name” arriving September 17th.
 image: /uploads/screen-shot-2021-09-25-at-1.59.07-pm.png
 link: https://www.cloveronthemic.com/
