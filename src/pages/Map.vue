@@ -298,19 +298,19 @@ export default {
           },
         ],
       },
-/*
       {
-        address: "22 South Union Street",
-        lat: 40.3646971, lng: -74.944364,
+        address: "17 Clinton Street",
+        lat: 40.368642, lng: -74.946805,
         lineup: [
           {
-            artist: "J.B. Kline",
-            link: "https://www.jbkline.com/",
-            description: 'Local legend. Blues and soul, with passion.',
-            timeslot: "5pm",
+            artist: "LAURIE VOSBURG",
+            link: "https://lambertvilleporchfest.com/artists/laurie-vosburg/",
+            description: 'A mix of originals and country rocking blues',
+            timeslot: "1pm",
           },
         ],
       },
+/*
       {
         address: "7 North Main Street",
         lat: 40.3668222, lng: -74.9431814,
