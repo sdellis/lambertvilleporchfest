@@ -209,14 +209,14 @@ export default {
         lineup: [
           {
             artist: "Proboscis",
-            link: "https://www.youtube.com/user/Fredington1",
-            description: 'Acoustic Rock duo, possible comedy',
+            link: "https://lambertvilleporchfest.com/artists/proboscis/",
+            description: 'All their songs are about insects. Heavy, heavy insects.',
             timeslot: "2pm-4pm",
           },
           {
             artist: "Wack Weeds",
-            link: "https://facebook.com/salokomusic",
-            description: "Acoustic originals with horns",
+            link: "https://lambertvilleporchfest.com/artists/wack-weeds/",
+            description: "Fuzzed-out garage and spaced-out shoegaze sounds.",
             timeslot: "4pm",
           },
           {
