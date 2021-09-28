@@ -286,19 +286,19 @@ export default {
           },
         ],
       },
-/*
       {
-        address: "270 North Union Street",
-        lat: 40.375760, lng: -74.947820,
+        address: "25 Ferry Street",
+        lat: 40.364983, lng: -74.944373,
         lineup: [
           {
-            artist: "Stephen DiJoseph",
-            link: "http://www.stephendijoseph1.bandcamp.com",
-            description: "Songwriter pop/jazz/folk",
-            timeslot: "3pm",
+            artist: "Daniella Fischetti & Tim Ryan",
+            link: "https://lambertvilleporchfest.com/artists/daniella-fischetti-tim-ryan/",
+            description: "Young folks playing old-time bluegrass and fiddle tunes with flair and panache.",
+            timeslot: "1pm",
           },
         ],
       },
+/*
       {
         address: "22 South Union Street",
         lat: 40.3646971, lng: -74.944364,
