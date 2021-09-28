@@ -13,7 +13,7 @@ long: "-74.946805"
 email: Lillie4334@yahoo.com
 artist12: ""
 artist1: "1231"
-artist2: jbk23393999dd999dla
+artist2: ""
 artist3: ""
 artist4: ""
 artist5: ""
