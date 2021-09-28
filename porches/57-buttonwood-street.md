@@ -12,9 +12,9 @@ lat: "40.372953"
 long: "-74.945333"
 email: evanstraley@gmail.com
 artist12: ""
-artist1: ""
-artist2: ""
-artist3: ""
-artist4: ""
+artist1: 3253443ffrfget33refwssx
+artist2: d09098d99d9990dsaA
+artist3: 909898E9999D99DDD
+artist4: sss900000c088yyyd7gdqq43
 artist5: ""
 ---
