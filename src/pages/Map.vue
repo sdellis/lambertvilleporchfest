@@ -227,61 +227,66 @@ export default {
           },
         ],
       },
-      /*
       {
-        address: "60 Elm Street",
-        lat: 40.3740313, lng: -74.9460624,
+        address: "50 South Union Street",
+        lat: 40.363604, lng: -74.943955,
         lineup: [
           {
-            artist: "Chris Buccari",
-            description: 'Classical guitar originals',
+            artist: "Misty Willow",
+            description: 'Singer-songwriter who writes songs about u...',
+            timeslot: "3pm-5pm",
+          },
+        ],
+      },
+      {
+        address: "37 Jefferson Street",
+        lat: 40.370144, lng: -74.944588,
+        lineup: [
+          {
+            artist: "Tom Florek and Joe Bezek",
+            link: "https://lambertvilleporchfest.com/artists/tom-florek-and-joe-bezek/",
+            description: 'Hilariously funny syndicated radio duo performing their signature quirky originals. Think Flight of the Conchords They Might Be Giants.',
+            timeslot: "3pm-5pm",
+          },
+        ],
+      },
+      {
+        address: "20 Delevan Street",
+        lat: 40.36921, lng: -74.946196,
+        lineup: [
+          {
+            artist: "Chris Chadwick",
+            link: "https://kittycityband.bandcamp.com/releases",
+            description: "Acoustic blue-eyed soul with roots in the Greenwich Village folk scene.",
             timeslot: "12pm",
           },
           {
-            artist: "Jason Bonthron",
-            description: "Obscure hits and deep cuts played on ukulele",
+            artist: "Jimi Mitchell",
+            link: "https://lambertvilleporchfest.com/artists/jimi-mitchell/",
+            description: "Acoustic solo artist covering Bruce, Elvis, Johnny, J.T., Croce, Eagles and many more.",
             timeslot: "1pm",
           },
           {
-            artist: "Chris Bonthron",
-            description: 'Gypsy Jazz',
+            artist: "Greg Pontier",
+            link: "https://kittycityband.bandcamp.com/releases",
+            description: "Folk singer influenced by the music of James Taylor, Pete Seeger and songs of Social Justice.",
             timeslot: "2pm",
           },
           {
-            artist: "Joseph Sommer",
-            description: 'Grateful Dead, Phish, and jams.',
+            artist: "Jimi Mitchell",
+            link: "https://lambertvilleporchfest.com/artists/jimi-mitchell/",
+            description: "Acoustic solo artist covering Bruce, Elvis, Johnny, J.T., Croce, Eagles and many more.",
             timeslot: "3pm",
           },
           {
-            artist: "Tim McKenzie",
-            description: 'Grateful Dead faves, classic rock, and cowboy songs.',
-            timeslot: "4pm",
+            artist: "Creeping Charlie",
+            link: "https://lambertvilleporchfest.com/artists/creeping-charlie/",
+            description: 'Highly danceable cover band playing hits from Queen to Lizzo.',
+            timeslot: "4pm-6pm",
           },
         ],
       },
-      {
-        address: "57 Buttonwood Street",
-        lat: 40.372940, lng: -74.945220,
-        lineup: [
-          {
-            artist: "Cari Joy and Kealan",
-            description: '90s covers, originals, love songs',
-            timeslot: "12pm",
-          },
-          {
-            artist: "Kitty City",
-            link: "https://kittycityband.bandcamp.com/releases",
-            description: "Indie Rock",
-            timeslot: "1pm",
-          },
-          {
-            artist: "The Swiss Guard",
-            link: "https://www.facebook.com/theSwissGuard/",
-            description: 'Indie Rock',
-            timeslot: "2pm",
-          },
-        ],
-      },
+/*
       {
         address: "270 North Union Street",
         lat: 40.375760, lng: -74.947820,
