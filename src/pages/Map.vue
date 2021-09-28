@@ -310,18 +310,18 @@ export default {
           },
         ],
       },
-/*
       {
-        address: "7 North Main Street",
-        lat: 40.3668222, lng: -74.9431814,
+        address: "138 North Union Street",
+        lat: 40.37146, lng: -74.946615,
         lineup: [
           {
-            artist: "Quarters on the Machine",
-            description: "Local virtuosos play folk, Bluegrass, New Grass, Old Time, Scandinavian.",
-            timeslot: "12-2pm",
+            artist: "CLOVER",
+            description: "Beautiful blend of original soul, rock, and pop that echoes timelessness.",
+            timeslot: "3-4pm",
           }
         ],
       },
+/*
       {
         address: "138 Union Street",
         lat: 40.371372, lng: -74.9466219,
