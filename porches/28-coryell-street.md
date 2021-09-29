@@ -2,6 +2,7 @@
 id: ddf9000d99377838id8dddgg
 title: CMiStudios - 28 Coryell
 message: Art-Peace-Love-Kindness-Music
+image: /uploads/ac73f6ba-8a68-4124-9095-aee64ef2baa9-chris-ingram.jpeg
 host: Chris Ingram
 house_number: "28"
 street_name: Coryell Street
