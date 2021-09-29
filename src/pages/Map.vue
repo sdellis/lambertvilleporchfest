@@ -321,34 +321,33 @@ export default {
           }
         ],
       },
-/*
       {
-        address: "138 Union Street",
-        lat: 40.371372, lng: -74.9466219,
+        address: "57 Buttonwood",
+        lat: 40.372953, lng: -74.945333,
         lineup: [
           {
-            artist: "Dan Gober",
-            link: "https://dangober.bandcamp.com/",
-            description: 'All original Junk Rawk',
+            artist: "Rowan Hara",
+            link: "https://lambertvilleporchfest.com/artists/rowan-hara/",
+            description: "Sublime music by the youngest performer at Porchfest!",
+            timeslot: "1pm",
+          },
+          {
+            artist: "Kitty City",
+            link: "https://lambertvilleporchfest.com/artists/kitty-city/",
+            description: "Dream team performing originals. Think Black Keys meets Tame Impala.",
             timeslot: "2pm",
           },
           {
-            artist: "Janine Olivia",
-            link: "https://www.janineoliviamusic.com/",
-            description: "Synth Pop",
+            artist: "Cari & Corky",
+            link: "https://lambertvilleporchfest.com/artists/cari-corky/",
+            description: "Gonna get ya in the mood...",
             timeslot: "3pm",
           },
           {
-            artist: "Those Looks",
-            link: "https://thoselooks.bandcamp.com",
-            description: 'Indie Dream Pop',
-            timeslot: "4pm",
-          },
-          {
             artist: "Creeping Charlie",
-            link: "https://creepingcharlie.bandcamp.com/releases",
-            description: 'Danceable Roots Rock.',
-            timeslot: "5pm",
+            link: "https://lambertvilleporchfest.com/artists/the-swiss-guard/",
+            description: "Loud music for quiet people.",
+            timeslot: "4pm",
           },
         ],
       },
@@ -357,19 +356,20 @@ export default {
         lat: 40.3654266, lng: -74.945317,
         lineup: [
           {
-            artist: "Sam Steffen",
-            link: "http://www.samsteffen.com",
-            description: "Folk, singer-songwriter, Americana, acoustic solo artist",
+            artist: "Essie & Keith Kenny",
+            link: "https://lambertvilleporchfest.com/artists/essie-keith-kenny/",
+            description: "One man band becomes a duo.",
             timeslot: "1pm",
           },
           {
             artist: "Little Flowers",
-            link: "https://www.littleflowers.me/",
+            link: "https://lambertvilleporchfest.com/artists/little-flowers/",
             description: 'Indie rock duo, bedroom folk, originals and covers, heady lyrics.',
             timeslot: "2pm",
           },
         ],
       },
+            /*
       {
         address: "48 Coryell Street",
         lat: 40.367611, lng: -74.9442911,
@@ -440,6 +440,7 @@ export default {
           },
         ],
       },
+            */
       {
         address: "Public Rest Rooms",
         lat: 40.363860, lng: -74.945650,
@@ -451,7 +452,6 @@ export default {
           },
         ],
       },
-      */
     ],
     infoPosition: null,
     infoContent: null,
