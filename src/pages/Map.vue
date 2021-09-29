@@ -369,19 +369,19 @@ export default {
           },
         ],
       },
-            /*
       {
-        address: "48 Coryell Street",
-        lat: 40.367611, lng: -74.9442911,
+        address: "30 Coryell Street",
+        lat: 40.367496, lng: -74.945103,
         lineup: [
           {
-            artist: "I Think Like Midnight",
-            link: "http://www.ithinklikemidnight.com/",
-            description: 'Succinct rock instrumentals',
-            timeslot: "4pm",
+            artist: "Acoustic Kelly",
+            link: "https://lambertvilleporchfest.com/artists/acoustic-kelly/",
+            description: 'Tim Kelly plays all the hits!',
+            timeslot: "2pm-4pm",
           },
         ],
       },
+      /*
       {
         address: "103 South Main Street; Mt Hope St. -side porch",
         lat: 40.362380, lng: -74.942560,
@@ -422,25 +422,26 @@ export default {
           },
         ],
       },
+        */
       {
         address: "28 Coryell Street",
-        lat: 40.367337, lng: -74.945545,
+        lat: 40.367508, lng: -74.945269,
         lineup: [
           {
-            artist: "Decibel and the Boom",
-            link: "https://decibelandtheboom.bandcamp.com/track/running-in-circles",
-            description: 'New Original Rock',
-            timeslot: "2pm",
+            artist: "Tim Wilson",
+            link: "https://lambertvilleporchfest.com/artists/tim-wilson/",
+            description: 'Mystery marathon of music.',
+            timeslot: "2pm-5pm",
           },
           {
-            artist: "The Fletchers",
-            link: "https://www.facebook.com/TheFletchersMusic",
-            description: 'Indie Rock, Power pop, Garage',
-            timeslot: "3pm",
+            artist: "Decibel and the Boom",
+            link: "https://lambertvilleporchfest.com/artists/decibel-and-the-boom/",
+            description: 'New Original Rock',
+            timeslot: "5pm",
           },
         ],
       },
-            */
+
       {
         address: "Public Rest Rooms",
         lat: 40.363860, lng: -74.945650,

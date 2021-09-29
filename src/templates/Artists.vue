@@ -12,7 +12,6 @@
         <div v-html="$page.artist.content">
           {{$page.artist.content}}
         </div>
-        <p>Venmo: <span v-if="$page.artist.venmo.length > 0">{{$page.artist.venmo}}</span><span v-else>???</span> | PayPal: <span v-if="$page.artist.paypal.length > 0">{{$page.artist.paypal}}</span><span v-else>???</span></p>
         <h2>{{$page.artist.name}} is playing at the following porches:</h2>
         <ul>
           <li v-if="porch_12.node.path.length > 0">Noon-1pm: <a :href="porch_12.node.path" v-if="porch_12.node.path.length > 0">{{porch_12.node.title}} ({{porch_12.node.house_number}} {{porch_12.node.street_name}})</a></li>
@@ -22,6 +21,9 @@
           <li v-if="porch_4.node.path.length > 0">4pm-5pm: <a :href="porch_4.node.path" v-if="porch_4.node.path.length > 0">{{porch_4.node.title}} ({{porch_4.node.house_number}} {{porch_4.node.street_name}})</a></li>
           <li v-if="porch_5.node.path.length > 0">5pm-6pm: <a :href="porch_5.node.path" v-if="porch_5.node.path.length > 0">{{porch_5.node.title}} ({{porch_5.node.house_number}} {{porch_5.node.street_name}})</a></li>
         </ul>
+        <h2>Support the Artists!</h2>
+        <p>Most Porchfest artists play for free. If you enjoyed seeing {{$page.artist.name}}, please consider dropping a tip below.</p>
+        <p>Venmo: <span v-if="$page.artist.venmo.length > 0">{{$page.artist.venmo}}</span><span v-else>???</span> | PayPal: <span v-if="$page.artist.paypal.length > 0">{{$page.artist.paypal}}</span><span v-else>???</span></p>
         <small><em>Artists! If this is you, and you want to update your information, email LambertvillePorchfest@gmail.com with any updates.</em></small>
       </div>
     </div>
