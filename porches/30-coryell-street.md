@@ -6,9 +6,9 @@ host: Tim Kelly
 house_number: "30"
 street_name: Coryell Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-lat: ""
+lat: "40.367496"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
-long: ""
+long: "-74.945103"
 email: timothyjkelly@msn.com
 artist12: ""
 artist1: ""
