@@ -1,7 +1,7 @@
 ---
 id: ddf9000d99377838id8dddgg
-title: 28 Coryell
-message: ""
+title: CMiStudios - 28 Coryell
+message: Art-Peace-Love-Kindness-Music
 host: Chris Ingram
 house_number: "28"
 street_name: Coryell Street
@@ -17,3 +17,4 @@ artist3: ""
 artist4: ""
 artist5: ""
 ---
+Sponsored by Hunterdon Bucks Realty.
