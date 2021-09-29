@@ -10,9 +10,9 @@ bio: If the audience at a Keith Kenny show were to close their eyes for the
   Keller Williams, Leon Russell, John Hammond Jr., New Riders of the Purple
   Sage, The Zen Tricksters and John Kadlecik (Further & Dark Star Orchestra).
 image: /uploads/keithkenny.jpeg
-link: ""
+link: http://www.keithkenny.com/
 time: 2021-09-29T13:28:22.716Z
-email: ""
+email: keith@keithkenny.com
 venmo: ???
 paypal: ???
 ---
