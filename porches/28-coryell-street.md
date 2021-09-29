@@ -12,9 +12,9 @@ long: "-74.945269"
 email: cmi147@gmail.com
 artist12: ""
 artist1: ""
-artist2: ""
-artist3: ""
-artist4: ""
-artist5: ""
+artist2: "000093989883878738"
+artist3: "000093989883878738"
+artist4: "000093989883878738"
+artist5: xxx000988w88s7777s
 ---
 Sponsored by Hunterdon Bucks Realty.
