@@ -14,9 +14,9 @@ lat: "40.368797"
 long: "-74.944487"
 email: Johnsonj121023@gmail.com
 artist12: ""
-artist1: dfodooc00088y98y8ys
-artist2: 099ooouyfdy4e57tty
-artist3: ddckckkkc887t76r76rx77x
+artist1: ""
+artist2: dfodooc00088y98y8ys
+artist3: 099ooouyfdy4e57tty
 artist4: 098d98d98999d9d9ddddcccz
 artist5: dvlllxixytt67775
 ---
