@@ -1,7 +1,7 @@
 ---
 id: kaosi9392jhjji99333
 title: Corner of Chaos
-message: On front lines liberating people with music!
+message: On the front lines liberating people with music!
 image: /uploads/20210922_114945-800x400-russell-genna.jpg
 host: Russel Genna
 house_number: "5"
