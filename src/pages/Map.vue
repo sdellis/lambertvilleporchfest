@@ -81,15 +81,15 @@ export default {
             timeslot: "2pm",
           },
           {
-            artist: "Christina Ward",
+            artist: "Christina Ward / Our Bodies Themselves",
             link: "https://lambertvilleporchfest.com/artists/those-looks/",
-            description: "Enchanting and unique alt-folk",
+            description: "Enchanting and unique alt-folk shares stage with avant garde rock band with a sense of humor.",
             timeslot: "2pm",
           },
           {
             artist: "Chris Buccari",
             link: "https://lambertvilleporchfest.com/artists/chris-buccari/",
-            description: "Classical guitar originals",
+            description: "Original nylon string acoustic guitar instrumentals with hints of Latin, Island, Folk and Noir.",
             timeslot: "3pm",
           },
           {
@@ -151,18 +151,12 @@ export default {
             artist: "Lisa and Erica Moran and Chris Deakin",
             link: "https://lambertvilleporchfest.com/artists/lisa-and-erica-moran-and-chris-deakin/",
             description: 'Singer songwriter ensemble performs uplifting originals.',
-            timeslot: "1pm",
+            timeslot: "2pm",
           },
           {
             artist: "Jazz House Kids",
             link: "https://lambertvilleporchfest.com/artists/jazz-house-kids/",
             description: "ONE OF THE MOST SUCCESSFUL AND RESPECTED JAZZ EDUCATION PROGRAMS IN THE COUNTRY COMES TO LAMBERTVILLE.",
-            timeslot: "2pm",
-          },
-          {
-            artist: "Sayonne",
-            link: "https://lambertvilleporchfest.com/artists/sayonne/",
-            description: "Innovative, edgy, classic, fashion forward pop/R&B with an extraordinary stage presence that will leave you thirsting for more.",
             timeslot: "3pm",
           },
           {
@@ -261,22 +255,10 @@ export default {
             timeslot: "12pm",
           },
           {
-            artist: "Jimi Mitchell",
-            link: "https://lambertvilleporchfest.com/artists/jimi-mitchell/",
-            description: "Acoustic solo artist covering Bruce, Elvis, Johnny, J.T., Croce, Eagles and many more.",
-            timeslot: "1pm",
-          },
-          {
             artist: "Greg Pontier",
             link: "https://kittycityband.bandcamp.com/releases",
             description: "Folk singer influenced by the music of James Taylor, Pete Seeger and songs of Social Justice.",
             timeslot: "2pm",
-          },
-          {
-            artist: "Jimi Mitchell",
-            link: "https://lambertvilleporchfest.com/artists/jimi-mitchell/",
-            description: "Acoustic solo artist covering Bruce, Elvis, Johnny, J.T., Croce, Eagles and many more.",
-            timeslot: "3pm",
           },
           {
             artist: "Creeping Charlie",
