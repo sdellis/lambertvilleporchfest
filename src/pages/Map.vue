@@ -338,15 +338,27 @@ export default {
         lat: 40.3654266, lng: -74.945317,
         lineup: [
           {
+            artist: "Sam Ryan",
+            link: "https://lambertvilleporchfest.com/artists/sam-ryan/",
+            description: "A voice of silk croons hits for every occassion.",
+            timeslot: "12pm",
+          },
+          {
             artist: "Essie & Keith Kenny",
             link: "https://lambertvilleporchfest.com/artists/essie-keith-kenny/",
-            description: "One man band becomes a duo.",
+            description: "Notorious one-man-band merges into duo!",
             timeslot: "1pm",
           },
           {
             artist: "Little Flowers",
             link: "https://lambertvilleporchfest.com/artists/little-flowers/",
-            description: 'Indie rock duo, bedroom folk, originals and covers, heady lyrics.',
+            description: 'Original bedroom pop. Heady lyrics.',
+            timeslot: "1:30pm",
+          },
+          {
+            artist: "The Strange Brew Crew",
+            link: "https://lambertvilleporchfest.com/artists/strange-brew-crew/",
+            description: 'Rocking band playing 60s and 70s hits.',
             timeslot: "2pm",
           },
         ],
@@ -358,8 +370,42 @@ export default {
           {
             artist: "Acoustic Kelly",
             link: "https://lambertvilleporchfest.com/artists/acoustic-kelly/",
-            description: 'Tim Kelly plays all the hits!',
+            description: "Tim Kelly plays all the hits!",
             timeslot: "2pm-4pm",
+          },
+        ],
+      },
+      {
+        address: "49 North Union Street",
+        lat: 40.367478, lng: -74.945626,
+        lineup: [
+          {
+            artist: "The Entertainment Corporation",
+            link: "https://lambertvilleporchfest.com/artists/the-entertainment-corporation/",
+            description: "80's New Wave acoustic shreddery!",
+            timeslot: "3pm",
+          },
+        ],
+      },
+      {
+        address: "Lambertville Elks Open Mic - 66 Wilson Street",
+        lat: 40.362058, lng: -74.942853,
+        lineup: [
+          {
+            artist: "Porchfest Open Mic",
+            description: "Enjoy food, drink, and lots of the day's acts all in one place. Sign-ups at 6!",
+            timeslot: "6pm-10pm",
+          },
+        ],
+      },
+      {
+        address: "Porchfest After Party @ Ely Park, 6-9pm",
+        lat: 40.371833, lng: -74.943889,
+        lineup: [
+          {
+            artist: "DJs: .bit busy. (NY Subway Brassbeat), Shaw Civitarese (Booty-shaking House), Alderaan Express (Fun/Groovy House)",
+            description: "City-wide after party or those who like to dance and roller skate (byo skates).",
+            timeslot: "6pm-9pm",
           },
         ],
       },
