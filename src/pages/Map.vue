@@ -409,6 +409,17 @@ export default {
           },
         ],
       },
+      {
+        address: "63 Clinton Street",
+        lat: 40.3701383, lng: -74.9472286,
+        lineup: [
+          {
+            artist: "Brad Staudle",
+            description: '"Silk and smoke" vocals. Like, for real. Brad croons out the best hits of the 60s through today.',
+            timeslot: "1pm",
+          },
+        ],
+      },
       /*
       {
         address: "103 South Main Street; Mt Hope St. -side porch",
