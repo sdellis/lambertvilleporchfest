@@ -12,8 +12,8 @@ long: "-74.945217"
 email: " info@morethanq.com"
 artist12: 983798789783833ddd
 artist1: ""
-artist2: ""
-artist3: ""
-artist4: ""
+artist2: 00009838993820-907gfr6d
+artist3: 00009838993820-907gfr6d
+artist4: 00009838993820-907gfr6d
 artist5: ""
 ---
