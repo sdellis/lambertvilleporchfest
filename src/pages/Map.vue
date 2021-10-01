@@ -404,7 +404,7 @@ export default {
         lineup: [
           {
             artist: "DJs: .bit busy. (NY Subway Brassbeat), Shaw Civitarese (Booty-shaking House), Alderaan Express (Fun/Groovy House)",
-            description: "City-wide after party or those who like to dance and roller skate (byo skates).",
+            description: "City-wide after party for those who like to dance and roller skate (byo skates).",
             timeslot: "6pm-9pm",
           },
         ],
