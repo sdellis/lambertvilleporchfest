@@ -43,10 +43,17 @@
     </div>
     <h1>6pm-9pm</h1>
 
-      <h2>Elks Lodge Open Mic</h2>
+      <h2>Elks Lodge Open Mic @ 66 Wilson Street</h2>
       <p>The Elks will keep the party going with their monthly open mic (every first Saturday!)</p>
-      <h2>City Wide Dance Party</h2>
-      <p>Parks &amp; Rec has sponsored a dance party at Ely Park with local djs and roller skating on the basketball court (byo-skates).</p>
+      <h2>City Wide Dance Party @ Ely Park</h2>
+      <p>Parks &amp; Rec is sponsoring a dance party at Ely Park with roller skating on the basketball court (byo-skates and helmet). </p>
+      <p>Local DJs:</p>
+        <ul>
+          <li>.bit busy. (6pm) NY Subway Brassbeat </li>
+          <li>Shaw Civitarese (7pm) Booty-shaking House</li>
+          <li>Alderaan Express (8pm) Fun/Groovy House</li>
+        </ul>
+
 
   </Layout>
 </template>

@@ -227,7 +227,7 @@ export default {
         lineup: [
           {
             artist: "Misty Willow",
-            description: 'Singer-songwriter who writes songs about u...',
+            description: 'Singer-songwriter who writes songs about u!',
             timeslot: "3pm-5pm",
           },
         ],
@@ -322,7 +322,7 @@ export default {
           {
             artist: "Cari & Corky",
             link: "https://lambertvilleporchfest.com/artists/cari-corky/",
-            description: "Gonna get ya in the mood...",
+            description: "Gonna get ya in the mood ...",
             timeslot: "3pm",
           },
           {
@@ -455,12 +455,6 @@ export default {
         address: "28 Coryell Street",
         lat: 40.367508, lng: -74.945269,
         lineup: [
-          {
-            artist: "Tim Wilson",
-            link: "https://lambertvilleporchfest.com/artists/tim-wilson/",
-            description: 'Mystery marathon of music.',
-            timeslot: "2pm-5pm",
-          },
           {
             artist: "Decibel and the Boom",
             link: "https://lambertvilleporchfest.com/artists/decibel-and-the-boom/",
