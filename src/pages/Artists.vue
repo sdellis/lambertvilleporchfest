@@ -10,7 +10,7 @@
         <div class="artist__body">
           <g-link :to="artist.node.path" class="artist__link"></g-link>
           <h1 class="artist__title">{{artist.node.name}}</h1>
-          <em>{{artist.node.bio}}</em>
+          <em>{{truncate(artist.node.bio)}}</em>
         </div>
       </div>
     </div>
@@ -41,7 +41,15 @@ export default {
   metaInfo: {
     title: "Artists"
   },
-
+  methods: {
+      truncate: function(bio) {
+        if(bio.length > 200){
+          return bio.substring(0,200) + '…'
+        } else {
+          return bio
+        }
+      },
+  },
 };
 </script>
 
@@ -49,7 +57,7 @@ export default {
 .artist {
   display: flex;
   align-items: center;
-  box-shadow: 
+  box-shadow:
       0 0px 1px hsl(0deg 0% 0% / 0.1),
       0 1px 2px hsl(0deg 0% 0% / 0.1),
       0 2px 4px hsl(0deg 0% 0% / 0.1),
@@ -64,7 +72,7 @@ export default {
 }
 .artist:hover {
   background-color: var(--light-blue);
-  box-shadow: 
+  box-shadow:
       0 2px 1px hsl(0deg 0% 0% / 0.1),
       0 4px 2px hsl(0deg 0% 0% / 0.1),
       0 8px 4px hsl(0deg 0% 0% / 0.1),
@@ -87,10 +95,10 @@ export default {
 }
 em {
     display: block;
-  width: 300px;
+
   height: 100px;
   overflow: hidden;
-  white-space: nowrap;
+
   text-overflow: ellipsis;
 }
 .artist__link {
