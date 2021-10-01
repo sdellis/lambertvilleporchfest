@@ -12,9 +12,9 @@ lat: "40.36921"
 long: "-74.946196"
 email: Wmbbeyer@gmail.com
 artist12: f000g88888s222
-artist1: 09dddd0dd999d9eeeenbbbb
+artist1: ""
 artist2: 0000022999399d9id9
-artist3: 09dddd0dd999d9eeeenbbbb
+artist3: ""
 artist4: 08089797773333jdjj2
 artist5: 08089797773333jdjj2
 ---
