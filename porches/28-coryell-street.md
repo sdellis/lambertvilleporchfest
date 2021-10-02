@@ -16,6 +16,6 @@ artist1: ""
 artist2: "000093989883878738"
 artist3: "000093989883878738"
 artist4: "000093989883878738"
-artist5: xxx000988w88s7777s
+artist5: ""
 ---
 Sponsored by Hunterdon Bucks Realty.
