@@ -420,7 +420,7 @@ export default {
           },
         ],
       },
-/*      
+  /*      
       {
         address: "103 South Main Street; Mt Hope St. -side porch",
         lat: 40.362380, lng: -74.942560,
