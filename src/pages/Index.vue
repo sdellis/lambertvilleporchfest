@@ -2,8 +2,8 @@
   <Layout>
     <div class="imgdiv">
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Lambertville Porchfest, October 2, 2021, 12-6pm" src="~/porchfest-poster-2021.jpg"/>
-
+    <!-- <g-image alt="Lambertville Porchfest, October 1, 2022, 12-6pm" src="~/porchfest-poster-2022.gif"/> -->
+    <img src="/images/porchfest-poster-2022.gif" alt="Lambertville Porchfest, October 1, 2022, 12-6pm"/>
     <!-- <h2>Lambertville's 2nd Annual<br>
       <abbr title="do-it-yourself">DIY</abbr> Music Festival</h2> -->
     <p>
@@ -11,8 +11,9 @@
       downtown Lambertville.<br>Anyone can host or play a show!
     </p>
     <p class="credit"><em>If you like the Lambertville Porchfest poster art,
-      please consider dropping a tip to Anabel Bouza via Venmo: @weird-amiga or pick up some
-      Lambertville Porchfest 2021 merchandise at Ely Field on October 2nd. 👕</a></em></p>
+      please consider supporting Bennett Kjenstad by bringing a shirt + $10 to
+      Young Bennett at 56 Coryell Street on October 1st for a hand-pulled screen
+      print of the 2022 logo. 👕</a></em></p>
   </div>
   </Layout>
 </template>
@@ -31,7 +32,6 @@ export default {
 }
 img {
   max-width: 600px;
-  border: 10px solid var(--light-blue);
   height: auto;
   margin-top: 30px;
 }

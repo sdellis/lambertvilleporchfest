@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <Header>About</Header>
+    <h1>About</h1>
 
 
     <g-image alt="Band on a porch" src="~/porchfest.png" width="400" />
@@ -30,12 +30,12 @@
 
     <h2>Artwork</h2>
     <p>Each year a local artist contributes an annual Porchfest design. Our artwork this year
-    was created by Anabel Bouza, and is a modern take on a treasure map that attendees can
-    use to locate all the musical treasures and landmarks around town. You can support Anabel
-    (who lost her job at Rojo's due to Ida) and get yourself some great Lambertville Porchfest 2021 merchandise at
-    <a href="https://logowearhouse.shop/lambertville_porchfest/">the online shop 👕</a>.</p>
-        
-      
+    was created by Bennett Kjenstad, featuring Lambertville's Victorian architecture via an animated spin around town.
+    You can support Bennett and get yourself some great Lambertville Porchfest 2022 hand-pulled screen prints for just $10 at
+    <a href="https://youngbennett.com/">Young Bennett</a> (56 Coryell St.) on October 1st.
+    Bring an item to print on, or purchase one there! 👕</p>
+
+
   </Layout>
 </template>
 

@@ -1,11 +1,7 @@
 <template>
   <Layout>
-    <div style="text-align: center">
-    <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <!-- <g-image alt="Lambertville Porchfest, October 3, 2020, 12-6pm" src="~/porchfest-type.png" width="400" /> -->
-  </div>
-    <Header>Frequently Asked Questions</Header>
-    <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Merchandise pre-order is closed! Taking new orders at Ely Park on Oct 2nd.👕</a></p>
+    <H1>Frequently Asked Questions</H1>
+    <!-- <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Merchandise pre-order is closed! Taking new orders at Ely Park on Oct 2nd.👕</a></p> -->
 
     <h2>What is Lambertville Porchfest?</h2>
     <p>Lambertville Porchfest is a do-it-yourself community music festival.
@@ -78,28 +74,28 @@
     the neighborhood, you can always play on your own porch.</p>
 
     <h2>“I don’t have a porch”</h2>
-    That’s okay! Even if you don’t have a porch we can figure something out! Do you have a stoop?
+    <p>That’s okay! Even if you don’t have a porch we can figure something out! Do you have a stoop?
     How about a tiny lawn or walkway leading up to your front yard? We can call those honorary
     porches for this one day. If you’re still struggling to figure out where the show can take
     place, you may have to call up your Lambertville friends to see if you can host a show on
     their porch. If you’re still coming up short, check out <a href="https://www.facebook.com/groups/517604519484347" target="_blank" rel="noopener">
     the Porchfest Musician/Porch Connector
     on Facebook</a> to meet people with porches that want to have shows on them! Team up to book
-    the porch show of your dreams!
+    the porch show of your dreams!</p>
 
     <h2>“I want to host but I need to book musicians”</h2>
-    We’ve got you covered. We created <a href="https://www.facebook.com/groups/517604519484347" target="_blank" rel="noopener">
+    <p>We’ve got you covered. We created <a href="https://www.facebook.com/groups/517604519484347" target="_blank" rel="noopener">
     the Porchfest Musician/Porch Connector on Facebook</a>
     for just this scenario. There you will find many excited musicians who would love to be
     asked to play a show on your porch. You can even post that you have a porch and let the
-    musicians come to you!
+    musicians come to you!</p>
 
     <h2>What are the responsibilities of hosting?</h2>
     <p>The porch hosts play an absolutely essential role in Porchfest. Porchfest is,
     in fact, not one event, but a collection of individually produced shows, and
     porch hosts are entirely responsible for the show they’re hosting.
-    This includes booking the artists that will play on the porch, <a href="https://forms.gle/uVCTS1iu8DAmCM3F7" target="_blank" rel="noopener">
-    registering the event</a>, notifying the neighbors on their block,
+    This includes <a href="https://forms.gle/aWaNMDc4u1QrpGLy6" target="_blank" rel="noopener">
+    registering your porch</a>, booking the artists that will play on the porch, notifying the neighbors on their block,
     and managing their show on the day of the event. This means that porch hosts
     should be comfortable with the legal liability of hosting a show on their
     porch and the responsibility of being a good neighbor to their immediate community.</p>
