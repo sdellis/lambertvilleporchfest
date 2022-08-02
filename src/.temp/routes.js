@@ -1,15 +1,15 @@
-const c1 = () => import(/* webpackChunkName: "page--src-templates-artists-vue" */ "C:\\Users\\mattp\\Desktop\\Development\\lambertvilleporchfest\\src\\templates\\Artists.vue")
-const c2 = () => import(/* webpackChunkName: "page--src-templates-porches-vue" */ "C:\\Users\\mattp\\Desktop\\Development\\lambertvilleporchfest\\src\\templates\\Porches.vue")
-const c3 = () => import(/* webpackChunkName: "page--src-pages-sched-vue" */ "C:\\Users\\mattp\\Desktop\\Development\\lambertvilleporchfest\\src\\pages\\Sched.vue")
-const c4 = () => import(/* webpackChunkName: "page--src-pages-porches-vue" */ "C:\\Users\\mattp\\Desktop\\Development\\lambertvilleporchfest\\src\\pages\\Porches.vue")
-const c5 = () => import(/* webpackChunkName: "page--src-pages-map-old-vue" */ "C:\\Users\\mattp\\Desktop\\Development\\lambertvilleporchfest\\src\\pages\\Map_old.vue")
-const c6 = () => import(/* webpackChunkName: "page--src-pages-map-vue" */ "C:\\Users\\mattp\\Desktop\\Development\\lambertvilleporchfest\\src\\pages\\Map.vue")
-const c7 = () => import(/* webpackChunkName: "page--src-pages-ida-vue" */ "C:\\Users\\mattp\\Desktop\\Development\\lambertvilleporchfest\\src\\pages\\Ida.vue")
-const c8 = () => import(/* webpackChunkName: "page--src-pages-faq-vue" */ "C:\\Users\\mattp\\Desktop\\Development\\lambertvilleporchfest\\src\\pages\\FAQ.vue")
-const c9 = () => import(/* webpackChunkName: "page--src-pages-about-vue" */ "C:\\Users\\mattp\\Desktop\\Development\\lambertvilleporchfest\\src\\pages\\About.vue")
-const c10 = () => import(/* webpackChunkName: "page--src-pages-artists-vue" */ "C:\\Users\\mattp\\Desktop\\Development\\lambertvilleporchfest\\src\\pages\\Artists.vue")
-const c11 = () => import(/* webpackChunkName: "page--node-modules-gridsome-app-pages-404-vue" */ "C:\\Users\\mattp\\Desktop\\Development\\lambertvilleporchfest\\node_modules\\gridsome\\app\\pages\\404.vue")
-const c12 = () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\\Users\\mattp\\Desktop\\Development\\lambertvilleporchfest\\src\\pages\\Index.vue")
+const c1 = () => import(/* webpackChunkName: "page--src--templates--artists-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/templates/Artists.vue")
+const c2 = () => import(/* webpackChunkName: "page--src--templates--porches-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/templates/Porches.vue")
+const c3 = () => import(/* webpackChunkName: "page--src--pages--sched-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Sched.vue")
+const c4 = () => import(/* webpackChunkName: "page--src--pages--porches-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Porches.vue")
+const c5 = () => import(/* webpackChunkName: "page--src--pages--map-old-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Map_old.vue")
+const c6 = () => import(/* webpackChunkName: "page--src--pages--map-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Map.vue")
+const c7 = () => import(/* webpackChunkName: "page--src--pages--ida-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Ida.vue")
+const c8 = () => import(/* webpackChunkName: "page--src--pages--faq-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/FAQ.vue")
+const c9 = () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/About.vue")
+const c10 = () => import(/* webpackChunkName: "page--src--pages--artists-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Artists.vue")
+const c11 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/node_modules/gridsome/app/pages/404.vue")
+const c12 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Index.vue")
 
 export default [
   {
@@ -21,11 +21,27 @@ export default [
     component: c1
   },
   {
+    path: "/artists/wack-weeds/",
+    component: c1
+  },
+  {
     path: "/artists/the-godzilla-blues-band/",
     component: c1
   },
   {
+    path: "/artists/the-strange-brew-crew/",
+    component: c1
+  },
+  {
     path: "/artists/the-earthworks-band/",
+    component: c1
+  },
+  {
+    path: "/artists/the-entertainment-corporation/",
+    component: c1
+  },
+  {
+    path: "/artists/the-swiss-guard/",
     component: c1
   },
   {
@@ -57,7 +73,31 @@ export default [
     component: c1
   },
   {
+    path: "/artists/river-riders/",
+    component: c1
+  },
+  {
     path: "/artists/rock-hall/",
+    component: c1
+  },
+  {
+    path: "/artists/rowan-hara/",
+    component: c1
+  },
+  {
+    path: "/artists/lisa-and-erica-moran-and-chris-deakin/",
+    component: c1
+  },
+  {
+    path: "/artists/njno-not-just-nyckelharpa-orchestra/",
+    component: c1
+  },
+  {
+    path: "/artists/proboscis/",
+    component: c1
+  },
+  {
+    path: "/artists/kate-baker-and-jim-johnson/",
     component: c1
   },
   {
@@ -77,7 +117,27 @@ export default [
     component: c1
   },
   {
+    path: "/artists/jazz-house-kids/",
+    component: c1
+  },
+  {
+    path: "/artists/kitty-city/",
+    component: c1
+  },
+  {
+    path: "/porches/138-north-union-street/",
+    component: c2
+  },
+  {
     path: "/porches/148-north-union-street/",
+    component: c2
+  },
+  {
+    path: "/porches/42-york-street-1/",
+    component: c2
+  },
+  {
+    path: "/porches/49-north-union-street/",
     component: c2
   },
   {
@@ -85,8 +145,28 @@ export default [
     component: c2
   },
   {
+    path: "/porches/7-north-main-street/",
+    component: c2
+  },
+  {
     path: "/artists/jimi-mitchell/",
     component: c1
+  },
+  {
+    path: "/porches/103-clinton-street/",
+    component: c2
+  },
+  {
+    path: "/porches/13-klines-court/",
+    component: c2
+  },
+  {
+    path: "/porches/13-lambert-lane/",
+    component: c2
+  },
+  {
+    path: "/porches/15-klines-court/",
+    component: c2
   },
   {
     path: "/porches/17-clinton-street/",
@@ -105,6 +185,14 @@ export default [
     component: c2
   },
   {
+    path: "/porches/28-coryell-street/",
+    component: c2
+  },
+  {
+    path: "/porches/30-coryell-street/",
+    component: c2
+  },
+  {
     path: "/porches/37-jefferson-street/",
     component: c2
   },
@@ -113,7 +201,19 @@ export default [
     component: c2
   },
   {
+    path: "/porches/57-buttonwood-street/",
+    component: c2
+  },
+  {
+    path: "/porches/6-lilly-street/",
+    component: c2
+  },
+  {
     path: "/porches/61-clinton-street/",
+    component: c2
+  },
+  {
+    path: "/porches/63-clinton-street/",
     component: c2
   },
   {
@@ -125,6 +225,14 @@ export default [
     component: c1
   },
   {
+    path: "/artists/essie-and-keith-kenny/",
+    component: c1
+  },
+  {
+    path: "/artists/friday-night-jammers/",
+    component: c1
+  },
+  {
     path: "/artists/greg-pontier/",
     component: c1
   },
@@ -133,7 +241,23 @@ export default [
     component: c1
   },
   {
+    path: "/artists/decibel-and-the-boom/",
+    component: c1
+  },
+  {
     path: "/artists/crystal-bears-verb-deer/",
+    component: c1
+  },
+  {
+    path: "/artists/darius-de-haas/",
+    component: c1
+  },
+  {
+    path: "/artists/bon-temp-tucker/",
+    component: c1
+  },
+  {
+    path: "/artists/cari-corky/",
     component: c1
   },
   {
@@ -145,11 +269,31 @@ export default [
     component: c1
   },
   {
+    path: "/artists/chris-sailor/",
+    component: c1
+  },
+  {
     path: "/artists/christina-ward/",
     component: c1
   },
   {
     path: "/artists/creeping-charlie/",
+    component: c1
+  },
+  {
+    path: "/artists/brad-staudle/",
+    component: c1
+  },
+  {
+    path: "/artists/clover/",
+    component: c1
+  },
+  {
+    path: "/artists/acoustic-kelly/",
+    component: c1
+  },
+  {
+    path: "/artists/alyssa-zajac/",
     component: c1
   },
   {

@@ -3,7 +3,7 @@
     <div class="container">
       <h1>Participating Porches</h1>
       <!-- <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Merchandise pre-order is closed! Taking new orders at Ely Park on Oct 2nd.👕</a></p> -->
-      <p>Registration is now open for Porch Hosts for Porchfest 2022. <a href="https://forms.gle/aWaNMDc4u1QrpGLy6">Register here!</a></p>
+      <p>Porchfest is October 1st, 2022. Registration is now open for Porch Hosts! <a href="https://forms.gle/aWaNMDc4u1QrpGLy6">Register here!</a></p>
 
       <!-- <div v-for="porch in $page.porches.edges" :key="porch.id" class="porch d-flex">
         <div class="porch__img" v-if="porch.node.image"

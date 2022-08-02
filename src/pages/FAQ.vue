@@ -9,6 +9,9 @@
     from all genres and all walks of life playing free shows on porches throughout
     the downtown neighborhood.</p>
 
+    <h2>When is Lambertville Porchfest?</h2>
+    <p>Lambertville Porchfest is always the first Saturday in October, unless otherwise noted.</p>
+
     <h2>What safety precautions are being take to prevent the spread of COVID-19?</h2>
     <p>We are VERY serious about the need to social distance and wear a mask during the
     event. Porch owners and musicians may call you out if you are watching a performance
