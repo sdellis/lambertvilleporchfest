@@ -28,6 +28,7 @@ collections:
       slug: "{{house_number}}-{{street_name}}"
       fields:
         - {label: "ID", name: "id", widget: "string"}
+        - {label: "Year", name: "year", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Your message to Porchfest attendees", name: "message", widget: "text", default: "", required: false}
         - {label: "Image", name: "image", widget: "image", required: false}
