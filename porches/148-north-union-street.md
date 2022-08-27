@@ -1,6 +1,7 @@
 ---
 id: 3398239798deee8e88dd
-title: Porch-o-lonis
+year: "2022"
+title: 22 Porch-o-lonis
 message: Bringing Rock to the Block for 25 years!
 image: /uploads/spring-2013-002-1-alex-palilonis.jpg
 host: Alex Palilonis
@@ -10,7 +11,7 @@ street_name: North Union Street
 lat: "40.371778"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: "-74.946613"
-email: alexp@softhome.net
+email: dweezilp@gmail.com
 artist12: ""
 artist1: 32r34thduuujjje
 artist2: ""
