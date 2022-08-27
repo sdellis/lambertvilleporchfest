@@ -1,6 +1,7 @@
 ---
 id: 0980--98y8ytughyyy66sw3e
-title: Baked By the River
+year: "2022"
+title: 22 Baked By the River
 message: ""
 image: /uploads/rachel-bbtr.jpeg
 host: Jesse Marie
@@ -10,7 +11,7 @@ street_name: Lambert Lane
 lat: "40.365685"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: "-74.946988"
-email: bakedbytheriver@gmail.com
+email: jessevillars@gmail.com
 artist12: 209808-93903820
 artist1: 0929229909ff99090f90ej
 artist2: 09876ft5677t54essse44
