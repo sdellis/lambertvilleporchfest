@@ -1,6 +1,7 @@
 ---
 id: -0987d3eeede
-title: 72 Delaware
+year: "2022"
+title: 22- 72 Delaware
 message: Lambertville Strong
 image: /uploads/img_0357-joel-simmons.jpg
 host: Joel Simmons
