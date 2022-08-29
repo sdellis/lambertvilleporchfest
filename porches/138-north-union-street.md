@@ -15,7 +15,7 @@ email: dumassue@hotmail.com
 artist12: ""
 artist1: ""
 artist2: ""
-artist3: 397893849eoid883ue
+artist3: ""
 artist4: ""
 artist5: ""
 ---
