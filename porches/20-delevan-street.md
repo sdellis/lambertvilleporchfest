@@ -12,7 +12,7 @@ lat: "40.36921"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: "-74.946196"
 email: vickibeyer11@gmail.com
-artist12: ""
+artist12: f000g88888s222
 artist1: ""
 artist2: ""
 artist3: ""
