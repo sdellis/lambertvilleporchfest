@@ -1,7 +1,7 @@
 ---
 id: 989yas99a9928oof
 year: "2022"
-title: "'2 The Fest On The Hill"
+title: "'22 The Fest On The Hill"
 message: Be Here Now
 host: Barry Middleberg
 house_number: "272"
