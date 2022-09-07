@@ -1,6 +1,7 @@
 ---
 id: ppplllff8887787sss
-title: Union Coffee
+year: "2022"
+title: "'22 Union Coffee"
 message: Good things are brewing.
 image: /uploads/screen-shot-2021-10-01-at-8.50.36-am.png
 host: Carolyn
@@ -13,8 +14,8 @@ long: "-74.945626"
 email: hello@unioncoffeenj.com
 artist12: ""
 artist1: ""
-artist2: ""
-artist3: 2222KKKD9988DUUUUJDJiido
+artist2: 2222KKKD9988DUUUUJDJiido
+artist3: ""
 artist4: ""
 artist5: ""
 ---
