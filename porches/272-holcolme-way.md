@@ -1,6 +1,7 @@
 ---
 id: 989yas99a9928oof
-title: The Fest On The Hill
+year: "2022"
+title: "'2 The Fest On The Hill"
 message: Be Here Now
 host: Barry Middleberg
 house_number: "272"
@@ -13,7 +14,7 @@ email: bmiddleberg@gmail.com
 artist12: ""
 artist1: ""
 artist2: ""
-artist3: 987903729824990dddd335
+artist3: ""
 artist4: ""
 artist5: ""
 ---
