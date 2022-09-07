@@ -11,7 +11,7 @@ street_name: North Union Street
 lat: "40.367478"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: "-74.945626"
-email: hello@unioncoffeenj.com
+email: carolyn@unioncoffeenj.com
 artist12: ""
 artist1: ""
 artist2: 2222KKKD9988DUUUUJDJiido
