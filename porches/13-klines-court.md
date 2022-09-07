@@ -1,6 +1,7 @@
 ---
 id: 0-e08f89898d8fff
-title: More Than Q
+year: "2022"
+title: "'22 More Than Q"
 message: ""
 image: /uploads/screen-shot-2021-10-02-at-8.12.50-am.png
 host: Todd Alan Ellis
@@ -11,10 +12,10 @@ lat: "40.365154"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: "-74.945217"
 email: " info@morethanq.com"
-artist12: 983798789783833ddd
+artist12: ""
 artist1: ""
-artist2: 00009838993820-907gfr6d
-artist3: 00009838993820-907gfr6d
-artist4: 00009838993820-907gfr6d
+artist2: ""
+artist3: ""
+artist4: ""
 artist5: ""
 ---
