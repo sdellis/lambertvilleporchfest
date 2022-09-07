@@ -1,6 +1,6 @@
 ---
 id: sh999ckw93333882hf
-title: The Shackers
+title: "'22 The Shackers"
 name: The Shackers
 bio: The legendary Shackers have been rocking the tow path for eons. Groovy
   originals and classic covers, these guys know how to have a good time!
