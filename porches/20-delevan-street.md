@@ -13,9 +13,9 @@ lat: "40.36921"
 long: "-74.946196"
 email: vickibeyer11@gmail.com
 artist12: f000g88888s222
-artist1: ""
-artist2: ""
-artist3: ""
-artist4: ""
-artist5: ""
+artist1: f000g88888s222
+artist2: 22:00:22
+artist3: 22:00:22
+artist4: sh999ckw93333882hf
+artist5: sh999ckw93333882hf
 ---
