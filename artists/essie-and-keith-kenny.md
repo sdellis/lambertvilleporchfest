@@ -1,7 +1,7 @@
 ---
 id: 00908099ss009399d99-0
-title: Essie and Keith Kenny
-name: Essie and Keith Kenny
+title: "'22  Keith Kenny"
+name: " Keith Kenny"
 bio: If the audience at a Keith Kenny show were to close their eyes for the
   performance they would swear that there was a full band on stage. The
   audience, however, is too busy dancing to the one-man acts layered guitar
