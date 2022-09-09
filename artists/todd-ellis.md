@@ -1,6 +1,6 @@
 ---
 id: 22:00:20
-title: "'22 Tod the Mod"
+title: "'22 Todd Ellis-Tod the Mod"
 name: Todd Ellis
 bio: ""
 link: ""
