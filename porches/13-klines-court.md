@@ -13,7 +13,7 @@ lat: "40.365154"
 long: "-74.945217"
 email: " info@morethanq.com"
 artist12: 983798789783833ddd
-artist1: ""
+artist1: 22:00:20
 artist2: chelsea
 artist3: 00908099ss009399d99-0
 artist4: ""
