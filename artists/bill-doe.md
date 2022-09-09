@@ -1,6 +1,6 @@
 ---
 id: 22:00:21
-title: Bill and Fred's Excellent Adventure
+title: "'22 Bill and Fred's Excellent Adventure"
 name: Bill Doe
 bio: ""
 link: ""
