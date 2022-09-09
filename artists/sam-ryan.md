@@ -1,6 +1,6 @@
 ---
 id: 983798789783833ddd
-title: Sam Ryan
+title: "'22 Sam Ryan"
 name: Sam Ryan
 bio: Sammy toured as a backup vocalist with Earth, Wind, and Fire. 'Nuff said.
   See this show!
