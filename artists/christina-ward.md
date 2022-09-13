@@ -12,7 +12,7 @@ bio: >-
   Christina Will be sharing the stage and playing bass with Our Bodies Themselves, the brainchild of Nawi Avila. Part performance art, part serious musicianship, and part comedy, OBT is one of the most unique and creative acts I have ever seen, so please do yourself a favor and see Themselves for yourselves.
 image: /uploads/unnamed.png
 link: https://christinaward.bandcamp.com/
-time: 2021-09-20T18:03:20.747Z
+time: 2022-09-13T15:39:02.970Z
 email: cmward477@gmail.com
 venmo: ???
 paypal: ???
