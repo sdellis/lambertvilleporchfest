@@ -3,7 +3,7 @@ id: 2022:09:07
 year: "2022"
 title: Intergalactic Picnic Porch
 message: "BYO Supernova! "
-host: C Ward
+host: Christina Ward
 house_number: "00"
 street_name: missing
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
