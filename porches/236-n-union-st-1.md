@@ -13,8 +13,8 @@ long: ""
 email: yes
 artist12: ""
 artist1: ""
-artist2: ""
-artist3: ""
+artist2: 22:00:23
+artist3: 22:00:24
 artist4: ""
 artist5: ""
 ---
