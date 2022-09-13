@@ -65,6 +65,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/todd-ellis/",
+    component: c1
+  },
+  {
     path: "/artists/sam-ryan/",
     component: c1
   },
@@ -90,6 +94,10 @@ export default [
   },
   {
     path: "/artists/njno-not-just-nyckelharpa-orchestra/",
+    component: c1
+  },
+  {
+    path: "/artists/peter-sandler/",
     component: c1
   },
   {
@@ -125,11 +133,19 @@ export default [
     component: c1
   },
   {
+    path: "/porches/111-n-union-st/",
+    component: c2
+  },
+  {
     path: "/porches/138-north-union-street/",
     component: c2
   },
   {
     path: "/porches/148-north-union-street/",
+    component: c2
+  },
+  {
+    path: "/porches/236-n-union-st/",
     component: c2
   },
   {
@@ -151,6 +167,14 @@ export default [
   {
     path: "/artists/jimi-mitchell/",
     component: c1
+  },
+  {
+    path: "/porches/1-washington-st/",
+    component: c2
+  },
+  {
+    path: "/porches/10-bridge-st/",
+    component: c2
   },
   {
     path: "/porches/103-clinton-street/",
@@ -221,6 +245,18 @@ export default [
     component: c2
   },
   {
+    path: "/porches/45-buttonwood/",
+    component: c2
+  },
+  {
+    path: "/porches/54-buttonwood/",
+    component: c2
+  },
+  {
+    path: "/porches/56-buttonwood/",
+    component: c2
+  },
+  {
     path: "/artists/dave-iannuccis-acoustic-love-shack/",
     component: c1
   },
@@ -278,6 +314,10 @@ export default [
   },
   {
     path: "/artists/creeping-charlie/",
+    component: c1
+  },
+  {
+    path: "/artists/bill-doe/",
     component: c1
   },
   {

@@ -5,7 +5,7 @@
       <!-- <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Merchandise pre-order is closed! Taking new orders at Ely Park on Oct 2nd.👕</a></p> -->
       <p>Porchfest is October 1st, 2022. Registration is now open for Porch Hosts! <a href="https://forms.gle/aWaNMDc4u1QrpGLy6">Register here!</a></p>
 
-      <!-- <div v-for="porch in $page.porches.edges" :key="porch.id" class="porch d-flex">
+      <div v-for="porch in $page.porches.edges" :key="porch.id" class="porch d-flex">
         <div class="porch__img" v-if="porch.node.image"
              :style="{ 'background-image': 'url(' + porch.node.image + ')' }"></div>
         <div class="porch__img placeholder"  v-else><p>No image available</p></div>
@@ -15,14 +15,14 @@
           <em>{{porch.node.house_number}} {{porch.node.street_name}}</em>
           <p class="porch__abstract">{{porch.node.message}}</p>
         </div>
-      </div> -->
+      </div>
 
     </div>
   </Layout>
 </template>
 <page-query>
 query {
-  porches: allPorches {
+  porches: allPorches(filter: { year: { eq: "2022" }}) {
     edges {
       node {
         title
