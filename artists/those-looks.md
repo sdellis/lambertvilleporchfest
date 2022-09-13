@@ -1,6 +1,7 @@
 ---
-id: chelsea
+id: 9126745
 title: "'22 Those Looks"
+year: "2022"
 name: Those Looks
 bio: Slo jams from the wilds of New Jersey.
 image: /uploads/trucksluts-1-.jpg

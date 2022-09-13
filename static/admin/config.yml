@@ -11,6 +11,7 @@ collections:
       slug: "{{name}}"
       fields:
         - {label: "ID", name: "id", widget: "string"}
+        - {label: "Year", name: "year", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Name", name: "name", widget: "string"}
         - {label: "Short Bio / Tagline", name: "bio", widget: "markdown", default: "", required: false}

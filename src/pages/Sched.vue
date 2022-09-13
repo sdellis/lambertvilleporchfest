@@ -8,7 +8,7 @@
 3 Station Ct</a>, or by patronizing one of our local restaurants. Porch hosts are not obligated to provide rest rooms.</p> -->
     <h1>Noon - 6pm</h1>
     <h2>Porch Concerts will happen around town, and the schedules will be posted here.</h2>
-    <!--
+
     <h1>Noon</h1>
     <div v-for="artist in artists_12" :key="artist.id" class="porch d-flex">
       <h2><a :href="artist.path">{{ artist.name }}</a></h2>
@@ -44,26 +44,25 @@
       <h2><a :href="artist.path">{{ artist.name }}</a></h2>
       <p>{{ artist.bio }}</p>
       <p><a :href="artist.porchPath">Go to porch</a></p>
-    </div> -->
-    <h1>6pm-9pm</h1>
+    </div>
+    <h1>5pm-8pm</h1>
 
       <h2>Elks Lodge Open Mic @ 66 Wilson Street</h2>
       <p>The Elks will keep the party going with their monthly open mic (every first Saturday!)</p>
-      <h2>City Wide Dance Party (location TBA)</h2>
-      <!-- <p>Parks &amp; Rec is sponsoring a dance party at Ely Park with roller skating on the basketball court (byo-skates and helmet). </p>
+      <h2>City Wide Dance Party (at Mary Sheridan Park on York Street)</h2>
+      <p>Spreen Mortgage is sponsoring the dance party bathrooms!</p>
       <p>Local DJs:</p>
         <ul>
-          <li>.bit busy. (6pm) NY Subway Brassbeat </li>
-          <li>Shaw Civitarese (7pm) Booty-shaking House</li>
-          <li>Alderaan Express (8pm) Fun/Groovy House</li>
-        </ul> -->
+          <li>Shaw Civitarese (5pm) Booty-shaking House</li>
+          <li>Alderaan Express (6:30pm) Fun/Groovy House</li>
+        </ul>
 
 
   </Layout>
 </template>
 <page-query>
 query {
-  porches: allPorches {
+  porches: allPorches(filter: { year: { eq: "2022" }}) {
     edges {
       node {
         id
@@ -86,7 +85,7 @@ query {
       }
     }
   }
-  artists: allArtists {
+  artists: allArtists(filter: { year: { eq: "2022" }}) {
     edges {
       node {
         id

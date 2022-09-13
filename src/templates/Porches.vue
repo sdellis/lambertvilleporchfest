@@ -13,6 +13,7 @@
           {{$page.porch.content}}
         </div>
         <h2>Artist Schedule</h2>
+        <div>{{ $page.porch.artist_2 }}</div>
         <ul>
           <li v-if="artist_12.name">Noon-1pm: <a :href="artist_12.path">{{artist_12.name}}</a></li>
           <li v-if="artist_1.name">1pm-2pm: <a :href="artist_1.path">{{artist_1.name}}</a></li>
@@ -46,7 +47,7 @@ query ($path: String!) {
     artist4
     artist5
   }
-  artists: allArtists {
+  artists: allArtists(filter: { year: { eq: "2022" }}) {
     edges {
       node {
         id

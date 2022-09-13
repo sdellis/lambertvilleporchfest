@@ -1,6 +1,7 @@
 ---
-id: 22:00:22
+id: 220022
 title: "'22 Peter Sandler"
+year: "2022"
 name: Peter Sandler
 bio: ""
 link: ""
