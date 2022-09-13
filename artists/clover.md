@@ -19,7 +19,7 @@ bio: CLOVER is a singer-songwriter originally from Lambertville, New Jersey.
   song “I Don’t Use Your Name” arriving September 17th.
 image: /uploads/screen-shot-2021-09-25-at-1.59.07-pm.png
 link: https://www.cloveronthemic.com/
-time: 2021-09-25T17:50:38.755Z
+time: 2022-09-13T15:38:42.545Z
 email: cloveronthemic@gmail.com
 venmo: "@clovermusic "
 paypal: cstieve3@gmail.com
