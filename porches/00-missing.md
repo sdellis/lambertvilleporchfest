@@ -1,7 +1,7 @@
 ---
 id: 2022:09:07
 year: "2022"
-title: Intergalactic Picnic Porch
+title: "'22 Intergalactic Picnic Porch"
 message: "BYO Supernova! "
 host: Christina Ward
 house_number: "00"
