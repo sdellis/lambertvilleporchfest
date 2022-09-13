@@ -1,7 +1,8 @@
 ---
 id: 345601
-title: Christina Ward / Our Bodies Themselves
-name: Christina Ward / Our Bodies Themselves
+year: "2022"
+title: "'22 Christina Ward"
+name: "Christina Ward "
 bio: >-
   Christina Ward delivers her lyrical poetry like a humming bird plucking at
   your heart strings. She released a  four-song EP on Mint 400 records earlier
