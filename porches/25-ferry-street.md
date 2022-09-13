@@ -11,9 +11,9 @@ lat: "40.364983"
 long: "-74.944373"
 email: mike@michaelmenche.com
 artist12:
-artist1: dftr900000033333ee3337663
-artist2: 
-artist3: 
-artist4: 
-artist5: 
+artist1: 
+artist2:
+artist3:
+artist4:
+artist5:
 ---

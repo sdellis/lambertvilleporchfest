@@ -1,5 +1,5 @@
 ---
-id: 09dddd0dd999d9eeeenbbbb
+id: 1999222
 title: Jimi Mitchell
 name: Jimi Mitchell
 bio: Jim Mitchell is a solo guitarist and singer.  He plays a wide variety of

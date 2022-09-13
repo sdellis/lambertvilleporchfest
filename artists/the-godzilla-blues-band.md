@@ -1,5 +1,5 @@
 ---
-id: wwe232243567676etge
+id: 232243567676
 title: The Godzilla Blues Band
 name: The Godzilla Blues Band
 bio: The Godzilla Blues band is the creation of Mike Smull, a studied and

@@ -1,5 +1,5 @@
 ---
-id: "1231"
+id: 1231
 title: "Laurie Vosburg "
 name: "Laurie Vosburg "
 bio: Laurie Vosburg founded the 519 South Band in 1996. A mix of originals and

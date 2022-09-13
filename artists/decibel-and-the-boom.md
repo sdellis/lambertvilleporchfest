@@ -1,5 +1,5 @@
 ---
-id: xxx000988w88s7777s
+id: 7000988
 title: Decibel and the Boom
 name: Decibel and the Boom
 bio: From groove to vibe to rock and everything in between, Decibel and The Boom

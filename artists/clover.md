@@ -1,5 +1,5 @@
 ---
-id: 397893849eoid883ue
+id: 397893849
 title: CLOVER
 name: CLOVER
 bio: CLOVER is a singer-songwriter originally from Lambertville, New Jersey.

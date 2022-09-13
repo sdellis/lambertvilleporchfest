@@ -1,5 +1,5 @@
 ---
-id: 000030---0938UE8D883
+id: 1000030
 title: Brad Staudle
 name: Brad Staudle
 bio: '"Silk and smoke" vocals. Like, for real. Brad croons out the best hits of

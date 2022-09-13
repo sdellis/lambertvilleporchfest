@@ -1,5 +1,5 @@
 ---
-id: sls29299843763
+id: 29299843763
 title: Your Kids
 name: Your Kids
 bio: A WHISKEY BASED PROJECT FROM NEW HOPE, PA.

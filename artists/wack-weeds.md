@@ -1,5 +1,5 @@
 ---
-id: xxxxiiwi99993333
+id: 99993333
 title: Wack Weeds
 name: Wack Weeds
 bio: Wack Weeds is a four piece post rock band with ties to Lambertville, and

@@ -1,5 +1,5 @@
 ---
-id: 3434349993999dded99
+id: 3434349993999
 title: "Acoustic Kelly "
 name: "Acoustic Kelly "
 bio: Tim Kelly is an acoustic solo performer and Lambertville resident whose

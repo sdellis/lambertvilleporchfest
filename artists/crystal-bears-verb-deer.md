@@ -1,5 +1,5 @@
 ---
-id: 03809324098345GGGG3
+id: 3809324098345
 title: CBVD*
 name: Crystal Bears Verb Deer
 bio: ""

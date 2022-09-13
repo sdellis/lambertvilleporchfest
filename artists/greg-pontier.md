@@ -1,5 +1,5 @@
 ---
-id: 0000022999399d9id9
+id: 22999399
 title: Greg Pontier
 name: Greg Pontier
 bio: Guitar Player, Folk Singer and Comic Book Lover.  Influenced by the music

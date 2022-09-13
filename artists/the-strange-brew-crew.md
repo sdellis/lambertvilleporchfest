@@ -1,5 +1,5 @@
 ---
-id: 00009838993820-907gfr6d
+id: 983899382099
 title: The Strange Brew Crew
 name: The Strange Brew Crew
 bio: The Strange Brew Crew are a Lambertville based band that plays a wide range

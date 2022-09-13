@@ -12,8 +12,8 @@ long: "-74.945103"
 email: timothyjkelly@msn.com
 artist12:
 artist1:
-artist2: 3434349993999dded99
-artist3: 3434349993999dded99
+artist2:
+artist3: 
 artist4:
-artist5: 
+artist5:
 ---
