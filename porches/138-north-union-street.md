@@ -11,7 +11,7 @@ street_name: North Union Street
 lat: "40.37146"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: "-74.946615"
-email: dumassue@hotmail.com
+email: Cmward477@gmail.com
 artist12: 397893849
 artist1: 90000008843
 artist2: 345601
