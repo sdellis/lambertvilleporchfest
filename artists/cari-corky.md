@@ -1,6 +1,7 @@
 ---
 id: 10909898
-title: Cari & Corky
+year: "2022"
+title: "'22 Cari Joy, Corky, and Friends"
 name: Cari & Corky
 bio: Heartfelt music by a piano and guitar duo. Met at an open mic, got engaged
   at an open mic and have been playing music together all the days in between.
