@@ -1,8 +1,8 @@
 ---
-id: 20:09:28
+id: 91
 year: "2022"
-title: "Thai Tida Parking Lot"
-message: "Yesterday's weirdness is tomorrow's reason why- Hunter S Thompson "
+title: Thai Tida Parking Lot
+message: "\"Yesterday's weirdness is tomorrow's reason why.\" - Hunter S Thompson "
 host: Mike and Natta
 house_number: "236"
 street_name: N Union St
@@ -11,10 +11,10 @@ lat: ""
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: ""
 email: mikeandnatta@gmail.com
-artist12:
-artist1:
-artist2:
-artist3:
-artist4:
-artist5:
+artist12: null
+artist1: null
+artist2: 29
+artist3: 24
+artist4: null
+artist5: null
 ---
