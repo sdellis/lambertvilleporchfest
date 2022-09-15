@@ -1,7 +1,7 @@
 ---
 id: 222000121193331
 year: "2022"
-title: "'22 Jaysond Neill"
+title: "Jaysond Neill"
 name: Jaysond Neill
 bio: ""
 link: ""

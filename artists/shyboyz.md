@@ -1,8 +1,8 @@
 ---
 id: 29
 year: "2022"
-title: "'22 Shyboyz"
-name: Shyboyz
+title: "Shyboyz"
+name: "Shyboyz"
 bio: ""
 link: ""
 time: 2022-09-13T15:41:46.311Z

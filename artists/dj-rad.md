@@ -1,7 +1,7 @@
 ---
 id: 24
 year: "2022"
-title: " '22 DJ Rad"
+title: "DJ Rad"
 name: DJ Rad
 bio: ""
 link: ""

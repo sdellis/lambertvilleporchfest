@@ -1,7 +1,7 @@
 ---
 id: 2299999921212
 year: "2022"
-title: "'22 Tod the Mod"
+title: "Tod the Mod"
 name: Tod the Mod
 bio: ""
 link: ""

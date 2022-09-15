@@ -1,8 +1,8 @@
 ---
 id: 3455167711
 year: "2022"
-title: "'22 Proboscis"
-name: Proboscis
+title: "Proboscis"
+name: "Proboscis"
 bio: Behold the brainchild of Mother Mantis and Cloud. All their songs are about
   insects. Heavy, heavy insects.
 image: /uploads/image0-3-.jpeg

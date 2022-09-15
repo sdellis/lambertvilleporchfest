@@ -1,8 +1,8 @@
 ---
 id: 908099
-title: "'22  Keith Kenny"
+title: "Keith Kenny"
 year: "2022"
-name: " Keith Kenny"
+name: "Keith Kenny"
 bio: If the audience at a Keith Kenny show were to close their eyes for the
   performance they would swear that there was a full band on stage. The
   audience, however, is too busy dancing to the one-man acts layered guitar

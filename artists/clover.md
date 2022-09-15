@@ -1,7 +1,7 @@
 ---
 id: 397893849
 year: "2022"
-title: "'22 CLOVER"
+title: "CLOVER"
 name: CLOVER
 bio: CLOVER is a singer-songwriter originally from Lambertville, New Jersey.
   Captivating and perplexing, with vocals way bigger than her body, CLOVER wisps

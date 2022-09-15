@@ -1,6 +1,6 @@
 ---
 id: 88811991111
-title: "Jazz House Kids "
+title: "Jazz House Kids"
 name: "Jazz House Kids "
 bio: ""
 link: ""

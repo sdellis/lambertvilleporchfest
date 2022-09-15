@@ -1,8 +1,8 @@
 ---
 id: 325344333
 year: "2022"
-title: "'22 Rowan Hara/Christian Pettinelli, "
-name: Rowan Hara
+title: "Rowan Hara and Christian Pettinelli"
+name: "Rowan Hara and Christian Pettinelli"
 bio: Rowan Hara is a high school student at South. They are an incredible
   vocalist and guitarist. A must-see-act of Porchfest.
 link: ""

@@ -1,7 +1,7 @@
 ---
 id: 30
 year: "2022"
-title: "'22 The Hive"
+title: "The Hive"
 name: The Hive
 bio: ""
 link: ""

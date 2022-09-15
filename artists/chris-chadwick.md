@@ -1,7 +1,7 @@
 ---
 id: 88888222
 year: "2022"
-title: "'22 Chris Chadwick"
+title: "Chris Chadwick"
 name: Chris Chadwick
 bio: The music of Chris Chadwick has its roots in the Greenwich Village folk
   scene, with generous helpings of jazz, blues, country, and classic R&B. Ray
