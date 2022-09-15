@@ -1,7 +1,7 @@
 ---
 id: kaosi9392jhjji99333
 year: "2022"
-title: 22 Corner of Chaos
+title: Corner of Chaos
 message: On the front lines liberating people with music!
 image: /uploads/20210922_114945-800x400-russell-genna.jpg
 host: Russel Genna
@@ -17,5 +17,5 @@ artist1:
 artist2:
 artist3:
 artist4:
-artist5: 
+artist5:
 ---

@@ -1,7 +1,7 @@
 ---
 id: 0980--98y8ytughyyy66sw3e
 year: "2022"
-title: 22 Baked By the River
+title: Baked By the River
 message: ""
 image: /uploads/rachel-bbtr.jpeg
 host: Jesse Marie
@@ -14,8 +14,8 @@ long: "-74.946988"
 email: jessevillars@gmail.com
 artist12:
 artist1:
-artist2: 
-artist3: 
-artist4: 
-artist5: 
+artist2:
+artist3:
+artist4:
+artist5:
 ---

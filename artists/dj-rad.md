@@ -1,5 +1,5 @@
 ---
-id: 22:00:24
+id: 24
 year: "2022"
 title: " '22 DJ Rad"
 name: DJ Rad

@@ -10,7 +10,7 @@ collections:
       create: true
       slug: "{{name}}"
       fields:
-        - {label: "ID", name: "id", widget: "string"}
+        - {label: "ID", name: "id", widget: "number", pattern: ['^[0-9]+$', "Must be an integer."]}
         - {label: "Year", name: "year", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Name", name: "name", widget: "string"}
@@ -28,7 +28,7 @@ collections:
       create: true
       slug: "{{house_number}}-{{street_name}}"
       fields:
-        - {label: "ID", name: "id", widget: "string"}
+        - {label: "ID", name: "id", widget: "number", pattern: ['^[0-9]+$', "Must be an integer."]}
         - {label: "Year", name: "year", widget: "string"}
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Your message to Porchfest attendees", name: "message", widget: "text", default: "", required: false}

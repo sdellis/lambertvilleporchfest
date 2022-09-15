@@ -1,7 +1,7 @@
 ---
 id: 9877777222229ddjjuucc
 year: "2022"
-title: 22 Roy's Garage
+title: Roy's Garage
 message: "Music is limitless. "
 image: /uploads/roy-s-garage-vicki-beyer.jpg
 host: Vicki Beyer

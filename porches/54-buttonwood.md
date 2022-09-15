@@ -1,7 +1,7 @@
 ---
 id: 10:09:29
 year: "2022"
-title: 22-Everybody is a Star
+title: Everybody is a Star
 message: '"Everybody is a star, I can feel it when you shine on me. I love you
   for who you are, not the one you feel you need to be."'
 host: Corky Brown
@@ -14,8 +14,8 @@ long: ""
 email: galaxyblur@gmail.com
 artist12: 325344333
 artist1: 10909898
-artist2: 22:00:26
-artist3: 22:00:26
-artist4: null
-artist5: null
+artist2:
+artist3:
+artist4:
+artist5: 
 ---

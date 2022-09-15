@@ -1,7 +1,7 @@
 ---
 id: 0-e08f89898d8fff
 year: "2022"
-title: "'22 More Than Q"
+title: "More Than Q"
 message: Smokin!
 image: /uploads/screen-shot-2021-10-02-at-8.12.50-am.png
 host: Todd Alan Ellis

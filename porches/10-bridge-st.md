@@ -1,7 +1,7 @@
 ---
 id: 10:29:32
 year: "2022"
-title: 22-10 Bridge St
+title: 10 Bridge St
 message: ""
 host: Jeff Penque
 house_number: "10"
@@ -16,5 +16,5 @@ artist1:
 artist2:
 artist3:
 artist4:
-artist5: 
+artist5:
 ---

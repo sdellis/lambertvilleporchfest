@@ -1,7 +1,7 @@
 ---
 id: 3398239798deee8e88dd
 year: "2022"
-title: 22 Porch-o-lonis
+title: Porch-o-lonis
 message: Bringing Rock to the Block for 25 years!
 image: /uploads/spring-2013-002-1-alex-palilonis.jpg
 host: Alex Palilonis
@@ -12,10 +12,10 @@ lat: "40.371778"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: "-74.946613"
 email: dweezilp@gmail.com
-artist12: 
-artist1: 
-artist2: 
-artist3: 
-artist4: 
-artist5: 
+artist12:
+artist1:
+artist2:
+artist3:
+artist4:
+artist5:
 ---

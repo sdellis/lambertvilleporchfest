@@ -49,6 +49,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/the-hive/",
+    component: c1
+  },
+  {
     path: "/artists/the-mayflys/",
     component: c1
   },
@@ -86,6 +90,10 @@ export default [
   },
   {
     path: "/artists/rowan-hara/",
+    component: c1
+  },
+  {
+    path: "/artists/shyboyz/",
     component: c1
   },
   {
@@ -163,6 +171,10 @@ export default [
   {
     path: "/porches/7-north-main-street/",
     component: c2
+  },
+  {
+    path: "/artists/jaysond-neill/",
+    component: c1
   },
   {
     path: "/artists/jimi-mitchell/",
@@ -289,6 +301,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/dj-rad/",
+    component: c1
+  },
+  {
     path: "/artists/bon-temp-tucker/",
     component: c1
   },
@@ -314,6 +330,10 @@ export default [
   },
   {
     path: "/artists/creeping-charlie/",
+    component: c1
+  },
+  {
+    path: "/artists/deskjobs/",
     component: c1
   },
   {

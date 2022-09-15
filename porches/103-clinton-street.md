@@ -1,6 +1,6 @@
 ---
 id: ddd222200s00s9887
-title: The Canal House
+title: "The Canal House"
 message: "The Circle of Light Embodies the Soul "
 host: Allison Brown
 house_number: "103"
@@ -12,8 +12,8 @@ long: "-74.947977"
 email: allison.m.brown@comcast.net
 artist12:
 artist1:
-artist2: 
-artist3: 
-artist4: 
-artist5: 
+artist2:
+artist3:
+artist4:
+artist5:
 ---

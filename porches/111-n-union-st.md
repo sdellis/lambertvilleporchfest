@@ -1,7 +1,7 @@
 ---
-id: 8:45:13
+id: 84513
 year: "2022"
-title: "'22 111 N Union St"
+title: "111 N Union St"
 message: ""
 host: Rebekah Siau
 house_number: "111"
@@ -11,10 +11,10 @@ lat: ""
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: ""
 email: bekahsiau@gmail.com
-artist12: 
-artist1: 
-artist2: 
-artist3: 
-artist4: 
-artist5: 
+artist12:
+artist1:
+artist2:
+artist3:
+artist4:
+artist5:
 ---

@@ -1,8 +1,8 @@
 ---
-id: 213813813899488ddnchx
+id: 21381381389948854
 year: "2022"
-title: "'22 Intergalactic Picnic Porch"
-message: ""
+title: "Intergalactic Picnic Porch"
+message: "BYO Supernova!"
 image: /uploads/sue.jpg
 host: Christina Ward /Sue Dumas
 house_number: "138"
@@ -12,10 +12,10 @@ lat: "40.37146"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: "-74.946615"
 email: Cmward477@gmail.com
-artist12: 397893849
-artist1: 90000008843
-artist2: 345601
-artist3: "22200012119333"
-artist4: 3455167711
-artist5: null
+artist12:
+artist1:
+artist2:
+artist3:
+artist4:
+artist5:
 ---
