@@ -1,7 +1,7 @@
 ---
 id: 2888837771983
 year: "2022"
-title: "'22 Bill and Fred's Excellent Adventure"
+title: " Bill and Fred's Excellent Adventure"
 name: Bill and Fred's Excellent Adventure
 bio: ""
 link: ""
