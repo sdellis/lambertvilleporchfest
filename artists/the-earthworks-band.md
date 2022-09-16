@@ -1,5 +1,6 @@
 ---
 id: 3394994930377
+year: "2022"
 title: The EarthWorks Band
 name: The EarthWorks Band
 bio: The EarthWorks band is led by "Chuck’s got a Guy” Schubert who has been
@@ -9,7 +10,7 @@ bio: The EarthWorks band is led by "Chuck’s got a Guy” Schubert who has been
   guitar players!
 image: /uploads/earthworksband.jpeg
 link: ""
-time: 2021-09-21T00:30:21.973Z
+time: 2022-09-16T14:07:10.064Z
 email: ""
 venmo: ???
 paypal: ???
