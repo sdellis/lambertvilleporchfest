@@ -2,7 +2,7 @@
 id: 220028
 year: "2022"
 title: JavaSway
-name: Jeff F, David & Allison
+name: JavaSway
 bio: JavaSway swings an eclectic genre of romantic American and French
   jazz-style music. Singer, Allison Brown joins jazz guitar virtuoso, Jeffrey
   Fadden, and the inimitable double bassist, David Paller, for a performance
