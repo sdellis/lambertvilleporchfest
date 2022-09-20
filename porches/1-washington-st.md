@@ -1,5 +1,5 @@
 ---
-id: 12:54:51
+id: 12
 year: "2022"
 title: 1 Washington St
 message: corner of York & Washington
@@ -11,10 +11,10 @@ lat: ""
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: ""
 email: markfdonlon@verizon.net
-artist12: 
-artist1: 
-artist2: 
-artist3: 
-artist4: 
-artist5: 
+artist12: null
+artist1: null
+artist2: null
+artist3: 319
+artist4: null
+artist5: null
 ---
