@@ -46,7 +46,7 @@ collections:
           collection: "artist"
           searchFields: ["name"]
           display_fields: ["{{name}}"]
-          default: ""
+          default:
           valueField: "id"
           required: false
         - label: "Artist - 1pm"
@@ -55,7 +55,7 @@ collections:
           collection: "artist"
           searchFields: ["name"]
           display_fields: ["{{name}}"]
-          default: ""
+          default:
           valueField: "id"
           required: false
         - label: "Artist - 2pm"
@@ -64,7 +64,7 @@ collections:
           collection: "artist"
           searchFields: ["name"]
           display_fields: ["{{name}}"]
-          default: ""
+          default:
           valueField: "id"
           required: false
         - label: "Artist - 3pm"
@@ -73,7 +73,7 @@ collections:
           collection: "artist"
           searchFields: ["name"]
           display_fields: ["{{name}}"]
-          default: ""
+          default:
           valueField: "id"
           required: false
         - label: "Artist - 4pm"
@@ -82,7 +82,7 @@ collections:
           collection: "artist"
           searchFields: ["name"]
           display_fields: ["{{name}}"]
-          default: ""
+          default:
           valueField: "id"
           required: false
         - label: "Artist - 5pm"
@@ -91,6 +91,6 @@ collections:
           collection: "artist"
           searchFields: ["name"]
           display_fields: ["{{name}}"]
-          default: ""
+          default: 
           valueField: "id"
           required: false
