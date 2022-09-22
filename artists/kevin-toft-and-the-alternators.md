@@ -9,6 +9,7 @@ bio: |-
   Rock Blues & Soul 
 
   https://www.facebook.com/profile.php?id=100057170542279
+image: /uploads/kevin-toft.jpg
 link: ""
 time: 2022-09-22T01:10:56.352Z
 email: ""
