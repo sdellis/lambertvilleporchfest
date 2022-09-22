@@ -10,6 +10,7 @@ bio: >-
 
 
   [https://en.​wikipedia.org/wiki/Hollywood,_​Los_Angeles](https://en.wikipedia.org/wiki/Hollywood,_Los_Angeles)
+image: /uploads/tinsel-town.jpg
 link: ""
 time: 2022-09-22T01:13:18.427Z
 email: ""
