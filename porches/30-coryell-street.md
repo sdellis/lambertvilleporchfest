@@ -13,8 +13,8 @@ long: "-74.945103"
 email: timothyjkelly@msn.com
 artist12: null
 artist1: null
-artist2: 3434349993999
-artist3: 3434349993999
+artist2: 3999
+artist3: 3999
 artist4: null
 artist5: null
 ---
