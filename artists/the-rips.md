@@ -1,11 +1,18 @@
 ---
 id: 238322323
-title: The Rips
-name: The Rips
-bio: ""
+year: "2022"
+title: RIPS
+name: RIPS
+bio: >-
+  RIPS are an original rock trio from Bucks County. RIPS make bold yet melodic
+  noises mixing elements of country, soul, punk. RIPS like chicks, whiskey and
+  anything that moves fast
+
+
+  .[https://www.facebook.com/​Rips101/](https://www.facebook.com/Rips101/)
 image: /uploads/therips.jpg
 link: ""
-time: 2021-09-21T00:50:57.696Z
+time: 2022-09-22T01:09:28.415Z
 email: ""
 venmo: ???
 paypal: ???
