@@ -1,5 +1,5 @@
 ---
-id: 0-e08f89898d8fff
+id: 4321
 year: "2022"
 title: "More Than Q"
 message: Smokin!
@@ -12,10 +12,10 @@ lat: "40.365154"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: "-74.945217"
 email: info@morethanq.com
-artist12: 983798789783833
-artist1: 2299999921212
+artist12: 9837
+artist1: 2299
 artist2: 9126745
 artist3: 908099
-artist4: 2888837771983
-artist5: 2888837771983
+artist4: 2888
+artist5: 2888
 ---
