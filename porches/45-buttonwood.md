@@ -1,5 +1,5 @@
 ---
-id: 12:13:17
+id: 121317
 year: "2022"
 title: 45 Buttonwood
 message: ""
@@ -11,10 +11,10 @@ lat: ""
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: ""
 email: tony.martinez.fp@gail.com
-artist12:
-artist1:
-artist2:
-artist3:
-artist4:
-artist5:
+artist12: null
+artist1: null
+artist2: null
+artist3: null
+artist4: null
+artist5: null
 ---
