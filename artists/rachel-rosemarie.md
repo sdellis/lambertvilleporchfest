@@ -1,5 +1,6 @@
 ---
 id: 20980893903820
+year: "2022"
 title: Rachel Rosemarie
 name: Rachel Rosemarie
 bio: rachel rosemarie crafts deeply poetic songs that work through the
