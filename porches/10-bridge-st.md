@@ -1,7 +1,7 @@
 ---
 id: 1029
 year: "2022"
-title: 10 Bridge St
+title: Bank of Princeton Gallery
 message: ""
 host: Jeff Penque
 house_number: "10"
@@ -11,10 +11,10 @@ lat: ""
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: ""
 email: jeffpenque@aol.com
-artist12:
-artist1:
-artist2:
-artist3:
-artist4:
-artist5:
+artist12: null
+artist1: null
+artist2: null
+artist3: null
+artist4: null
+artist5: null
 ---
