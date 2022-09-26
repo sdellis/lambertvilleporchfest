@@ -10,7 +10,7 @@ bio: >-
 
 
   .[https://www.facebook.com/​Rips101/](https://www.facebook.com/Rips101/)
-image: /uploads/porchfest.jpg
+image: ""
 link: ""
 time: 2022-09-22T01:09:28.415Z
 email: ""
