@@ -15,7 +15,7 @@ email: dweezilp@gmail.com
 artist12: null
 artist1: 220030
 artist2: null
-artist3: 238322323
+artist3: 23832
 artist4: 220031
 artist5: 32999
 ---

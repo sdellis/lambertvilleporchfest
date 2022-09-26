@@ -12,6 +12,6 @@ lat: ""
 long: ""
 email: jessevillars@gmail.com
 artist12: 220036
-artist1: 20980893903820
+artist1: 20980
 artist2: 220038
 ---
