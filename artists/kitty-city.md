@@ -1,5 +1,5 @@
 ---
-id: 900001111187
+id: 9003
 name: Kitty City
 bio: A unique blend of psychedelic, indie and pop rock.
 image: /uploads/screen-shot-2021-09-28-at-9.56.49-am.png
