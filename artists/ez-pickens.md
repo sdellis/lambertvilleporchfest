@@ -11,9 +11,6 @@ bio: >-
 
 
   Jesse Masters: bass guitar, vocals , Brian Cassidy: percussion, ukulele
-
-
-  [https://open.spotify.com/​playlist/​0SRfNknuOUukTLlBVZ4Kix?si=​H80DdmWLTYutulD6MUOZ1w&utm_​source=native-share-menu](https://open.spotify.com/playlist/0SRfNknuOUukTLlBVZ4Kix?si=H80DdmWLTYutulD6MUOZ1w&utm_source=native-share-menu)
 link: "[https://open.spotify.com/​playlist/​0SRfNknuOUukTLlBVZ4Kix?si=​H80DdmWL\
   TYutulD6MUOZ1w&utm_​source=native-share-menu](https://open.spotify.com/playli\
   st/0SRfNknuOUukTLlBVZ4Kix?si=H80DdmWLTYutulD6MUOZ1w&utm_source=native-share-m\
