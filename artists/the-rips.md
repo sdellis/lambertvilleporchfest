@@ -10,8 +10,8 @@ bio: >-
 
 
   .[https://www.facebook.com/​Rips101/](https://www.facebook.com/Rips101/)
-image: ""
-link: ""
+image: /uploads/screen-shot-2022-09-26-at-10.52.10-am.png
+link: https://www.facebook.com/Rips101/
 time: 2022-09-22T01:09:28.415Z
 email: ""
 venmo: ???
