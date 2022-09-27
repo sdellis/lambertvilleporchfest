@@ -3,11 +3,11 @@ id: 311
 year: "2022"
 title: "Calla Bere and The Attitude "
 name: "Calla Bere and The Attitude "
-bio: "Calla Bere & The Attitude formed in January, 2017.  Led by the powerful
-  vocals and emotive songwriting of Calla Bere, topped with Kevin Rovner’s
-  searing Duane-Allman-influenced guitar, Steve Amato on awesome bass guitar,
-  and driven by \"mastermind\"  Rich Berends' drum work, they spin their
-  audience into a swaying world of sound, dance and trance. "
+bio: New Hope-based and rock ‘n’ soul-raised, roots rock group Calla Bere & The
+  Attitude takes the stage for Lambertville Porchfest 2022. CBA is a powerhouse
+  experience you want. From alluring grooves to ground-shaking originals,
+  Hibernia Fire Co. is the place to be this Porchfest.
+image: /uploads/calla-bere.jpg
 link: http://callabereandtheattitude.com/
 time: 2022-09-22T18:51:00.898Z
 email: Callabereandtheattitude@gmail
