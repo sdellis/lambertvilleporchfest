@@ -1,8 +1,8 @@
 ---
 id: 220038
 year: "2022"
-title: Loose Kelly
-name: Loose Kelly
+title: Lasso Kelly
+name: Lasso Kelly
 bio: This experimental country trio is going to chew you up n spit you out like
   molasses soaked tobacco.
 link: ""
