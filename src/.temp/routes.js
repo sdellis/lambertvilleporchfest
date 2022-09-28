@@ -25,6 +25,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/the-cold-soil-boys/",
+    component: c1
+  },
+  {
     path: "/artists/the-godzilla-blues-band/",
     component: c1
   },
@@ -41,7 +45,15 @@ export default [
     component: c1
   },
   {
+    path: "/artists/the-local-12/",
+    component: c1
+  },
+  {
     path: "/artists/the-swiss-guard/",
+    component: c1
+  },
+  {
+    path: "/artists/tinsel-town-rebellion/",
     component: c1
   },
   {
@@ -77,6 +89,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/slow-noche/",
+    component: c1
+  },
+  {
     path: "/artists/rachel-rosemarie/",
     component: c1
   },
@@ -105,6 +121,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/patrick-foran/",
+    component: c1
+  },
+  {
     path: "/artists/peter-sandler/",
     component: c1
   },
@@ -117,7 +137,31 @@ export default [
     component: c1
   },
   {
+    path: "/artists/kevin-toft-and-the-alternators/",
+    component: c1
+  },
+  {
+    path: "/artists/nick-clemons/",
+    component: c1
+  },
+  {
+    path: "/artists/mimosa-watusi/",
+    component: c1
+  },
+  {
     path: "/artists/misty-willow/",
+    component: c1
+  },
+  {
+    path: "/artists/jeff-f-david-allison/",
+    component: c1
+  },
+  {
+    path: "/artists/kitty-city-1/",
+    component: c1
+  },
+  {
+    path: "/artists/lasso-kelly/",
     component: c1
   },
   {
@@ -129,11 +173,19 @@ export default [
     component: c1
   },
   {
+    path: "/artists/loose-panic/",
+    component: c1
+  },
+  {
     path: "/artists/j-b-kline/",
     component: c1
   },
   {
     path: "/artists/jazz-house-kids/",
+    component: c1
+  },
+  {
+    path: "/artists/kevin-hilferty/",
     component: c1
   },
   {
@@ -157,6 +209,10 @@ export default [
     component: c2
   },
   {
+    path: "/porches/37-south-main-street/",
+    component: c2
+  },
+  {
     path: "/porches/42-york-street-1/",
     component: c2
   },
@@ -177,6 +233,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/jeff-karen/",
+    component: c1
+  },
+  {
     path: "/artists/jimi-mitchell/",
     component: c1
   },
@@ -190,6 +250,10 @@ export default [
   },
   {
     path: "/porches/103-clinton-street/",
+    component: c2
+  },
+  {
+    path: "/porches/103-s-main/",
     component: c2
   },
   {
@@ -233,7 +297,7 @@ export default [
     component: c2
   },
   {
-    path: "/porches/5-york-street/",
+    path: "/porches/5-york-st/",
     component: c2
   },
   {
@@ -265,8 +329,8 @@ export default [
     component: c2
   },
   {
-    path: "/porches/56-buttonwood/",
-    component: c2
+    path: "/artists/hot-dodge/",
+    component: c1
   },
   {
     path: "/artists/dave-iannuccis-acoustic-love-shack/",
@@ -281,7 +345,15 @@ export default [
     component: c1
   },
   {
+    path: "/artists/grace-carey/",
+    component: c1
+  },
+  {
     path: "/artists/greg-pontier/",
+    component: c1
+  },
+  {
+    path: "/artists/calla-bere-and-the-attitude/",
     component: c1
   },
   {
@@ -301,7 +373,15 @@ export default [
     component: c1
   },
   {
+    path: "/artists/ez-pickens/",
+    component: c1
+  },
+  {
     path: "/artists/dj-rad/",
+    component: c1
+  },
+  {
+    path: "/artists/drama-cycle/",
     component: c1
   },
   {

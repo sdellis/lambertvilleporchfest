@@ -1,5 +1,6 @@
 ---
 id: 90
+year: "2022"
 title: "Daniella Fischetti & Tim Ryan"
 name: "Daniella Fischetti & Tim Ryan"
 bio: Power duo of local bluegrass. You definitely want to catch these young

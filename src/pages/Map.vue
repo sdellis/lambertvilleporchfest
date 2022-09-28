@@ -57,92 +57,86 @@ export default {
       lng: -74.9472286
     },
     coordinates: [
-      // {
-      //   address: '5 York Street',
-      //   lat: '40.3680643',
-      //   lng: '-74.9461641',
-      //   lineup: [
-      //     {
-      //       artist: "Dave Iannucci's Acoustic Love Shack",
-      //       link: "https://lambertvilleporchfest.com/artists/dave-iannuccis-acoustic-love-shack/",
-      //       description: "Song-a-day phenomenon keeps the tunes flowing.",
-      //       timeslot: "12pm",
-      //     },
-      //     {
-      //       artist: "Crystal Bears Verb Dear",
-      //       link: "https://lambertvilleporchfest.com/artists/crystal-bears-verb-deer/",
-      //       description: "Poetic musings sink into experimental soundscapes.",
-      //       timeslot: "1pm",
-      //     },
-      //     {
-      //       artist: "Those Looks",
-      //       link: "https://lambertvilleporchfest.com/artists/crystal-bears-verb-deer/",
-      //       description: "Slo jams from the wilds of New Jersey",
-      //       timeslot: "2pm",
-      //     },
-      //     {
-      //       artist: "Christina Ward / Our Bodies Themselves",
-      //       link: "https://lambertvilleporchfest.com/artists/those-looks/",
-      //       description: "Enchanting and unique alt-folk shares stage with avant garde rock band with a sense of humor.",
-      //       timeslot: "2pm",
-      //     },
-      //     {
-      //       artist: "Chris Buccari",
-      //       link: "https://lambertvilleporchfest.com/artists/chris-buccari/",
-      //       description: "Original nylon string acoustic guitar instrumentals with hints of Latin, Island, Folk and Noir.",
-      //       timeslot: "3pm",
-      //     },
-      //     {
-      //       artist: "Your Kids",
-      //       link: "https://lambertvilleporchfest.com/artists/crystal-bears-verb-deer/",
-      //       description: "Art school electro-punk with Brooklyn vibes",
-      //       timeslot: "3pm",
-      //     }
-      //   ]
-      // },
-      // {
-      //   address: '72 Delaware',
-      //   lat: '40.371487',
-      //   lng: '-74.944647',
-      //   lineup: [
-      //     {
-      //       artist: "The Earthworks Band",
-      //       link: "https://lambertvilleporchfest.com/artists/the-earthworks-band/",
-      //       description: "Band with 5 guitarists plays covers from the 70’s and 80’s.",
-      //       timeslot: "12pm-2pm",
-      //     },
-      //     {
-      //       artist: "The Godzilla Blues Band",
-      //       link: "https://lambertvilleporchfest.com/artists/the-godzilla-blues-band/",
-      //       description: "Original rocking tunes by accomplished guitarist, Mike Smull.",
-      //       timeslot: "3pm-5pm",
-      //     }
-      //   ],
-      // },
-      // {
-      //   address: "13 Lambert Lane",
-      //   lat: 40.3658048, lng: -74.9468706,
-      //   lineup: [
-      //     {
-      //       artist: "Rachel Rosemarie",
-      //       link: "https://rachelrosemarie.bandcamp.com/album/growing-plants-inside",
-      //       description: "Eerily beautiful melodies, treading like a golden carp in a sea of existential dread.",
-      //       timeslot: "12pm",
-      //     },
-      //     {
-      //       artist: "Alyssa Zajac",
-      //       link: "https://www.youtube.com/user/lyssy42197/videos",
-      //       description: "Playful and whimsical musings of a human bean, with baritone ukulele",
-      //       timeslot: "1pm",
-      //     },
-      //     {
-      //       artist: "Chris Sailor",
-      //       link: "http://localhost:8080/artists/chris-sailor/",
-      //       description: "Original folk stuff.",
-      //       timeslot: "2pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: 'Corner of Chaos - 5 York Street',
+        lat: '40.3680643',
+        lng: '-74.9461641',
+        lineup: [
+          {
+            artist: "Slow Noche",
+            link: "https://lambertvilleporchfest.com/artists/slow-noche/",
+            description: "Chris Buccari's original nylon string guitar instrumentals with hints of Latin, Island, Folk and Noir.",
+            timeslot: "12pm",
+          },
+          {
+            artist: "Daniella and Tim",
+            link: "https://lambertvilleporchfest.com/artists/daniella-and-tim/",
+            description: "Top shelf fiddle and guitar bluegrass duo.",
+            timeslot: "1pm",
+          },
+          {
+            artist: "The Local 12",
+            link: "https://lambertvilleporchfest.com/artists/the-local-12",
+            description: "Rockers from South Jersey!",
+            timeslot: "2pm",
+          },
+          {
+            artist: "Lasso Kelly",
+            link: "https://lambertvilleporchfest.com/artists/lasso-kelly/",
+            description: "This experimental country trio is going to chew you up n spit you out like molasses soaked tobacco.",
+            timeslot: "3pm",
+          },
+          {
+            artist: "Kitty City",
+            link: "https://lambertvilleporchfest.com/artists/kitty-city/",
+            description: "Kitty City creates lush psychedelic indie pop rock. You’ll probably wanna dance.",
+            timeslot: "3pm",
+          },
+          {
+            artist: "Creeping Charlie",
+            link: "https://lambertvilleporchfest.com/artists/chris-buccari/",
+            description: "Highly danceable cover band playing hits from Queen to Lizzo.",
+            timeslot: "5pm",
+          }
+        ]
+      },
+      {
+        address: '72 Delaware',
+        lat: '40.371487',
+        lng: '-74.944647',
+        lineup: [
+          {
+            artist: "The Earthworks Band",
+            link: "https://lambertvilleporchfest.com/artists/the-earthworks-band/",
+            description: "Band with 5 guitarists plays covers from the 70’s and 80’s.",
+            timeslot: "12pm-2pm",
+          }
+        ],
+      },
+      {
+        address: "Under the Ivy - 13 Lambert Lane",
+        lat: 40.3658048, lng: -74.9468706,
+        lineup: [
+          {
+            artist: "Loose Panic",
+            link: "http://localhost:8080/artists/loose-panic/",
+            description: "Music project of Jarret Crawford that covers Americana and roots rock, 90s alternative, and more.",
+            timeslot: "12pm",
+          },
+          {
+            artist: "Rachel Rosemarie",
+            link: "http://localhost:8080/artists/rachel-rosemarie/",
+            description: "Eerily beautiful melodies, treading like a golden carp in a sea of existential dread.",
+            timeslot: "1pm",
+          },
+          {
+            artist: "Lasso Kelly",
+            link: "http://localhost:8080/artists/lasso-kelly/",
+            description: "This experimental country trio is going to chew you up n spit you out like molasses soaked tobacco.",
+            timeslot: "2pm",
+          },
+        ],
+      },
       // {
       //   address: "42 York Street",
       //   lat: 40.368797, lng: -74.944487,
