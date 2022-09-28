@@ -14,8 +14,8 @@ long: "-74.946988"
 email: jessevillars@gmail.com
 artist12: 220036
 artist1: 20980
-artist2: 220038
-artist3:
-artist4:
-artist5:
+artist2: 220078
+artist3: null
+artist4: null
+artist5: null
 ---
