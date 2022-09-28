@@ -13,7 +13,7 @@ lat: ""
 long: ""
 email: shaun@sdellis.com
 artist12: null
-artist1: null
+artist1: 220028
 artist2: 313
 artist3: 312
 artist4: 311
