@@ -137,6 +137,119 @@ export default {
           },
         ],
       },
+      {
+        address: "Everybody Is A Star - 54 Buttonwood",
+        lat: 40.372953, lng: -74.945333,
+        lineup: [
+          {
+            artist: "Rowan Hara and Christian Pettinelli",
+            link: "https://lambertvilleporchfest.com/artists/rowan-hara/",
+            description: "Sublime music by young talent!",
+            timeslot: "12pm",
+          },
+          {
+            artist: "Cari & Corky",
+            link: "https://lambertvilleporchfest.com/artists/cari-corky/",
+            description: "Piano and guitar duo who met at an open mic, got engaged at an open mic, and have been playing music together all the days in between.",
+            timeslot: "1pm",
+          },
+          {
+            artist: "The Hive",
+            link: "https://lambertvilleporchfest.com/artists/the-hive/",
+            description: "A collective of students, amateurs, and professionals, and plays at all types of charity events and public concerts. Current and classic rock.",
+            timeslot: "2pm",
+          },
+          {
+            artist: "Deskjobs",
+            link: "https://lambertvilleporchfest.com/artists/deskjobs/",
+            description: "Crunchy guitars, poppy hooks, and a dash of suburban ennui.",
+            timeslot: "4pm",
+          },
+        ],
+      },
+      {
+        address: "15 Klines Court",
+        lat: 40.3654266, lng: -74.945317,
+        lineup: [
+          {
+            artist: "Sam Ryan",
+            link: "https://lambertvilleporchfest.com/artists/sam-ryan/",
+            description: "A voice of silk croons hits for every occassion.",
+            timeslot: "12pm",
+          },
+          {
+            artist: "Tod the Mod",
+            link: "https://lambertvilleporchfest.com/artists/todd-ellis/",
+            description: "The mod, the myth, the legend.",
+            timeslot: "1pm",
+          },
+          {
+            artist: "Those Looks",
+            link: "https://lambertvilleporchfest.com/artists/those-looks/",
+            description: 'Velvet wave indie pop from the wilds of New Jersey.',
+            timeslot: "2pm",
+          },
+          {
+            artist: "Keith Kenny",
+            link: "https://lambertvilleporchfest.com/artists/essie-and-keith-kenny/",
+            description: 'Kenny has shared the stage with the likes of Keller Williams, Leon Russell, John Hammond Jr., New Riders of the Purple Sage, and more. Nuff said.',
+            timeslot: "3pm",
+          },
+          {
+            artist: "Bill and Fred's Excellent Adventure",
+            link: "https://lambertvilleporchfest.com/artists/bill-doe/",
+            description: 'Local faves playing classic covers... think Pink Floyd, Grateful Dead, Bob Dylan, Simon & Garfunkle, Bowie, Willie Nelson, and Zappa. They have also been described as a comedy act.',
+            timeslot: "4-6pm",
+          },
+        ],
+      },
+      {
+        address: "30 Coryell Street",
+        lat: 40.367496, lng: -74.945103,
+        lineup: [
+          {
+            artist: "Acoustic Kelly",
+            link: "https://lambertvilleporchfest.com/artists/acoustic-kelly/",
+            description: "Tim Kelly plays all the hits!",
+            timeslot: "2pm-4pm",
+          },
+        ],
+      },
+      {
+        address: "Intergalactic Picnic - 138 North Union Street",
+        lat: 40.37146, lng: -74.946615,
+        lineup: [
+          {
+            artist: "CLOVER",
+            description: "Beautiful blend of original soul, rock, and pop that echoes timelessness.",
+            timeslot: "12pm",
+          },
+          {
+            artist: "The Swiss Guard",
+            link: "https://lambertvilleporchfest.com/artists/the-swiss-guard/",
+            description: 'Loud music for quiet people.',
+            timeslot: "1pm",
+          },
+          {
+            artist: "Christina Ward",
+            link: "https://lambertvilleporchfest.com/artists/christina-ward/",
+            description: 'Mint 400 psych-folk artist recently featured on WXPNs The Key local music show.',
+            timeslot: "2pm",
+          },
+          {
+            artist: "Jaysond Neill",
+            link: "https://lambertvilleporchfest.com/artists/jaysond-neill/",
+            description: '',
+            timeslot: "3pm",
+          },
+          {
+            artist: "Proboscis",
+            link: "https://lambertvilleporchfest.com/artists/proboscis/",
+            description: 'The brainchild of Mother Mantis and Cloud. All their songs are about insects. Heavy, heavy insects.',
+            timeslot: "4pm",
+          },
+        ],
+      },
       // {
       //   address: "42 York Street",
       //   lat: 40.368797, lng: -74.944487,
@@ -283,89 +396,6 @@ export default {
       //       link: "https://lambertvilleporchfest.com/artists/laurie-vosburg/",
       //       description: 'A mix of originals and country rocking blues',
       //       timeslot: "1pm",
-      //     },
-      //   ],
-      // },
-      // {
-      //   address: "138 North Union Street",
-      //   lat: 40.37146, lng: -74.946615,
-      //   lineup: [
-      //     {
-      //       artist: "CLOVER",
-      //       description: "Beautiful blend of original soul, rock, and pop that echoes timelessness.",
-      //       timeslot: "3-4pm",
-      //     }
-      //   ],
-      // },
-      // {
-      //   address: "57 Buttonwood",
-      //   lat: 40.372953, lng: -74.945333,
-      //   lineup: [
-      //     {
-      //       artist: "Rowan Hara",
-      //       link: "https://lambertvilleporchfest.com/artists/rowan-hara/",
-      //       description: "Sublime music by the youngest performer at Porchfest!",
-      //       timeslot: "1pm",
-      //     },
-      //     {
-      //       artist: "Kitty City",
-      //       link: "https://lambertvilleporchfest.com/artists/kitty-city/",
-      //       description: "Dream team performing originals. Think Black Keys meets Tame Impala.",
-      //       timeslot: "2pm",
-      //     },
-      //     {
-      //       artist: "Cari & Corky",
-      //       link: "https://lambertvilleporchfest.com/artists/cari-corky/",
-      //       description: "Gonna get ya in the mood ...",
-      //       timeslot: "3pm",
-      //     },
-      //     {
-      //       artist: "Creeping Charlie",
-      //       link: "https://lambertvilleporchfest.com/artists/the-swiss-guard/",
-      //       description: "Loud music for quiet people.",
-      //       timeslot: "4pm",
-      //     },
-      //   ],
-      // },
-      // {
-      //   address: "15 Klines Court",
-      //   lat: 40.3654266, lng: -74.945317,
-      //   lineup: [
-      //     {
-      //       artist: "Sam Ryan",
-      //       link: "https://lambertvilleporchfest.com/artists/sam-ryan/",
-      //       description: "A voice of silk croons hits for every occassion.",
-      //       timeslot: "12pm",
-      //     },
-      //     {
-      //       artist: "Essie & Keith Kenny",
-      //       link: "https://lambertvilleporchfest.com/artists/essie-keith-kenny/",
-      //       description: "Notorious one-man-band merges into duo!",
-      //       timeslot: "1pm",
-      //     },
-      //     {
-      //       artist: "Little Flowers",
-      //       link: "https://lambertvilleporchfest.com/artists/little-flowers/",
-      //       description: 'Original bedroom pop. Heady lyrics.',
-      //       timeslot: "1:30pm",
-      //     },
-      //     {
-      //       artist: "The Strange Brew Crew",
-      //       link: "https://lambertvilleporchfest.com/artists/strange-brew-crew/",
-      //       description: 'Rocking band playing 60s and 70s hits.',
-      //       timeslot: "2pm",
-      //     },
-      //   ],
-      // },
-      // {
-      //   address: "30 Coryell Street",
-      //   lat: 40.367496, lng: -74.945103,
-      //   lineup: [
-      //     {
-      //       artist: "Acoustic Kelly",
-      //       link: "https://lambertvilleporchfest.com/artists/acoustic-kelly/",
-      //       description: "Tim Kelly plays all the hits!",
-      //       timeslot: "2pm-4pm",
       //     },
       //   ],
       // },
