@@ -12,6 +12,7 @@ lat: ""
 long: ""
 email: rgenna@gmail.com
 artist12: 220038
+artist1: 90
 artist2: 220036
 artist3: 220037
 artist4: 220038
