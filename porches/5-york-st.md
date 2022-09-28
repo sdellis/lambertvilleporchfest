@@ -11,8 +11,9 @@ lat: ""
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: ""
 email: rgenna@gmail.com
-artist12: 220038
-artist2: 220036
+artist12: 220078  
+artist1: 90
+artist2: 220066
 artist3: 220037
 artist4: 220038
 artist5: 8089
