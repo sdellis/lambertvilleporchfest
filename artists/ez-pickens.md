@@ -1,5 +1,5 @@
 ---
-id: 220039
+id: 2233
 year: "2022"
 title: "EZ Pickens "
 name: "EZ Pickens "
@@ -7,7 +7,7 @@ bio: >-
   Blend of punky, folk, alternative, blues
 
 
-  Larry Etgen: mouthpiece, rhythm guitar, Whit Anderson: lead guitar, Justine Deluccio: vocals 
+  Larry Etgen: mouthpiece, rhythm guitar, Whit Anderson: lead guitar, Justine Deluccio: vocals
 
 
   Jesse Masters: bass guitar, vocals , Brian Cassidy: percussion, ukulele
