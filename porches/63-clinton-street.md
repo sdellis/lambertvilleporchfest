@@ -1,5 +1,6 @@
 ---
-id: ss9987d6663iuuiiowos9889sh
+id: 220928
+year: "2022"
 title: 63 Clinton Street
 message: "\"Don't tell me this town ain't got no heart, you just gotta poke around\""
 image: /uploads/screen-shot-2021-10-02-at-7.56.02-am.png
@@ -11,10 +12,10 @@ lat: "40.3701383"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: "-74.9472286"
 email: "ronitoddmarino@gmail.com "
-artist12:
-artist1: 
-artist2:
-artist3:
-artist4:
-artist5:
+artist12: null
+artist1: null
+artist2: null
+artist3: null
+artist4: null
+artist5: null
 ---
