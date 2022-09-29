@@ -14,7 +14,7 @@ long: "-74.9472286"
 email: "ronitoddmarino@gmail.com "
 artist12: null
 artist1: null
-artist2: 220039
+artist2: 398
 artist3: null
 artist4: null
 artist5: null
