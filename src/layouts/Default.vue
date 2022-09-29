@@ -1,8 +1,8 @@
 <template>
   <div class="wrapper">
-  <!-- <banner>
-    <p><g-link to="/ida/">Donate to our Ida Recovery Fund! 🚑</g-link></p>
-  </banner> -->
+  <banner>
+    <h1>☔  &nbsp;Porchfest happens rain or shine, but not hurricane!&nbsp; 🚑  &nbsp;Safety first! Stay tuned here for updates.</h1>
+  </banner>
   <div class="layout">
     <header class="header">
       <div :class="{open: menuOpen}">
