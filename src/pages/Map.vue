@@ -250,36 +250,36 @@ export default {
           },
         ],
       },
-      // {
-      //   address: "42 York Street",
-      //   lat: 40.368797, lng: -74.944487,
-      //   lineup: [
-      //     {
-      //       artist: "Lisa and Erica Moran and Chris Deakin",
-      //       link: "https://lambertvilleporchfest.com/artists/lisa-and-erica-moran-and-chris-deakin/",
-      //       description: 'Singer songwriter ensemble performs uplifting originals.',
-      //       timeslot: "2pm",
-      //     },
-      //     {
-      //       artist: "Jazz House Kids",
-      //       link: "https://lambertvilleporchfest.com/artists/jazz-house-kids/",
-      //       description: "ONE OF THE MOST SUCCESSFUL AND RESPECTED JAZZ EDUCATION PROGRAMS IN THE COUNTRY COMES TO LAMBERTVILLE.",
-      //       timeslot: "3pm",
-      //     },
-      //     {
-      //       artist: "Kate Baker and Jim Johnson",
-      //       link: "https://lambertvilleporchfest.com/artists/kate-baker-and-jim-johnson/",
-      //       description: "",
-      //       timeslot: "4pm",
-      //     },
-      //     {
-      //       artist: "Darius De Haas",
-      //       link: "https://lambertvilleporchfest.com/artists/darius-de-haas/",
-      //       description: "An award winning actor and singer with 'deeps roots in jazz and soul'. - NYTimes",
-      //       timeslot: "5pm",
-      //     }
-      //   ],
-      // },
+      {
+        address: "Porch-o-lonis - 148 North Union Street",
+        lat: 40.3718376, lng: -74.9468862,
+        lineup: [
+          {
+            artist: "Kevin Toft and the Alternators",
+            link: "https://lambertvilleporchfest.com/artists/kevin-toft-and-the-alternators/",
+            description: 'Original & Rebuilt Genuine Jersey Dope Art Rock Blues & Soul',
+            timeslot: "1pm",
+          },
+          {
+            artist: "RIPS",
+            link: "https://lambertvilleporchfest.com/artists/jazz-house-kids/",
+            description: "Bold yet melodic noises mixing elements of country, soul, punk.",
+            timeslot: "2pm",
+          },
+          {
+            artist: "Tinsel Town Rebellion",
+            link: "https://lambertvilleporchfest.com/artists/tinsel-town-rebellion/",
+            description: "Tinsel Town Rebellion formed in 2020 as an ad hoc group to bring the music from the silver screen LIVE to your eardrums.",
+            timeslot: "3pm",
+          },
+          {
+            artist: "Rock Hall",
+            link: "https://lambertvilleporchfest.com/artists/rock-hall/",
+            description: "For over 25 years, Rock Hall has been filling all your garage rock, classic rock, and 90s alternative needs.",
+            timeslot: "4pm",
+          }
+        ],
+      },
       // {
       //   address: "7 North Main Street",
       //   lat: 40.366546, lng: -74.943231,
