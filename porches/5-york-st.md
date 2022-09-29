@@ -3,6 +3,7 @@ id: 1550329
 year: "2022"
 title: Corner of Chaos
 message: ""
+image: /uploads/20210922_114945-800x400-russell-genna.jpg
 host: Russell Genna
 house_number: "5"
 street_name: York St
@@ -11,7 +12,7 @@ lat: ""
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: ""
 email: rgenna@gmail.com
-artist12: 220078  
+artist12: 220078
 artist1: 90
 artist2: 220066
 artist3: 220037
