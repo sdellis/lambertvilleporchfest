@@ -1,6 +1,5 @@
 ---
 id: 989yas99a9928oof
-year: "2022"
 title: "The Fest On The Hill"
 message: Be Here Now
 host: Barry Middleberg
