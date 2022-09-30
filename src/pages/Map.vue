@@ -138,36 +138,6 @@ export default {
         ],
       },
       {
-        address: "Everybody Is A Star - 54 Buttonwood",
-        lat: 40.372953, lng: -74.945333,
-        lineup: [
-          {
-            artist: "Rowan Hara and Christian Pettinelli",
-            link: "https://lambertvilleporchfest.com/artists/rowan-hara/",
-            description: "Sublime music by young talent!",
-            timeslot: "12pm",
-          },
-          {
-            artist: "Cari & Corky",
-            link: "https://lambertvilleporchfest.com/artists/cari-corky/",
-            description: "Piano and guitar duo who met at an open mic, got engaged at an open mic, and have been playing music together all the days in between.",
-            timeslot: "1pm",
-          },
-          {
-            artist: "The Hive",
-            link: "https://lambertvilleporchfest.com/artists/the-hive/",
-            description: "A collective of students, amateurs, and professionals, and plays at all types of charity events and public concerts. Current and classic rock.",
-            timeslot: "2pm",
-          },
-          {
-            artist: "Deskjobs",
-            link: "https://lambertvilleporchfest.com/artists/deskjobs/",
-            description: "Crunchy guitars, poppy hooks, and a dash of suburban ennui.",
-            timeslot: "4pm",
-          },
-        ],
-      },
-      {
         address: "15 Klines Court",
         lat: 40.3654266, lng: -74.945317,
         lineup: [
@@ -200,18 +170,6 @@ export default {
             link: "https://lambertvilleporchfest.com/artists/bill-doe/",
             description: 'Local faves playing classic covers... think Pink Floyd, Grateful Dead, Bob Dylan, Simon & Garfunkle, Bowie, Willie Nelson, and Zappa. They have also been described as a comedy act.',
             timeslot: "4-6pm",
-          },
-        ],
-      },
-      {
-        address: "30 Coryell Street",
-        lat: 40.367496, lng: -74.945103,
-        lineup: [
-          {
-            artist: "Acoustic Kelly",
-            link: "https://lambertvilleporchfest.com/artists/acoustic-kelly/",
-            description: "Tim Kelly plays all the hits!",
-            timeslot: "2pm-4pm",
           },
         ],
       },
@@ -399,52 +357,76 @@ export default {
       //     },
       //   ],
       // },
-      // {
-      //   address: "49 North Union Street",
-      //   lat: 40.367478, lng: -74.945626,
-      //   lineup: [
-      //     {
-      //       artist: "The Entertainment Corporation",
-      //       link: "https://lambertvilleporchfest.com/artists/the-entertainment-corporation/",
-      //       description: "80's New Wave acoustic shreddery!",
-      //       timeslot: "3pm",
-      //     },
-      //   ],
-      // },
-      // {
-      //   address: "Lambertville Elks Open Mic - 66 Wilson Street",
-      //   lat: 40.362058, lng: -74.942853,
-      //   lineup: [
-      //     {
-      //       artist: "Porchfest Open Mic",
-      //       description: "Enjoy food, drink, and lots of the day's acts all in one place. Sign-ups at 6!",
-      //       timeslot: "6pm-10pm",
-      //     },
-      //   ],
-      // },
-      // {
-      //   address: "Porchfest After Party @ Ely Park, 6-9pm",
-      //   lat: 40.371833, lng: -74.943889,
-      //   lineup: [
-      //     {
-      //       artist: "DJs: .bit busy. (NY Subway Brassbeat), Shaw Civitarese (Booty-shaking House), Alderaan Express (Fun/Groovy House)",
-      //       description: "City-wide after party for those who like to dance and roller skate (byo skates).",
-      //       timeslot: "6pm-9pm",
-      //     },
-      //   ],
-      // },
-      // {
-      //   address: "63 Clinton Street",
-      //   lat: 40.3701383, lng: -74.9472286,
-      //   lineup: [
-      //     {
-      //       artist: "Brad Staudle",
-      //       link: "https://lambertvilleporchfest.com/artists/brad-staudle/",
-      //       description: '"Silk and smoke" vocals. Like, for real. Brad croons out the best hits of the 60s through today.',
-      //       timeslot: "1pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: "49 North Union Street",
+        lat: 40.367478, lng: -74.945626,
+        lineup: [
+          {
+            artist: "The Entertainment Corporation",
+            link: "https://lambertvilleporchfest.com/artists/the-entertainment-corporation/",
+            description: "80's New Wave acoustic shreddery!",
+            timeslot: "3pm",
+          },
+        ],
+      },
+      {
+        address: "Lambertville Elks Open Mic - 66 Wilson Street",
+        lat: 40.362058, lng: -74.942853,
+        lineup: [
+          {
+            artist: "Porchfest Open Mic",
+            description: "Enjoy food, drink, and lots of the day's acts all in one place. Sign-ups at 6!",
+            timeslot: "6pm-10pm",
+          },
+        ],
+      },
+      {
+        address: "Soupçon Salon Community Center (Hibernia Firehouse)",
+        lat: 40.3647, lng: -74.94251,
+        lineup: [
+          {
+            artist: "JavaSway",
+            link: "https://lambertvilleporchfest.com/artists/jeff-f-david-allison/",
+            description: 'JavaSway swings an eclectic genre of romantic American and French jazz-style music',
+            timeslot: "1pm",
+          },
+          {
+            artist: "Drama Cycle",
+            link: "https://lambertvilleporchfest.com/artists/drama-cycle/",
+            description: "Chasing the perfect blend between the unconventional and modestly accessible musical approaches.",
+            timeslot: "2pm",
+          },
+          {
+            artist: "Hot Dodge",
+            link: "https://lambertvilleporchfest.com/artists/hot-dodge/",
+            description: "Amusing and irreverent storyteller and acoustic-synth-folk-singer songwriter.",
+            timeslot: "3pm",
+          },
+          {
+            artist: "Calla Bere and The Attitude",
+            link: "https://lambertvilleporchfest.com/artists/calla-bere-and-the-attitude/",
+            description: "New Hope-based and rock ‘n’ soul-raised, roots rock group. Think Joss Stone, Janis, and the like.",
+            timeslot: "4pm",
+          },
+          {
+            artist: "DJs: DJ Rad (Fun/Groovy House), Shaw Civitarese (Booty-shaking House)",
+            description: "City-wide after party for those who like to dance.",
+            timeslot: "5pm-8pm",
+          },
+        ],
+      },
+      {
+        address: "63 Clinton Street",
+        lat: 40.3701383, lng: -74.9472286,
+        lineup: [
+          {
+            artist: "CIDY",
+            link: "https://lambertvilleporchfest.com/artists/cidy/",
+            description: 'Singer-songwriter, Cidy makes music instead of dealing with their issues.',
+            timeslot: "2pm",
+          },
+        ],
+      },
       // {
       //   address: "28 Coryell Street",
       //   lat: 40.367508, lng: -74.945269,

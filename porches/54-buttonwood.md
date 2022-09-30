@@ -1,6 +1,5 @@
 ---
 id: 10
-year: "2022"
 title: Everybody is a Star
 message: '"Everybody is a star, I can feel it when you shine on me. I love you
   for who you are, not the one you feel you need to be."'
