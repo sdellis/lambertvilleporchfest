@@ -49,12 +49,11 @@
 
       <h2>Elks Lodge Open Mic @ 66 Wilson Street</h2>
       <p>The Elks will keep the party going with their monthly open mic (every first Saturday!)</p>
-      <h2>City Wide Dance Party (at Mary Sheridan Park on York Street)</h2>
-      <p>Spreen Mortgage is sponsoring the dance party bathrooms!</p>
+      <h2>City Wide Dance Party (at Hibernia Firehouse - 37 South Main Street)</h2>
       <p>Local DJs:</p>
         <ul>
-          <li>Shaw Civitarese (5pm) Booty-shaking House</li>
-          <li>Alderaan Express (6:30pm) Fun/Groovy House</li>
+          <li>DJ Rad (5pm) Fun/Groovy House</li>
+          <li>Shaw Civitarese (6:30pm) Booty-shaking House</li>
         </ul>
 
 
