@@ -1,6 +1,5 @@
 ---
 id: 423
-year: "2022"
 title: 30 Coryell Street
 message: ""
 host: Tim Kelly

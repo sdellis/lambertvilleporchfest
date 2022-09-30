@@ -5,8 +5,8 @@ title: Intergalactic Picnic Porch
 message: BYO Supernova!
 image: /uploads/sue.jpg
 host: Christina Ward /Sue Dumas
-house_number: "138"
-street_name: North Union Street
+house_number: "56"
+street_name: Coryell Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 lat: "40.37146"
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
