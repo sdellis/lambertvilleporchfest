@@ -3,7 +3,7 @@ id: 21381381389948856
 year: "2022"
 title: Intergalactic Picnic Porch
 message: BYO Supernova!
-image: /uploads/sue.jpg
+image: /uploads/img_4f023425eb09-1.jpeg
 host: Christina Ward /Sue Dumas
 house_number: "56"
 street_name: Coryell Street
