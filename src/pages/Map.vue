@@ -275,32 +275,38 @@ export default {
           },
         ],
       },
-      // {
-      //   address: "6 Lilly Street",
-      //   lat: 40.365701, lng: -74.942295,
-      //   lineup: [
-      //     {
-      //       artist: "Proboscis",
-      //       link: "https://lambertvilleporchfest.com/artists/proboscis/",
-      //       description: 'All their songs are about insects. Heavy, heavy insects.',
-      //       timeslot: "2pm-4pm",
-      //     },
-      //     {
-      //       artist: "Wack Weeds",
-      //       link: "https://lambertvilleporchfest.com/artists/wack-weeds/",
-      //       description: "Fuzzed-out garage and spaced-out shoegaze sounds.",
-      //       timeslot: "4pm",
-      //     },
-      //     {
-      //       artist: "Bon Temp Tucker",
-      //       link: "https://lambertvilleporchfest.com/artists/bon-temp-tucker/",
-      //       description: 'Amusing and irreverent acoustic-synth-folk simulataneously thought-provoking, heartfelt, and hilarious.',
-      //       timeslot: "5pm",
-      //     },
-      //   ],
-      // },
       {
-        address: "236 North Union Street",
+        address: "103 South Main Street",
+        lat: 40.36261, lng: -74.94241,
+        lineup: [
+          {
+            artist: "Pat Foran",
+            link: "https://lambertvilleporchfest.com/artists/patrick-foran/",
+            description: 'Familiar but different Berklee-trained songwriter.',
+            timeslot: "12pm",
+          },
+          {
+            artist: "Kevin Hilferty",
+            link: "https://lambertvilleporchfest.com/artists/kevin-hilferty/",
+            description: "",
+            timeslot: "1pm",
+          },
+          {
+            artist: "Nick Clemons",
+            link: "https://lambertvilleporchfest.com/artists/nick-clemons/",
+            description: '',
+            timeslot: "3pm",
+          },
+          {
+            artist: "Pat Foran",
+            link: "https://lambertvilleporchfest.com/artists/patrick-foran/",
+            description: 'Familiar but different Berklee-trained songwriter.',
+            timeslot: "5pm",
+          },
+        ],
+      },
+      {
+        address: "Thai Tida Parking Lot Stage - 236 North Union Street",
         lat: 40.37463, lng: -74.94759,
         lineup: [
           {
@@ -323,18 +329,18 @@ export default {
           },
         ],
       },
-      // {
-      //   address: "37 Jefferson Street",
-      //   lat: 40.370144, lng: -74.944588,
-      //   lineup: [
-      //     {
-      //       artist: "Tom Florek and Joe Bezek",
-      //       link: "https://lambertvilleporchfest.com/artists/tom-florek-and-joe-bezek/",
-      //       description: 'Hilariously funny syndicated radio duo performing their signature quirky originals. Think Flight of the Conchords They Might Be Giants.',
-      //       timeslot: "3pm-5pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: "Bank of Princeton - 10 Bridge Street",
+        lat: 40.36545, lng: -74.94617,
+        lineup: [
+          {
+            artist: "Jeff & Karen",
+            link: "https://lambertvilleporchfest.com/artists/jeff-karen/",
+            description: 'Acoustic duo-songs of 60s, 70s,and beyond + original tunes.',
+            timeslot: "2pm-4pm",
+          },
+        ],
+      },
       {
         address: "Roy's Garage - 20 Delevan Street",
         lat: 40.36921, lng: -74.946196,
