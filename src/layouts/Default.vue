@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
   <banner>
-    <h1>☔  &nbsp;Porchfest happens rain or shine, but not hurricane!&nbsp; 🚑  &nbsp;Safety first! Stay tuned here for updates.</h1>
+    <h1>☔  &nbsp;Porchfest is on!&nbsp; Check the Schedule and Map for updates.</h1>
   </banner>
   <div class="layout">
     <header class="header">
