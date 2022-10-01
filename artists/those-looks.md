@@ -1,6 +1,6 @@
 ---
 id: 9126745
-title: "Those Looks"
+title: "Those Looks - Canceled!"
 year: "2022"
 name: Those Looks
 bio: Slo jams from the wilds of New Jersey.

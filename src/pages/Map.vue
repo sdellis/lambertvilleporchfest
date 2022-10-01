@@ -154,7 +154,7 @@ export default {
             timeslot: "1pm",
           },
           {
-            artist: "Those Looks",
+            artist: "Those Looks - Canceled!",
             link: "https://lambertvilleporchfest.com/artists/those-looks/",
             description: 'Velvet wave indie pop from the wilds of New Jersey.',
             timeslot: "2pm",
