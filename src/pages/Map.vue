@@ -174,11 +174,12 @@ export default {
         ],
       },
       {
-        address: "Intergalactic Picnic - 138 North Union Street",
-        lat: 40.37146, lng: -74.946615,
+        address: "Intergalactic Picnic - 56 Coryell Street",
+        lat: 40.36753, lng: -74.94408,
         lineup: [
           {
             artist: "CLOVER",
+            link: "https://lambertvilleporchfest.com/artists/clover/",
             description: "Beautiful blend of original soul, rock, and pop that echoes timelessness.",
             timeslot: "12pm",
           },
@@ -238,30 +239,42 @@ export default {
           }
         ],
       },
-      // {
-      //   address: "7 North Main Street",
-      //   lat: 40.366546, lng: -74.943231,
-      //   lineup: [
-      //     {
-      //       artist: "NJNO - Not Just Nickelharpa Orchestra",
-      //       link: "https://lambertvilleporchfest.com/artists/njno-not-just-nyckelharpa-orchestra/",
-      //       description: 'An amazing ensemble of unique instruments led by your local nyckelharpists at The Birdhouse Center for the Arts.',
-      //       timeslot: "3pm",
-      //     },
-      //   ],
-      // },
-      // {
-      //   address: "61 Clinton Street",
-      //   lat: 40.37017, lng: -74.947341,
-      //   lineup: [
-      //     {
-      //       artist: "Little Flowers",
-      //       link: "https://lambertvilleporchfest.com/artists/little-flowers/",
-      //       description: 'Bedroom folk dream duo playing originals with heady lyrics.',
-      //       timeslot: "2pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: "1 Washington Street",
+        lat: 40.36896, lng: -74.94164,
+        lineup: [
+          {
+            artist: "The Cold Soil Boys",
+            link: "https://lambertvilleporchfest.com/artists/the-cold-soil-boys/",
+            description: 'Mystery band.',
+            timeslot: "3pm",
+          },
+        ],
+      },
+      {
+        address: "111 North Union Street",
+        lat: 40.37006, lng: 	-74.94631,
+        lineup: [
+          {
+            artist: "River Riders",
+            link: "https://lambertvilleporchfest.com/artists/river-riders/",
+            description: 'soulful harmonies with a unique instrumental spin on country, bluegrass, blues, and swing music.',
+            timeslot: "12pm",
+          },
+          {
+            artist: "Grace Carey",
+            link: "https://lambertvilleporchfest.com/artists/grace-carey/",
+            description: '',
+            timeslot: "1pm",
+          },
+          {
+            artist: "Little Flowers",
+            link: "https://lambertvilleporchfest.com/artists/little-flowers/",
+            description: 'Bedroom folk dream duo playing originals with heady lyrics.',
+            timeslot: "2pm",
+          },
+        ],
+      },
       // {
       //   address: "6 Lilly Street",
       //   lat: 40.365701, lng: -74.942295,
@@ -286,17 +299,30 @@ export default {
       //     },
       //   ],
       // },
-      // {
-      //   address: "50 South Union Street",
-      //   lat: 40.363604, lng: -74.943955,
-      //   lineup: [
-      //     {
-      //       artist: "Misty Willow",
-      //       description: 'Singer-songwriter who writes songs about u!',
-      //       timeslot: "3pm-5pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: "236 North Union Street",
+        lat: 40.37463, lng: -74.94759,
+        lineup: [
+          {
+            artist: "Shyboyz",
+            link: "https://lambertvilleporchfest.com/artists/shyboyz/",
+            description: 'A band of boys who like to wear lots of wigs and diapers on stage.',
+            timeslot: "2pm",
+          },
+          {
+            artist: "DJ Rad",
+            link: "https://lambertvilleporchfest.com/artists/dj-rad/",
+            description: 'Afterparty DJ warming up with some fun danceables.',
+            timeslot: "3pm",
+          },
+          {
+            artist: "Mimosa Watusi",
+            link: "https://lambertvilleporchfest.com/artists/mimosa-watusi/",
+            description: 'Graces punk, pop rock, and alternative dance in a manner that is both pleasurable and nostalgic.',
+            timeslot: "4pm",
+          },
+        ],
+      },
       // {
       //   address: "37 Jefferson Street",
       //   lat: 40.370144, lng: -74.944588,
@@ -309,30 +335,30 @@ export default {
       //     },
       //   ],
       // },
-      // {
-      //   address: "20 Delevan Street",
-      //   lat: 40.36921, lng: -74.946196,
-      //   lineup: [
-      //     {
-      //       artist: "Chris Chadwick",
-      //       link: "https://kittycityband.bandcamp.com/releases",
-      //       description: "Acoustic blue-eyed soul with roots in the Greenwich Village folk scene.",
-      //       timeslot: "12pm",
-      //     },
-      //     {
-      //       artist: "Greg Pontier",
-      //       link: "https://kittycityband.bandcamp.com/releases",
-      //       description: "Folk singer influenced by the music of James Taylor, Pete Seeger and songs of Social Justice.",
-      //       timeslot: "2pm",
-      //     },
-      //     {
-      //       artist: "Creeping Charlie",
-      //       link: "https://lambertvilleporchfest.com/artists/creeping-charlie/",
-      //       description: 'Highly danceable cover band playing hits from Queen to Lizzo.',
-      //       timeslot: "4pm-6pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: "Roy's Garage - 20 Delevan Street",
+        lat: 40.36921, lng: -74.946196,
+        lineup: [
+          {
+            artist: "Chris Chadwick",
+            link: "https://lambertvilleporchfest.com/artists/chris-chadwick/",
+            description: "Acoustic blue-eyed soul with roots in the Greenwich Village folk scene.",
+            timeslot: "12-2pm",
+          },
+          {
+            artist: "Peter Sandler",
+            link: "https://lambertvilleporchfest.com/artists/peter-sandler/",
+            description: "Inspired songwriting on a nylon string.",
+            timeslot: "2pm-4pm",
+          },
+          {
+            artist: "The Shackers",
+            link: "https://lambertvilleporchfest.com/artists/the-shackers/",
+            description: 'Groovy originals and classic covers, these guys know how to have a good time!',
+            timeslot: "4pm-6pm",
+          },
+        ],
+      },
       // {
       //   address: "25 Ferry Street",
       //   lat: 40.364983, lng: -74.944373,
