@@ -5,6 +5,7 @@ title: Lasso Kelly
 name: Lasso Kelly
 bio: This experimental country trio is going to chew you up n spit you out like
   molasses soaked tobacco.
+image: /uploads/imb_miichh.jpg
 link: ""
 time: 2022-09-27T14:10:53.313Z
 email: ""
