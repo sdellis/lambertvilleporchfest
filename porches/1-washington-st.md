@@ -14,7 +14,7 @@ email: markfdonlon@verizon.net
 artist12: null
 artist1: null
 artist2: null
-artist3: 319
+artist3: null
 artist4: null
 artist5: null
 ---

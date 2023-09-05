@@ -13,8 +13,8 @@ long: ""
 email: jeffpenque@aol.com
 artist12: null
 artist1: null
-artist2: 220035
-artist3: 220035
+artist2: null
+artist3: null
 artist4: null
 artist5: null
 ---

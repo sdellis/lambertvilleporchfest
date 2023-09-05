@@ -1,14 +1,14 @@
 <template>
   <Layout>
     <h1>Schedule</h1>
-    <p>Lambertville Porchfest 2022 will be held on Saturday, October 1st.</p>
+    <p>Lambertville Porchfest 2023 will be held on Saturday, October 7th.</p>
     <!-- <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Merchandise pre-order is closed! Taking new orders at Ely Park on Oct 2nd.👕</a></p> -->
     <!-- <p>Rest rooms are available in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
 12 N. Union Street</a>, <a href="https://www.google.com/maps/place/25+S+Union+St,+Lambertville,+NJ+08530"> the Justice Center (ACME building) on S. Union Street</a>, and <a href="http://maps.google.com/maps?q=3+Station+Ct,+Lambertville,+NJ+08530">
 3 Station Ct</a>, or by patronizing one of our local restaurants. Porch hosts are not obligated to provide rest rooms.</p> -->
     <h1>Noon - 6pm</h1>
     <h2>Porch Concerts will happen around town, and the schedules will be posted here.</h2>
-
+<!--
     <h1>Noon</h1>
     <div v-for="artist in artists_12" :key="artist.id" class="porch d-flex">
       <h2><a :href="artist.path">{{ artist.name }}</a></h2>
@@ -54,14 +54,14 @@
         <ul>
           <li>DJ Rad (5pm) Fun/Groovy House</li>
           <li>Shaw Civitarese (6:30pm) Booty-shaking House</li>
-        </ul>
+        </ul> -->
 
 
   </Layout>
 </template>
 <page-query>
 query {
-  porches: allPorches(filter: { year: { eq: "2022" }}) {
+  porches: allPorches(filter: { year: { eq: "2023" }}) {
     edges {
       node {
         id
@@ -84,7 +84,7 @@ query {
       }
     }
   }
-  artists: allArtists(filter: { year: { eq: "2022" }}) {
+  artists: allArtists(filter: { year: { eq: "2023" }}) {
     edges {
       node {
         id

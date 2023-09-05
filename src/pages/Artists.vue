@@ -3,8 +3,8 @@
     <div class="container">
       <h1>Participating Artists</h1>
       <!-- <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Merchandise pre-order is closed! Taking new orders at Ely Park on Oct 2nd.👕</a></p> -->
-      <!-- <p>Artists will be listed here as they are added. Stay tuned!</p> -->
-      <div v-for="artist in $page.artists.edges" :key="artist.id" class="artist d-flex">
+      <p>Artists will be listed here as they are added. Stay tuned!</p>
+      <!-- <div v-for="artist in $page.artists.edges" :key="artist.id" class="artist d-flex">
         <div class="artist__img" v-if="artist.node.image"
              :style="{ 'background-image': 'url(' + artist.node.image + ')' }"></div>
         <div class="artist__img placeholder"  v-else><p>No image available</p></div>
@@ -13,14 +13,14 @@
           <h1 class="artist__title">{{artist.node.name}}</h1>
           <em>{{truncate(artist.node.bio)}}</em>
         </div>
-      </div>
+      </div> -->
 
     </div>
   </Layout>
 </template>
 <page-query>
 query {
-  artists: allArtists(filter: { year: { eq: "2022" }}) {
+  artists: allArtists(filter: { year: { eq: "2023" }}) {
     edges {
       node {
         id

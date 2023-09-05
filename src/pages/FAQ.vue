@@ -12,15 +12,8 @@
     <h2>When is Lambertville Porchfest?</h2>
     <p>Lambertville Porchfest is always the first Saturday in October, unless otherwise noted.</p>
 
-    <h2>What safety precautions are being take to prevent the spread of COVID-19?</h2>
-    <p>We are VERY serious about the need to social distance and wear a mask during the
-    event. Porch owners and musicians may call you out if you are watching a performance
-    without a face covering. Porch owners are asked to wipe mics and shared gear down with
-    sanitizer between performances.</p>
-
     <h2>What are the rules?</h2>
-    <p>In addition to the COVID-19 safety precautions, we ask all attendees to stand on
-    the sidewalk or yard and not in the street unless the neighborhood has obtained a
+    <p>We ask all attendees to stand on the sidewalk or yard and not in the street unless the neighborhood has obtained a
     permit to close the street.</p>
 
     <h2>What if my neighbors complain?</h2>
@@ -97,15 +90,16 @@
     <p>The porch hosts play an absolutely essential role in Porchfest. Porchfest is,
     in fact, not one event, but a collection of individually produced shows, and
     porch hosts are entirely responsible for the show they’re hosting.
-    This includes <a href="https://forms.gle/aWaNMDc4u1QrpGLy6" target="_blank" rel="noopener">
-    registering your porch</a>, booking the artists that will play on the porch, notifying the neighbors on their block,
+    This includes booking the artists that will play on the porch, notifying the neighbors on their block,
     and managing their show on the day of the event. This means that porch hosts
     should be comfortable with the legal liability of hosting a show on their
-    porch and the responsibility of being a good neighbor to their immediate community.</p>
+    porch and the responsibility of being a good neighbor to their immediate community. If you would like your porch to be
+    listed on the schedule and map,
+    send an email to <a href="mailto:lambertvilleporchfest@gmail.com">LambertvillePorchfest@gmail.com</a> with the artists names, one sentence description, and performance times.</p>
 
     <h2>What does Lambertville Porchfest provide to porch hosts?</h2>
-    <p>Once you register your porch show via the sign-up form on our website,
-    we’ll add it to our online map and include it the physical maps for the
+    <p>Once you have finalized your porch show, send us a message at <a href="mailto:lambertvilleporchfest@gmail.com">LambertvillePorchfest@gmail.com</a>
+    and we’ll add it to our online map and include it the physical maps for the
     day of the event. We’ll keep you up to date with news and information,
     and offer some tips/suggestions for making your show a success.
     We’ll also provide you with a poster (or two) to put up on your porch so
@@ -119,7 +113,7 @@
 
     <h2>Where can I find a map / lineup?</h2>
     <p>You can find an online interactive version of the map and schedule on our website after
-    September 26th.</p>
+    October 1st.</p>
 
     <h2>Does this cost money to host/play/attend?</h2>
     <p>No!</p>

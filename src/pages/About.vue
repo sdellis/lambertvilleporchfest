@@ -24,16 +24,11 @@
       <p>This is the second Lambertville Porchfest, so it's up to us to make history happen again!
       We have no doubt that it will bring neighbors together, give
       local artists a platform to share their music, and help support Lambertville's
-      downtown restaurants and businesses -- all while being mindful of safety
-      guidelines necessary to stop the spread of COVID-19.
+      downtown restaurants and businesses.
       </p>
 
     <h2>Artwork</h2>
-    <p>Each year a local artist contributes an annual Porchfest design. Our artwork this year
-    was created by Bennett Kjenstad, featuring Lambertville's Victorian architecture via an animated spin around town.
-    You can support Bennett and get yourself some great Lambertville Porchfest 2022 hand-pulled screen prints for just $10 at
-    <a href="https://youngbennett.com/">Young Bennett</a> (56 Coryell St.) on October 1st.
-    Bring an item to print on, or purchase one there! 👕</p>
+    <p>The 2023 design for Lambertville Porchfest is still in the works. Stay tuned!</p>
 
 
   </Layout>
