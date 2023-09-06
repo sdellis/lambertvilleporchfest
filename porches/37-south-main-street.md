@@ -13,10 +13,10 @@ lat: ""
 long: ""
 email: shaun@sdellis.com
 artist12: null
-artist1: 220028
-artist2: 313
-artist3: 312
-artist4: 311
+artist1: null
+artist2: null
+artist3: null
+artist4: null
 artist5: null
 ---
 Soupçon Salon is a member-supported community center for Lambertville, and so much more. We build community and promote healing by gathering together to share food, tell stories, make art, teach each other, and fill the air with music. We work towards collective excellence, and facilitate a voluntary reciprocal exchange of resources for mutual benefit. Happy Porchfest!

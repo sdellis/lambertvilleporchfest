@@ -11,7 +11,7 @@
     "@gridsome/transformer-remark": "^0.6.4",
     "gmap-vue": "^1.4.0",
     "google-maps-api-loader": "1.1.1",
-    "gridsome": "^0.7.0",
+    "gridsome": "^0.7.23",
     "gridsome-plugin-netlify-cms": "^1.0.9",
     "netlify-cms": "^2.10.122",
     "uuid": "^8.3.2"

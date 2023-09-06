@@ -13,9 +13,9 @@ lat: "40.371778"
 long: "-74.946613"
 email: dweezilp@gmail.com
 artist12: null
-artist1: 220030
+artist1: null
 artist2: null
-artist3: 23832
-artist4: 220031
-artist5: 32999
+artist3: null
+artist4: null
+artist5: null
 ---
