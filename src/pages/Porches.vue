@@ -4,8 +4,8 @@
       <h1>Participating Porches</h1>
       <!-- <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Merchandise pre-order is closed! Taking new orders at Ely Park on Oct 2nd.👕</a></p> -->
       <p>Porchfest is October 7th, 2023. Porch Hosts: schedule your artists, no need to register!</p>
-      <p>Porches will be listed here as they are added. Stay tuned!</p>
-      <!-- <div v-for="porch in $page.porches.edges" :key="porch.id" class="porch d-flex">
+      <!-- <p>Porches will be listed here as they are added. Stay tuned!</p> -->
+      <div v-for="porch in $page.porches.edges" :key="porch.id" class="porch d-flex">
         <div class="porch__img" v-if="porch.node.image"
              :style="{ 'background-image': 'url(' + porch.node.image + ')' }"></div>
         <div class="porch__img placeholder"  v-else><p>No image available</p></div>
@@ -15,7 +15,7 @@
           <em>{{porch.node.house_number}} {{porch.node.street_name}}</em>
           <p class="porch__abstract">{{porch.node.message}}</p>
         </div>
-      </div> -->
+      </div>
 
     </div>
   </Layout>

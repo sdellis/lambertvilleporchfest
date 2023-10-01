@@ -47,7 +47,7 @@ query ($path: String!) {
     artist4
     artist5
   }
-  artists: allArtists(filter: { year: { eq: "2022" }}) {
+  artists: allArtists(filter: { year: { eq: "2023" }}) {
     edges {
       node {
         id

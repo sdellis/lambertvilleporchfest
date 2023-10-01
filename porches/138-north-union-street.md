@@ -4,7 +4,7 @@ year: "2023"
 title: Intergalactic Picnic Porch
 message: BYO Supernova!
 image: /uploads/7bc260cc-935c-4b63-ab34-ffc3db0f9c79.jpg
-host: Cierra Fugett /Sue Dumas
+host: Cierra Fugett
 house_number: "138"
 street_name: North Union Street
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
@@ -15,7 +15,7 @@ email: cierrafugett@gmail.com
 artist12: null
 artist1: null
 artist2: null
-artist3: 123409847644
-artist4: null
-artist5: null
+artist3: 220081
+artist4: 220080
+artist5: 220079
 ---

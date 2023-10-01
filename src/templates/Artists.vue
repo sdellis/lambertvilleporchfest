@@ -42,7 +42,7 @@ query ($path: String!) {
     paypal
     email
   }
-  porches: allPorches(filter: { year: { eq: "2022" }}) {
+  porches: allPorches(filter: { year: { eq: "2023" }}) {
     edges {
       node {
         id

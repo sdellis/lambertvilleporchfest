@@ -1,19 +1,9 @@
 ---
 id: 7
-year: "2022"
+year: "2023"
 title: Deskjobs
 name: Deskjobs
-bio: >-
-  Heart of a singer-songwriter, soul of a composer, body of a rock band. Or
-  something like that.\
-
-  \
-
-  As Deskjobs, New Jersey’s Drew Connelly makes guitar driven indie rock that hints at, but never leans too heavily on nostalgia.\
-
-  \
-
-  His latest release, I Guess That’s How It’s Always Been, mixes crunchy guitars, poppy hooks, and a dash of suburban ennui, detailing personal turmoils and anxieties while never taking himself too seriously.
+bio: Heart of a singer-songwriter, soul of a composer, body of a rock band. Mix of crunchy guitars, poppy hooks, and a dash of suburban ennui.
 image: /uploads/deskjobs-porchfest.jpg
 link: https://deskjobsmusic.com/
 time: 2022-09-14T21:19:44.247Z

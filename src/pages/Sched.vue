@@ -1,14 +1,14 @@
 <template>
   <Layout>
     <h1>Schedule</h1>
-    <p>Lambertville Porchfest 2023 will be held on Saturday, October 7th.</p>
+    <p>Lambertville Porchfest 2023 will be held on Saturday, October 7th, from noon until 6pm.</p>
     <!-- <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Merchandise pre-order is closed! Taking new orders at Ely Park on Oct 2nd.👕</a></p> -->
     <!-- <p>Rest rooms are available in the parking lot next to <a href="http://maps.google.com/maps?q=12+Union+Street,+Lambertville,+NJ+08530">
 12 N. Union Street</a>, <a href="https://www.google.com/maps/place/25+S+Union+St,+Lambertville,+NJ+08530"> the Justice Center (ACME building) on S. Union Street</a>, and <a href="http://maps.google.com/maps?q=3+Station+Ct,+Lambertville,+NJ+08530">
 3 Station Ct</a>, or by patronizing one of our local restaurants. Porch hosts are not obligated to provide rest rooms.</p> -->
-    <h1>Noon - 6pm</h1>
-    <h2>Porch Concerts will happen around town, and the schedules will be posted here.</h2>
-<!--
+    <!-- <h1>Noon - 6pm</h1>
+    <h2>Porch Concerts will happen around town, and the schedules will be posted here as they are announced.</h2> -->
+
     <h1>Noon</h1>
     <div v-for="artist in artists_12" :key="artist.id" class="porch d-flex">
       <h2><a :href="artist.path">{{ artist.name }}</a></h2>
@@ -45,17 +45,9 @@
       <p>{{ artist.bio }}</p>
       <p><a :href="artist.porchPath">Go to porch</a></p>
     </div>
-    <h1>5pm-8pm</h1>
-
-      <h2>Elks Lodge Open Mic @ 66 Wilson Street</h2>
-      <p>The Elks will keep the party going with their monthly open mic (every first Saturday!)</p>
-      <h2>City Wide Dance Party (at Hibernia Firehouse - 37 South Main Street)</h2>
-      <p>Local DJs:</p>
-        <ul>
-          <li>DJ Rad (5pm) Fun/Groovy House</li>
-          <li>Shaw Civitarese (6:30pm) Booty-shaking House</li>
-        </ul> -->
-
+    <h1>6pm-10pm</h1>
+    <h2>Elks Lodge Open Mic @ 66 Wilson Street</h2>
+    <p>The Elks will keep the party going with their monthly open mic (every first Saturday!)</p>
 
   </Layout>
 </template>

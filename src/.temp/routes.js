@@ -89,6 +89,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/scorpion-tea/",
+    component: c1
+  },
+  {
     path: "/artists/slow-noche/",
     component: c1
   },
@@ -106,6 +110,10 @@ export default [
   },
   {
     path: "/artists/rowan-hara/",
+    component: c1
+  },
+  {
+    path: "/artists/rubix-pube/",
     component: c1
   },
   {
@@ -329,6 +337,14 @@ export default [
     component: c2
   },
   {
+    path: "/porches/56-buttonwood/",
+    component: c2
+  },
+  {
+    path: "/artists/hollow-howl/",
+    component: c1
+  },
+  {
     path: "/artists/hot-dodge/",
     component: c1
   },
@@ -422,6 +438,10 @@ export default [
   },
   {
     path: "/artists/brad-staudle/",
+    component: c1
+  },
+  {
+    path: "/artists/cidy/",
     component: c1
   },
   {

@@ -56,7 +56,7 @@ export default {
       lat: 40.3701383,
       lng: -74.9472286
     },
-    coordinates: [],
+    coordinates: [
       // {
       //   address: 'Corner of Chaos - 5 York Street',
       //   lat: '40.3680643',
@@ -173,42 +173,30 @@ export default {
       //     },
       //   ],
       // },
-      // {
-      //   address: "Intergalactic Picnic - 56 Coryell Street",
-      //   lat: 40.36753, lng: -74.94408,
-      //   lineup: [
-      //     {
-      //       artist: "CLOVER",
-      //       link: "https://lambertvilleporchfest.com/artists/clover/",
-      //       description: "Beautiful blend of original soul, rock, and pop that echoes timelessness.",
-      //       timeslot: "12pm",
-      //     },
-      //     {
-      //       artist: "The Swiss Guard",
-      //       link: "https://lambertvilleporchfest.com/artists/the-swiss-guard/",
-      //       description: 'Loud music for quiet people.',
-      //       timeslot: "1pm",
-      //     },
-      //     {
-      //       artist: "Christina Ward",
-      //       link: "https://lambertvilleporchfest.com/artists/christina-ward/",
-      //       description: 'Mint 400 psych-folk artist recently featured on WXPNs The Key local music show.',
-      //       timeslot: "2pm",
-      //     },
-      //     {
-      //       artist: "Jaysond Neill",
-      //       link: "https://lambertvilleporchfest.com/artists/jaysond-neill/",
-      //       description: '',
-      //       timeslot: "3pm",
-      //     },
-      //     {
-      //       artist: "Proboscis",
-      //       link: "https://lambertvilleporchfest.com/artists/proboscis/",
-      //       description: 'The brainchild of Mother Mantis and Cloud. All their songs are about insects. Heavy, heavy insects.',
-      //       timeslot: "4pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: "Intergalactic Picnic - 138 N. Union Street",
+        lat: 40.37166744430551, lng: -74.9465289608412,
+        lineup: [
+          {
+            artist: "Rubix Pube",
+            link: "https://www.instagram.com/rubixpubepa",
+            description: "Theatrical, kooky, multi-genre show for those who dare to listen!",
+            timeslot: "3pm",
+          },
+          {
+            artist: "Hollow Howl",
+            link: "https://hollowhowl.bandcamp.com/",
+            description: 'Dark and evocative rock n roll soaked in reverb & rhythm.',
+            timeslot: "4pm",
+          },
+          {
+            artist: "Scorpion Tea",
+            link: "https://scorpiontea.bandcamp.com/",
+            description: 'Experimental death rock project. A band of monsters playing broken instruments.',
+            timeslot: "5pm",
+          },
+        ],
+      },
       // {
       //   address: "Porch-o-lonis - 148 North Union Street",
       //   lat: 40.3718376, lng: -74.9468862,
@@ -472,18 +460,18 @@ export default {
       //   ],
       // },
 
-    //   {
-    //     address: "Public Rest Rooms",
-    //     lat: 40.363860, lng: -74.945650,
-    //     lineup: [
-    //       {
-    //         artist: "Accessible via Lambertville Station or the Tow Path",
-    //         description: '',
-    //         timeslot: "",
-    //       },
-    //     ],
-    //   },
-    // ],
+      {
+        address: "Public Rest Rooms",
+        lat: 40.363860, lng: -74.945650,
+        lineup: [
+          {
+            artist: "Accessible via Lambertville Station or the Tow Path",
+            description: '',
+            timeslot: "",
+          },
+        ],
+      },
+    ],
     infoPosition: null,
     infoContent: null,
     lineup: [],
