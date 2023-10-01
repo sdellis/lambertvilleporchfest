@@ -13,8 +13,8 @@ lat: ""
 long: ""
 email: nofight.noget@gmail.com
 artist12: 667
-artist1: null
-artist2: null
+artist1: 668
+artist2: 669
 artist3: 7
 artist4: null
 artist5: null

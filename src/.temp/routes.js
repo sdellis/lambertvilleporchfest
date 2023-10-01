@@ -101,6 +101,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/sweet-pith/",
+    component: c1
+  },
+  {
     path: "/artists/rachel-rosemarie/",
     component: c1
   },
@@ -309,10 +313,6 @@ export default [
     component: c2
   },
   {
-    path: "/porches/5-york-st/",
-    component: c2
-  },
-  {
     path: "/porches/57-buttonwood-street/",
     component: c2
   },
@@ -390,6 +390,10 @@ export default [
   },
   {
     path: "/artists/darius-de-haas/",
+    component: c1
+  },
+  {
+    path: "/artists/exhibit-a/",
     component: c1
   },
   {
