@@ -17,6 +17,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/west-jersey-airport/",
+    component: c1
+  },
+  {
     path: "/artists/tom-florek-and-joe-bezek/",
     component: c1
   },
