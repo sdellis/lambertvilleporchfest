@@ -1,8 +1,8 @@
 ---
 id: 801
 year: "2023"
-title: Hive
-name: Hive
+title: The Hive
+name: The Hive
 bio: An all out early 2000’s/90’s punk and indie rock extravaganza!
 image: /uploads/image2.jpeg
 link: ""
