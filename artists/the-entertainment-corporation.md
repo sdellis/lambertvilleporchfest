@@ -1,6 +1,6 @@
 ---
 id: 22221212
-year: "2022"
+year: "2023"
 title: The Entertainment Corporation
 name: The Entertainment Corporation
 bio: 80's New Wave acoustic shreddery! (Photo by Bruce Berlin)
