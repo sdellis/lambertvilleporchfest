@@ -1,6 +1,6 @@
 ---
 id: 227531
-year: "2022"
+year: "2023"
 title: 72 Delaware
 message: Balance the Chemistry & Feed the Band
 image: /uploads/img_0357-joel-simmons.jpg
