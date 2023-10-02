@@ -14,8 +14,8 @@ long: "-74.944647"
 email: joel@soilfirst.com
 artist12: null
 artist1: null
-artist2: null
-artist3: null
+artist2: 33949
+artist3: 33949
 artist4: null
 artist5: null
 ---
