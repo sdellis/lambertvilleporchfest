@@ -1,6 +1,6 @@
 ---
 id: 3999
-year: "2022"
+year: "2023"
 title: Acoustic Kelly
 name: Acoustic Kelly
 bio: Tim Kelly is an acoustic solo performer and Lambertville resident whose
