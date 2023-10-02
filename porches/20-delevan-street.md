@@ -14,8 +14,8 @@ long: "-74.946196"
 email: vickibeyer11@gmail.com
 artist12: null
 artist1: null
-artist2: null
-artist3: null
+artist2: 881
+artist3: 881
 artist4: null
 artist5: null
 ---
