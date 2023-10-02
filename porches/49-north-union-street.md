@@ -13,9 +13,9 @@ lat: "40.367478"
 long: "-74.945626"
 email: carolyn@unioncoffeenj.com
 artist12: null
-artist1: null
-artist2: null
-artist3: null
+artist1: 32534
+artist2: 22221212
+artist3: 22221212
 artist4: null
 artist5: null
 ---
