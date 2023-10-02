@@ -13,8 +13,8 @@ long: ""
 email: timothyjkelly@msn.com
 artist12: null
 artist1: null
-artist2: null
-artist3: null
+artist2: 3999
+artist3: 3999
 artist4: null
 artist5: null
 ---
