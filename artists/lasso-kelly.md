@@ -1,11 +1,11 @@
 ---
 id: 220038
-year: "2022"
+year: "2023"
 title: Lasso Kelly
 name: Lasso Kelly
-bio: This experimental country trio is going to chew you up n spit you out like
-  molasses soaked tobacco.
-image: /uploads/imb_miichh.jpg
+bio: this wild n experimental trio is gonna chew you up n spit you out like
+  molasses soaked tobacco. ptui!
+image: /uploads/imb_8hatbj.jpg
 link: ""
 time: 2022-09-27T14:10:53.313Z
 email: ""
