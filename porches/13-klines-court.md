@@ -1,7 +1,7 @@
 ---
 id: 4321
-year: "2022"
-title: "More Than Q"
+year: "2023"
+title: More Than Q
 message: Smokin!
 image: /uploads/screen-shot-2021-10-02-at-8.12.50-am.png
 host: Todd Alan Ellis
