@@ -203,48 +203,30 @@ export default {
           },
         ],
       },
-      // {
-      //   address: "Porch-o-lonis - 148 North Union Street",
-      //   lat: 40.3718376, lng: -74.9468862,
-      //   lineup: [
-      //     {
-      //       artist: "Kevin Toft and the Alternators",
-      //       link: "https://lambertvilleporchfest.com/artists/kevin-toft-and-the-alternators/",
-      //       description: 'Original & Rebuilt Genuine Jersey Dope Art Rock Blues & Soul',
-      //       timeslot: "1pm",
-      //     },
-      //     {
-      //       artist: "RIPS",
-      //       link: "https://lambertvilleporchfest.com/artists/jazz-house-kids/",
-      //       description: "Bold yet melodic noises mixing elements of country, soul, punk.",
-      //       timeslot: "2pm",
-      //     },
-      //     {
-      //       artist: "Tinsel Town Rebellion",
-      //       link: "https://lambertvilleporchfest.com/artists/tinsel-town-rebellion/",
-      //       description: "Tinsel Town Rebellion formed in 2020 as an ad hoc group to bring the music from the silver screen LIVE to your eardrums.",
-      //       timeslot: "3pm",
-      //     },
-      //     {
-      //       artist: "Rock Hall",
-      //       link: "https://lambertvilleporchfest.com/artists/rock-hall/",
-      //       description: "For over 25 years, Rock Hall has been filling all your garage rock, classic rock, and 90s alternative needs.",
-      //       timeslot: "4pm",
-      //     }
-      //   ],
-      // },
-      // {
-      //   address: "1 Washington Street",
-      //   lat: 40.36896, lng: -74.94164,
-      //   lineup: [
-      //     {
-      //       artist: "The Cold Soil Boys",
-      //       link: "https://lambertvilleporchfest.com/artists/the-cold-soil-boys/",
-      //       description: 'Mystery band.',
-      //       timeslot: "3pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: "87 Coryell Street",
+        lat: 40.367845112038054, lng: -74.94261234718233,
+        lineup: [
+          {
+            artist: "Ed and Tina Wall",
+            link: "https://lambertvilleporchfest.com/artists/ed-wall/",
+            description: 'Renowned keyboardist and vocalist for the J.b. Kline band.',
+            timeslot: "12-3pm",
+          }
+        ],
+      },
+      {
+        address: "3 Jefferson Street",
+        lat: 40.36977030518065, lng: -74.94672574532933,
+        lineup: [
+          {
+            artist: "Tres",
+            link: "https://lambertvilleporchfest.com/artists/tres/",
+            description: 'Acoustic Folk music by Jennifer Griffith, Gina Scialla, and Angie Mikula.',
+            timeslot: "12pm",
+          },
+        ],
+      },
       // {
       //   address: "111 North Union Street",
       //   lat: 40.37006, lng: 	-74.94631,
