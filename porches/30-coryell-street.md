@@ -3,6 +3,7 @@ id: 4234
 year: "2023"
 title: 30 Coryell Street
 message: ""
+image: /uploads/30-coryell.jpg
 host: Tim Kelly
 house_number: "30"
 street_name: Coryell Street
