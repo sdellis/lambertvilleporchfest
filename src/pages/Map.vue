@@ -227,60 +227,60 @@ export default {
           },
         ],
       },
-      // {
-      //   address: "111 North Union Street",
-      //   lat: 40.37006, lng: 	-74.94631,
-      //   lineup: [
-      //     {
-      //       artist: "River Riders",
-      //       link: "https://lambertvilleporchfest.com/artists/river-riders/",
-      //       description: 'soulful harmonies with a unique instrumental spin on country, bluegrass, blues, and swing music.',
-      //       timeslot: "12pm",
-      //     },
-      //     {
-      //       artist: "Grace Carey",
-      //       link: "https://lambertvilleporchfest.com/artists/grace-carey/",
-      //       description: '',
-      //       timeslot: "1pm",
-      //     },
-      //     {
-      //       artist: "Little Flowers",
-      //       link: "https://lambertvilleporchfest.com/artists/little-flowers/",
-      //       description: 'Bedroom folk dream duo playing originals with heady lyrics.',
-      //       timeslot: "2pm",
-      //     },
-      //   ],
-      // },
-      // {
-      //   address: "103 South Main Street",
-      //   lat: 40.36261, lng: -74.94241,
-      //   lineup: [
-      //     {
-      //       artist: "Pat Foran",
-      //       link: "https://lambertvilleporchfest.com/artists/patrick-foran/",
-      //       description: 'Familiar but different Berklee-trained songwriter.',
-      //       timeslot: "12pm",
-      //     },
-      //     {
-      //       artist: "Kevin Hilferty",
-      //       link: "https://lambertvilleporchfest.com/artists/kevin-hilferty/",
-      //       description: "",
-      //       timeslot: "1pm",
-      //     },
-      //     {
-      //       artist: "Nick Clemons",
-      //       link: "https://lambertvilleporchfest.com/artists/nick-clemons/",
-      //       description: '',
-      //       timeslot: "3pm",
-      //     },
-      //     {
-      //       artist: "Pat Foran",
-      //       link: "https://lambertvilleporchfest.com/artists/patrick-foran/",
-      //       description: 'Familiar but different Berklee-trained songwriter.',
-      //       timeslot: "5pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: "56 Buttonwood Street",
+        lat: 40.37339327093613, lng: -74.94537002998483,
+        lineup: [
+          {
+            artist: "Sweet Pith",
+            link: "https://lambertvilleporchfest.com/artists/sweet-pith/",
+            description: 'Free music.',
+            timeslot: "12-12:30pm",
+          },
+          {
+            artist: "Relief",
+            link: "https://lambertvilleporchfest.com/artists/sweet-pith/",
+            description: 'Synth Explorations',
+            timeslot: "12:45-1:15pm",
+          },
+          {
+            artist: "West Jersey Airport",
+            link: "https://lambertvilleporchfest.com/artists/west-jersey-airport/",
+            description: 'Bedroom folk dream duo playing originals with heady lyrics.',
+            timeslot: "1:15-2pm",
+          },
+          {
+            artist: "[Exhibit A]",
+            link: "https://lambertvilleporchfest.com/artists/exhibit-a/",
+            description: 'Local No Wave.',
+            timeslot: "2:15pm",
+          },
+        ],
+      },
+      {
+        address: "54 Buttonwood Street",
+        lat: 40.373396165602074, lng: -74.94549217416551,
+        lineup: [
+          {
+            artist: "Cari & Corky",
+            link: "https://lambertvilleporchfest.com/artists/cari-corky/",
+            description: 'A singer-songwriter romance from your porch hosts.',
+            timeslot: "3pm",
+          },
+          {
+            artist: "hot glue & the gun",
+            link: "https://lambertvilleporchfest.com/artists/hot-glue-the-gun/",
+            description: "Based out of New York City, Hot Glue & the Gun craft intimate, interactive, theater-rock.",
+            timeslot: "1pm",
+          },
+          {
+            artist: "The Hive",
+            link: "https://lambertvilleporchfest.com/artists/the-hive/",
+            description: 'An all out early 2000’s/90’s punk and indie rock extravaganza!',
+            timeslot: "3pm",
+          }
+        ],
+      },
       // {
       //   address: "Thai Tida Parking Lot Stage - 236 North Union Street",
       //   lat: 40.37463, lng: -74.94759,
