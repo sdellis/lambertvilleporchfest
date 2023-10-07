@@ -149,42 +149,36 @@ export default {
           }
         ],
       },
-      // {
-      //   address: "15 Klines Court",
-      //   lat: 40.3654266, lng: -74.945317,
-      //   lineup: [
-      //     {
-      //       artist: "Sam Ryan",
-      //       link: "https://lambertvilleporchfest.com/artists/sam-ryan/",
-      //       description: "A voice of silk croons hits for every occassion.",
-      //       timeslot: "12pm",
-      //     },
-      //     {
-      //       artist: "Tod the Mod",
-      //       link: "https://lambertvilleporchfest.com/artists/todd-ellis/",
-      //       description: "The mod, the myth, the legend.",
-      //       timeslot: "1pm",
-      //     },
-      //     {
-      //       artist: "Those Looks - Canceled!",
-      //       link: "https://lambertvilleporchfest.com/artists/those-looks/",
-      //       description: 'Velvet wave indie pop from the wilds of New Jersey.',
-      //       timeslot: "2pm",
-      //     },
-      //     {
-      //       artist: "Keith Kenny",
-      //       link: "https://lambertvilleporchfest.com/artists/essie-and-keith-kenny/",
-      //       description: 'Kenny has shared the stage with the likes of Keller Williams, Leon Russell, John Hammond Jr., New Riders of the Purple Sage, and more. Nuff said.',
-      //       timeslot: "3pm",
-      //     },
-      //     {
-      //       artist: "Bill and Fred's Excellent Adventure",
-      //       link: "https://lambertvilleporchfest.com/artists/bill-doe/",
-      //       description: 'Local faves playing classic covers... think Pink Floyd, Grateful Dead, Bob Dylan, Simon & Garfunkle, Bowie, Willie Nelson, and Zappa. They have also been described as a comedy act.',
-      //       timeslot: "4-6pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: "15 Klines Court",
+        lat: 40.3654266, lng: -74.945317,
+        lineup: [
+          {
+            artist: "milk",
+            link: "https://lambertvilleporchfest.com/artists/milk/",
+            description: "Original songs and a helping of classic 90's covers.",
+            timeslot: "1pm",
+          },
+          {
+            artist: "Christina Ward (full band)",
+            link: "https://lambertvilleporchfest.com/artists/christina-ward/",
+            description: "Ethereal mermaid. Shreds guitar. With FULL BAND!",
+            timeslot: "3pm",
+          },
+          {
+            artist: "Reeder Station",
+            link: "https://lambertvilleporchfest.com/artists/reeder-station/",
+            description: 'Power trio featuring former Buzzcocks bassist Steve Garvey, guitarist and singer James Seward, and drummer Brad Smith.',
+            timeslot: "3pm",
+          },
+          {
+            artist: "Sam Ryan",
+            link: "https://lambertvilleporchfest.com/artists/sam-ryan/",
+            description: "A voice of silk croons hits for every occassion.",
+            timeslot: "5pm",
+          },
+        ],
+      },
       {
         address: "Intergalactic Picnic - 138 N. Union Street",
         lat: 40.37166744430551, lng: -74.9465289608412,
@@ -341,30 +335,18 @@ export default {
       //     },
       //   ],
       // },
-      // {
-      //   address: "Roy's Garage - 20 Delevan Street",
-      //   lat: 40.36921, lng: -74.946196,
-      //   lineup: [
-      //     {
-      //       artist: "Chris Chadwick",
-      //       link: "https://lambertvilleporchfest.com/artists/chris-chadwick/",
-      //       description: "Acoustic blue-eyed soul with roots in the Greenwich Village folk scene.",
-      //       timeslot: "12-2pm",
-      //     },
-      //     {
-      //       artist: "Peter Sandler",
-      //       link: "https://lambertvilleporchfest.com/artists/peter-sandler/",
-      //       description: "Inspired songwriting on a nylon string.",
-      //       timeslot: "2pm-4pm",
-      //     },
-      //     {
-      //       artist: "The Shackers",
-      //       link: "https://lambertvilleporchfest.com/artists/the-shackers/",
-      //       description: 'Groovy originals and classic covers, these guys know how to have a good time!',
-      //       timeslot: "4pm-6pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: "Roy's Garage - 20 Delevan Street",
+        lat: 40.36921, lng: -74.946196,
+        lineup: [
+          {
+            artist: "NIGHT CAP",
+            link: "https://lambertvilleporchfest.com/artists/night-cap/",
+            description: "Classic, indie and alternative rock, with blues, funk and a touch of jazz for good measure. Originals and covers.",
+            timeslot: "2-4pm",
+          }
+        ],
+      },
       // {
       //   address: "25 Ferry Street",
       //   lat: 40.364983, lng: -74.944373,
@@ -377,18 +359,18 @@ export default {
       //     },
       //   ],
       // },
-      // {
-      //   address: "17 Clinton Street",
-      //   lat: 40.368642, lng: -74.946805,
-      //   lineup: [
-      //     {
-      //       artist: "LAURIE VOSBURG",
-      //       link: "https://lambertvilleporchfest.com/artists/laurie-vosburg/",
-      //       description: 'A mix of originals and country rocking blues',
-      //       timeslot: "1pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: "16 Clinton Street",
+        lat: 40.368642, lng: -74.946805,
+        lineup: [
+          {
+            artist: "The Street Friars",
+            link: "https://lambertvilleporchfest.com/artists/the-street-friars/",
+            description: 'C﻿lassic cover songs!',
+            timeslot: "2-4pm",
+          },
+        ],
+      },
       // {
       //   address: "49 North Union Street",
       //   lat: 40.367478, lng: -74.945626,
