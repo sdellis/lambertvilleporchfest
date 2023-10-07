@@ -113,30 +113,42 @@ export default {
           }
         ],
       },
-      // {
-      //   address: "Under the Ivy - 13 Lambert Lane",
-      //   lat: 40.3658048, lng: -74.9468706,
-      //   lineup: [
-      //     {
-      //       artist: "Loose Panic",
-      //       link: "http://localhost:8080/artists/loose-panic/",
-      //       description: "Music project of Jarret Crawford that covers Americana and roots rock, 90s alternative, and more.",
-      //       timeslot: "12pm",
-      //     },
-      //     {
-      //       artist: "Rachel Rosemarie",
-      //       link: "http://localhost:8080/artists/rachel-rosemarie/",
-      //       description: "Eerily beautiful melodies, treading like a golden carp in a sea of existential dread.",
-      //       timeslot: "1pm",
-      //     },
-      //     {
-      //       artist: "Lasso Kelly",
-      //       link: "http://localhost:8080/artists/lasso-kelly/",
-      //       description: "This experimental country trio is going to chew you up n spit you out like molasses soaked tobacco.",
-      //       timeslot: "2pm",
-      //     },
-      //   ],
-      // },
+      {
+        address: "Baked by the River - 8 Church Street",
+        lat: 40.3669047131796, lng: -74.944845261897,
+        lineup: [
+          {
+            artist: "Christina Ward",
+            link: "https://lambertvilleporchfest.com/artists/christina-ward/",
+            description: "Ethereal mermaid. Shreds guitar.",
+            timeslot: "1pm",
+          },
+          {
+            artist: "Nawi Avila",
+            link: "https://lambertvilleporchfest.com/artists/christina-ward/",
+            description: "Weird cool amazing performance art music.",
+            timeslot: "1:30pm",
+          },
+          {
+            artist: "Rachel Rosemarie",
+            link: "https://lambertvilleporchfest.com/artists/rachel-rosemarie/",
+            description: "Eerily beautiful melodies, treading like a golden carp in a sea of existential dread.",
+            timeslot: "2pm",
+          },
+          {
+            artist: "Lasso Kelly",
+            link: "https://lambertvilleporchfest.com/artists/lasso-kelly/",
+            description: "This experimental country trio is going to chew you up n spit you out like molasses soaked tobacco.",
+            timeslot: "3pm",
+          },
+          {
+            artist: "Valona",
+            link: "https://lambertvilleporchfest.com/artists/valona/",
+            description: "Smooth hip hop and new soul.",
+            timeslot: "4pm",
+          }
+        ],
+      },
       // {
       //   address: "15 Klines Court",
       //   lat: 40.3654266, lng: -74.945317,
