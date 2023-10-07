@@ -8,6 +8,6 @@ image: /uploads/street-friars-porchfest.png
 link: https://www.instagram.com/the_street_friars/
 time: 2023-10-02T16:19:49.816Z
 email: rterranova1@gmail.com
-venmo: ???
+venmo: https://venmo.com/u/Raymond-Terranova-1
 paypal: ???
 ---
