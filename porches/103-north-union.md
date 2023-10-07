@@ -3,6 +3,7 @@ id: 880
 year: "2023"
 title: 103 North Union
 message: ""
+image: /uploads/img_7757.jpeg
 host: Mary Jane Legere
 house_number: "103"
 street_name: North Union
