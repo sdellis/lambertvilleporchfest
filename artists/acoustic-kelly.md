@@ -10,6 +10,6 @@ image: /uploads/shot-for-youtube.jpg
 link: ""
 time: 2021-09-27T18:07:31.350Z
 email: timothyjkelly@msn.com
-venmo: ???
+venmo: "@timkellylambertville"
 paypal: ???
 ---
