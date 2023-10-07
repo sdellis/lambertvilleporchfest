@@ -57,62 +57,62 @@ export default {
       lng: -74.9472286
     },
     coordinates: [
-      // {
-      //   address: 'Corner of Chaos - 5 York Street',
-      //   lat: '40.3680643',
-      //   lng: '-74.9461641',
-      //   lineup: [
-      //     {
-      //       artist: "Slow Noche",
-      //       link: "https://lambertvilleporchfest.com/artists/slow-noche/",
-      //       description: "Chris Buccari's original nylon string guitar instrumentals with hints of Latin, Island, Folk and Noir.",
-      //       timeslot: "12pm",
-      //     },
-      //     {
-      //       artist: "Daniella and Tim",
-      //       link: "https://lambertvilleporchfest.com/artists/daniella-and-tim/",
-      //       description: "Top shelf fiddle and guitar bluegrass duo.",
-      //       timeslot: "1pm",
-      //     },
-      //     {
-      //       artist: "The Local 12",
-      //       link: "https://lambertvilleporchfest.com/artists/the-local-12",
-      //       description: "Rockers from South Jersey!",
-      //       timeslot: "2pm",
-      //     },
-      //     {
-      //       artist: "Lasso Kelly",
-      //       link: "https://lambertvilleporchfest.com/artists/lasso-kelly/",
-      //       description: "This experimental country trio is going to chew you up n spit you out like molasses soaked tobacco.",
-      //       timeslot: "3pm",
-      //     },
-      //     {
-      //       artist: "Kitty City",
-      //       link: "https://lambertvilleporchfest.com/artists/kitty-city/",
-      //       description: "Kitty City creates lush psychedelic indie pop rock. You’ll probably wanna dance.",
-      //       timeslot: "3pm",
-      //     },
-      //     {
-      //       artist: "Creeping Charlie",
-      //       link: "https://lambertvilleporchfest.com/artists/chris-buccari/",
-      //       description: "Highly danceable cover band playing hits from Queen to Lizzo.",
-      //       timeslot: "5pm",
-      //     }
-      //   ]
-      // },
-      // {
-      //   address: '72 Delaware',
-      //   lat: '40.371487',
-      //   lng: '-74.944647',
-      //   lineup: [
-      //     {
-      //       artist: "The Earthworks Band",
-      //       link: "https://lambertvilleporchfest.com/artists/the-earthworks-band/",
-      //       description: "Band with 5 guitarists plays covers from the 70’s and 80’s.",
-      //       timeslot: "12pm-2pm",
-      //     }
-      //   ],
-      // },
+      {
+        address: 'Corner of Chaos - 5 York Street',
+        lat: '40.3680643',
+        lng: '-74.9461641',
+        lineup: [
+          {
+            artist: "Jimmy Velour",
+            link: "https://lambertvilleporchfest.com/artists/jimmy-velour",
+            description: "Tears for Fears meets Tame Impala. A crooner in sunglasses ﻿wearing the softest things on this planet.",
+            timeslot: "12pm",
+          },
+          {
+            artist: "yupanki",
+            link: "https://lambertvilleporchfest.com/artists/yupanki",
+            description: "Ambient Art Rock",
+            timeslot: "1pm",
+          },
+          {
+            artist: "Slow Noche",
+            link: "https://lambertvilleporchfest.com/artists/slow-noche/",
+            description: "Chris Buccari's original nylon string guitar instrumentals with hints of Latin, Island, Folk and Noir.",
+            timeslot: "2pm",
+          },
+          {
+            artist: "Slow Noche",
+            link: "https://lambertvilleporchfest.com/artists/slow-noche/",
+            description: "Chris Buccari's original nylon string guitar instrumentals with hints of Latin, Island, Folk and Noir.",
+            timeslot: "3pm",
+          },
+          {
+            artist: "lu and lusso",
+            link: "https://lambertvilleporchfest.com/artists/lu-and-lusso",
+            description: "Garage jazz. Flamenco grunge. Tango punk. Bossa Baroque. Django vibes.",
+            timeslot: "4pm",
+          },
+          {
+            artist: "The Local 12",
+            link: "https://lambertvilleporchfest.com/artists/the-local-12",
+            description: "Rockers from South Jersey!",
+            timeslot: "5pm",
+          }
+        ]
+      },
+      {
+        address: '72 Delaware',
+        lat: '40.371487',
+        lng: '-74.944647',
+        lineup: [
+          {
+            artist: "The Earthworks Band",
+            link: "https://lambertvilleporchfest.com/artists/the-earthworks-band/",
+            description: "Band with 5 guitarists plays covers from the 70’s and 80’s.",
+            timeslot: "2pm-4pm",
+          }
+        ],
+      },
       // {
       //   address: "Under the Ivy - 13 Lambert Lane",
       //   lat: 40.3658048, lng: -74.9468706,

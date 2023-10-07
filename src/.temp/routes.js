@@ -21,7 +21,15 @@ export default [
     component: c1
   },
   {
+    path: "/artists/yupanki/",
+    component: c1
+  },
+  {
     path: "/artists/tom-florek-and-joe-bezek/",
+    component: c1
+  },
+  {
+    path: "/artists/visionary-woman-tarot/",
     component: c1
   },
   {
@@ -53,6 +61,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/the-street-friars/",
+    component: c1
+  },
+  {
     path: "/artists/the-swiss-guard/",
     component: c1
   },
@@ -61,11 +73,11 @@ export default [
     component: c1
   },
   {
-    path: "/artists/the-fog/",
+    path: "/artists/valona/",
     component: c1
   },
   {
-    path: "/artists/the-hive/",
+    path: "/artists/the-fog/",
     component: c1
   },
   {
@@ -105,7 +117,15 @@ export default [
     component: c1
   },
   {
+    path: "/artists/tres/",
+    component: c1
+  },
+  {
     path: "/artists/rachel-rosemarie/",
+    component: c1
+  },
+  {
+    path: "/artists/reeder-station/",
     component: c1
   },
   {
@@ -161,6 +181,14 @@ export default [
     component: c1
   },
   {
+    path: "/artists/night-cap/",
+    component: c1
+  },
+  {
+    path: "/artists/lu-and-lusso/",
+    component: c1
+  },
+  {
     path: "/artists/mimosa-watusi/",
     component: c1
   },
@@ -190,6 +218,10 @@ export default [
   },
   {
     path: "/artists/loose-panic/",
+    component: c1
+  },
+  {
+    path: "/artists/milk/",
     component: c1
   },
   {
@@ -241,8 +273,16 @@ export default [
     component: c2
   },
   {
+    path: "/porches/52-north-union-street/",
+    component: c2
+  },
+  {
     path: "/porches/7-north-main-street/",
     component: c2
+  },
+  {
+    path: "/artists/hot-glue-the-gun/",
+    component: c1
   },
   {
     path: "/artists/jaysond-neill/",
@@ -257,6 +297,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/jimmy-velour/",
+    component: c1
+  },
+  {
     path: "/porches/1-washington-st/",
     component: c2
   },
@@ -266,6 +310,10 @@ export default [
   },
   {
     path: "/porches/103-clinton-street/",
+    component: c2
+  },
+  {
+    path: "/porches/103-north-union/",
     component: c2
   },
   {
@@ -305,11 +353,19 @@ export default [
     component: c2
   },
   {
+    path: "/porches/3-jefferson-street/",
+    component: c2
+  },
+  {
     path: "/porches/30-coryell-street/",
     component: c2
   },
   {
     path: "/porches/37-jefferson-street/",
+    component: c2
+  },
+  {
+    path: "/porches/5-york-street/",
     component: c2
   },
   {
@@ -333,6 +389,14 @@ export default [
     component: c2
   },
   {
+    path: "/porches/8-church-street/",
+    component: c2
+  },
+  {
+    path: "/porches/16-clinton/",
+    component: c2
+  },
+  {
     path: "/porches/45-buttonwood/",
     component: c2
   },
@@ -342,6 +406,10 @@ export default [
   },
   {
     path: "/porches/56-buttonwood/",
+    component: c2
+  },
+  {
+    path: "/porches/87-coryell/",
     component: c2
   },
   {
@@ -373,6 +441,10 @@ export default [
     component: c1
   },
   {
+    path: "/artists/hive/",
+    component: c1
+  },
+  {
     path: "/artists/calla-bere-and-the-attitude/",
     component: c1
   },
@@ -390,6 +462,10 @@ export default [
   },
   {
     path: "/artists/darius-de-haas/",
+    component: c1
+  },
+  {
+    path: "/artists/ed-wall/",
     component: c1
   },
   {
@@ -446,6 +522,10 @@ export default [
   },
   {
     path: "/artists/brad-staudle/",
+    component: c1
+  },
+  {
+    path: "/artists/charybdis/",
     component: c1
   },
   {
