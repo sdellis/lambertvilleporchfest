@@ -15,7 +15,7 @@ email: nofight.noget@gmail.com
 artist12: 669
 artist1: 667
 artist2: 668
-artist3: 7
+artist3: ""
 artist4: null
 artist5: null
 ---
