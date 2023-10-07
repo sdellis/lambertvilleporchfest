@@ -11,5 +11,6 @@ lat: ""
 # Leaving latitude/longitude fields blank will remove the porch from the Porchfest map.
 long: ""
 email: om4art@yahoo.com
+artist12: 200091
 ---
 Come to the side porch on Clinton!
