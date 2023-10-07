@@ -9,6 +9,7 @@ bio: Greg Pontier and Nancy Neff enjoy a wide variety of music. They both come
   usually well known. Whether on guitar, ukelele or accordion, their music is
   clean and enjoyable. Nancy and Greg have hosted 180 weekly Friday nigh "Sing
   Alongs" on zoom since the beginning of the pandemic.
+image: /uploads/gregandnancy-pf.jpg
 link: ""
 time: 2021-09-21T13:37:12.004Z
 email: ""
