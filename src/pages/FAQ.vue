@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <H1>Frequently Asked Questions</H1>
-    <!-- <p><a href="https://logowearhouse.shop/lambertville_porchfest/">Merchandise pre-order is closed! Taking new orders at Ely Park on Oct 2nd.👕</a></p> -->
+    <p>Lambertville Porchfest 2024 will take place on Saturday, October 12th.</p> -->
 
     <h2>What is Lambertville Porchfest?</h2>
     <p>Lambertville Porchfest is a do-it-yourself community music festival.
@@ -10,7 +10,7 @@
     the downtown neighborhood.</p>
 
     <h2>When is Lambertville Porchfest?</h2>
-    <p>Lambertville Porchfest is always the first Saturday in October, unless otherwise noted.</p>
+    <p>Lambertville Porchfest is always the first Saturday in October, unless otherwise noted. (Note that Porchfest 2024 will be held on October 12th, the second Saturday due to a pre-existing scheduling conflict.)</p>
 
     <h2>What are the rules?</h2>
     <p>We ask all attendees to stand on the sidewalk or yard and not in the street unless the neighborhood has obtained a

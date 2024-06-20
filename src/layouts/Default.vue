@@ -1,13 +1,13 @@
 <template>
   <div class="wrapper">
-  <!-- <banner>
-    <h1>☔  &nbsp;Porchfest is on!&nbsp; Check the Schedule and Map for updates.</h1>
-  </banner> -->
+  <banner>
+    <h1>Announcement: Lambertville Porchfest will be held on October 12, 2024!</h1>
+  </banner>
   <div class="layout">
     <header class="header">
       <div :class="{open: menuOpen}">
         <h1>
-          <g-link to="/">Lambertville Porchfest 2023</g-link>
+          <g-link to="/">Lambertville Porchfest 2024</g-link>
         </h1>
         <button class="burger" :class="{open: menuOpen}" @click="handleOpen">
           <div class="line line-1"></div>
