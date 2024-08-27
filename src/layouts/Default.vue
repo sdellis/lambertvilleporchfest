@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
   <banner>
-    <h1>Announcement: Lambertville Porchfest will be held on October 12, 2024!</h1>
+    <h1>Announcement: Lambertville Porchfest will be held on Sunday, October 13, 2024!</h1>
   </banner>
   <div class="layout">
     <header class="header">
@@ -16,12 +16,12 @@
       </div>
       <nav class="nav" :class="{open: menuOpen}" ref="nav">
         <g-link class="nav__link" to="/about/"><span>About</span></g-link>
-        <g-link class="nav__link" to="/map/"><span>Map</span></g-link>
-        <g-link class="nav__link" to="/sched/"><span>Schedule</span></g-link>
-        <g-link class="nav__link" to="/porches/">Porches</g-link>
-        <g-link class="nav__link" to="/artists/">Artists</g-link>
-        <!-- <g-link class="nav__link" to="https://docs.google.com/forms/d/e/1FAIpQLSfGWsqy6rAya_yv_ucb2lPSynFVUi9zkGR9f9JjlFniP8bNNQ/viewform"><span>Porch Registration</span></g-link>-->
+        <g-link class="nav__link" to="/simple-schedule/"><span>Schedule</span></g-link>
         <g-link class="nav__link" to="/faq/"><span>FAQ</span></g-link>
+        <!-- <g-link class="nav__link" to="/map/"><span>Map</span></g-link> -->
+        <!-- <g-link class="nav__link" to="/porches/">Porches</g-link>
+        <g-link class="nav__link" to="/artists/">Artists</g-link> -->
+        <!-- <g-link class="nav__link" to="https://docs.google.com/forms/d/e/1FAIpQLSfGWsqy6rAya_yv_ucb2lPSynFVUi9zkGR9f9JjlFniP8bNNQ/viewform"><span>Porch Registration</span></g-link>-->
       </nav>
     </header>
     <slot/>

@@ -5,15 +5,15 @@
 
     <g-image alt="Band on a porch" src="~/porchfest.png" width="400" />
     <div>
-        <p>Lambertville Porchfest is a do-it-yourself music festival, featuring
-        musicians of all kinds playing free shows on porches throughout the neighborhood.
+        <p>Lambertville Porchfest is a do-it-yourself music and arts festival, featuring
+        artists of all kinds expressing themselves on porches throughout the neighborhood.
         Created by and for Lambertville residents, the festival seeks to represent
-        and celebrate the community’s broad musical talents and picturesque neighborhoods.</p>
+        and celebrate the community’s broad talents and picturesque neighborhoods.</p>
     </div>
 
     <h2>Mission</h2>
     <p>To build, deepen and celebrate connections within our
-    community by creating a platform for sharing the joys of live music.</p>
+    community by creating a platform for sharing the joys of live music and art.</p>
 
     <h2>History</h2>
     <p>The <a href="http://www.porchfest.org/">first Porchfest</a> was held in
@@ -21,14 +21,14 @@
     Porchfests have sprung up in over 100 other US and Canadian cities,
     including San Francisco, Cleveland, Tucson, Philadelphia, Montréal and Ottawa.
 
-      <p>This is the second Lambertville Porchfest, so it's up to us to make history happen again!
+      <p>This is the fifth Lambertville Porchfest, so it's up to us to make history happen again!
       We have no doubt that it will bring neighbors together, give
-      local artists a platform to share their music, and help support Lambertville's
+      local artists a platform to share their work, and help support Lambertville's
       downtown restaurants and businesses.
       </p>
 
     <h2>Artwork</h2>
-    <p>The 2023 design for Lambertville Porchfest is still in the works. Stay tuned!</p>
+    <p>The 2024 design for Lambertville Porchfest is still in the works. Stay tuned!</p>
 
 
   </Layout>
