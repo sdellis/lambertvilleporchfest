@@ -1,15 +1,16 @@
 const c1 = () => import(/* webpackChunkName: "page--src--templates--artists-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/templates/Artists.vue")
 const c2 = () => import(/* webpackChunkName: "page--src--templates--porches-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/templates/Porches.vue")
-const c3 = () => import(/* webpackChunkName: "page--src--pages--sched-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Sched.vue")
-const c4 = () => import(/* webpackChunkName: "page--src--pages--porches-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Porches.vue")
-const c5 = () => import(/* webpackChunkName: "page--src--pages--map-old-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Map_old.vue")
-const c6 = () => import(/* webpackChunkName: "page--src--pages--map-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Map.vue")
-const c7 = () => import(/* webpackChunkName: "page--src--pages--ida-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Ida.vue")
-const c8 = () => import(/* webpackChunkName: "page--src--pages--faq-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/FAQ.vue")
-const c9 = () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/About.vue")
-const c10 = () => import(/* webpackChunkName: "page--src--pages--artists-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Artists.vue")
-const c11 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/node_modules/gridsome/app/pages/404.vue")
-const c12 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Index.vue")
+const c3 = () => import(/* webpackChunkName: "page--src--pages--simple-schedule-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/SimpleSchedule.vue")
+const c4 = () => import(/* webpackChunkName: "page--src--pages--sched-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Sched.vue")
+const c5 = () => import(/* webpackChunkName: "page--src--pages--porches-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Porches.vue")
+const c6 = () => import(/* webpackChunkName: "page--src--pages--map-old-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Map_old.vue")
+const c7 = () => import(/* webpackChunkName: "page--src--pages--map-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Map.vue")
+const c8 = () => import(/* webpackChunkName: "page--src--pages--ida-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Ida.vue")
+const c9 = () => import(/* webpackChunkName: "page--src--pages--faq-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/FAQ.vue")
+const c10 = () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/About.vue")
+const c11 = () => import(/* webpackChunkName: "page--src--pages--artists-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Artists.vue")
+const c12 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/node_modules/gridsome/app/pages/404.vue")
+const c13 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Index.vue")
 
 export default [
   {
@@ -545,50 +546,54 @@ export default [
     component: c1
   },
   {
-    path: "/sched/",
+    path: "/simple-schedule/",
     component: c3
   },
   {
-    path: "/porches/",
+    path: "/sched/",
     component: c4
   },
   {
-    path: "/map-old/",
+    path: "/porches/",
     component: c5
   },
   {
-    path: "/map/",
+    path: "/map-old/",
     component: c6
   },
   {
-    path: "/ida/",
+    path: "/map/",
     component: c7
   },
   {
-    path: "/faq/",
+    path: "/ida/",
     component: c8
   },
   {
-    path: "/about/",
+    path: "/faq/",
     component: c9
   },
   {
-    path: "/artists/",
+    path: "/about/",
     component: c10
+  },
+  {
+    path: "/artists/",
+    component: c11
   },
   {
     name: "404",
     path: "/404/",
-    component: c11
+    component: c12
   },
   {
     name: "home",
     path: "/",
-    component: c12
+    component: c13
   },
   {
     name: "*",
     path: "*",
-    component: c11
+    component: c12
   }
 ]

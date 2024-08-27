@@ -4,14 +4,14 @@
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
     <!-- <g-image alt="Lambertville Porchfest, October 1, 2022, 12-6pm" src="~/porchfest-poster-2022.gif"/> -->
     <figure>
-      <img src="/images/hollow-howl.jpg" alt="Lambertville Porchfest, October 12, 2024, 12-6pm"/>
-      <figcaption>Photo: Hollow Howl at Porchfest 2023</figcaption>
+      <img src="/images/porchfest-24.JPG" alt="Lambertville Porchfest, Sunday October 13, 2024, 12-6pm"/>
+      <figcaption>Photo: Corner of Chaos at Porchfest 2021</figcaption>
     </figure>
     <!-- <h2>Lambertville's 2nd Annual<br>
       <abbr title="do-it-yourself">DIY</abbr> Music Festival</h2> -->
     <p>
-      A do-it-yourself music festival featuring free shows on porches all over
-      downtown Lambertville.<br>Anyone can host or play a show!
+      A do-it-yourself music and arts festival featuring free shows on porches all over Lambertville.
+      <br>Anyone can host or play a show!
     </p>
     <!-- <p class="credit"><em>Porchfest 2023 poster art is in the works. Stay tuned!</em></p> -->
   </div>

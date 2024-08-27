@@ -1,16 +1,15 @@
 <template>
   <Layout>
     <H1>Frequently Asked Questions</H1>
-    <p>Lambertville Porchfest 2024 will take place on Saturday, October 12th.</p> -->
+    <p>Lambertville Porchfest 2024 will take place on Sunday, October 13th.</p>
 
     <h2>What is Lambertville Porchfest?</h2>
-    <p>Lambertville Porchfest is a do-it-yourself community music festival.
-    It is organized by (and for) Lambertville residents and features musical acts
-    from all genres and all walks of life playing free shows on porches throughout
-    the downtown neighborhood.</p>
+    <p>Lambertville Porchfest is a do-it-yourself community arts festival.
+    It is organized by (and for) Lambertville residents and features music and art from all genres on porches throughout
+    the city. In addition to musical acts, we also encourage visual art, video installations, and all types of performance, including dance and theater.</p>
 
     <h2>When is Lambertville Porchfest?</h2>
-    <p>Lambertville Porchfest is always the first Saturday in October, unless otherwise noted. (Note that Porchfest 2024 will be held on October 12th, the second Saturday due to a pre-existing scheduling conflict.)</p>
+    <p>Lambertville Porchfest is always the first Saturday in October, unless otherwise noted. (Note that Porchfest 2024 will be held on Sunday October 13th, due to scheduling issues.)</p>
 
     <h2>What are the rules?</h2>
     <p>We ask all attendees to stand on the sidewalk or yard and not in the street unless the neighborhood has obtained a
@@ -39,11 +38,6 @@
     but it's entirely up to the hosts. We encourage the hosts to update their Porchfest website page accordingly.
     Please plan accordingly for weather with protective layers, umbrellas, sunscreen, sufficient water etc.</p>
 
-    <h2>Why is Porchfest restricted to downtown Lambertville?</h2>
-    <p>Since we are just starting out, we want to keep the events concentrated in the
-    downtown neighborhood to make them easily accessible. We also want to support
-    downtown businesses and restaurants as they will benefit from the foot traffic.</p>
-
     <h2>How can I participate in Lambertville Porchfest?</h2>
     <p>There are lots of ways to be part of Porchfest! You can perform, host a show,
     volunteer, or just come out and appreciate all the amazing musical talent on display.</p>
@@ -62,7 +56,7 @@
 
     <h2>Who books the performers for Lambertville Porchfest? How do I get to perform?</h2>
     <p>All booking for Porchfest is done by porch hosts (typically, the residents of the
-    house attached to a porch), not the Lambertville Porchfest Organizing Committee.
+    house attached to a porch). Porchfest is what you make it.
     If you’re a musician interested in playing at Porchfest we recommend talking
     to potential hosts (see below) in the neighborhood or
     <a href="https://www.facebook.com/groups/517604519484347" target="_blank" rel="noopener">
@@ -93,17 +87,8 @@
     This includes booking the artists that will play on the porch, notifying the neighbors on their block,
     and managing their show on the day of the event. This means that porch hosts
     should be comfortable with the legal liability of hosting a show on their
-    porch and the responsibility of being a good neighbor to their immediate community. If you would like your porch to be
-    listed on the schedule and map,
-    send an email to <a href="mailto:lambertvilleporchfest@gmail.com">LambertvillePorchfest@gmail.com</a> with the artists names, one sentence description, and performance times.</p>
-
-    <h2>What does Lambertville Porchfest provide to porch hosts?</h2>
-    <p>Once you have finalized your porch show, send us a message at <a href="mailto:lambertvilleporchfest@gmail.com">LambertvillePorchfest@gmail.com</a>
-    and we’ll add it to our online map and include it the physical maps for the
-    day of the event. We’ll keep you up to date with news and information,
-    and offer some tips/suggestions for making your show a success.
-    We’ll also provide you with a poster (or two) to put up on your porch so
-    that everyone will know you’re hosting a show!</p>
+    porch and the responsibility of being a good neighbor to their immediate community. The <a href="https://docs.google.com/document/d/1hjnukizlHzx69u0gMEMj0OL33APC1Jy5LIjP0p6bpB4/edit?usp=sharing"></a>Lambertville Porchfest Schedule</a> is a living document. 
+    Instructions for adding your porch can be found at the top of the schedule.</p>
 
     <h2>Can I bring my bike?</h2>
     <p>Yes! Biking is a great way to enjoy Porchfest and will ensure that you will
@@ -111,23 +96,18 @@
     You will find that using a car to get around town is counterproductive. If you are
     joining us from out of town, plan to park it and walk. :)</p>
 
-    <h2>Where can I find a map / lineup?</h2>
-    <p>You can find an online interactive version of the map and schedule on our website after
-    October 1st.</p>
+    <h2>Where can I find the schedule?</h2>
+    <p><a href="https://docs.google.com/document/d/1hjnukizlHzx69u0gMEMj0OL33APC1Jy5LIjP0p6bpB4/edit?usp=sharing">You can find the schedule here.</a> Changes will be made up until the day of Porchfest, so please check back regularly for updates.</p>
 
     <h2>Does this cost money to host/play/attend?</h2>
     <p>No!</p>
 
     <p>We do not charge any ticket price for audience members. We do not charge any
     registration fees for porch hosts. We certainly do not charge artists for the
-    chance to perform! We provide a way to appreciate the
-    artists by printing Venmo/PayPal accounts next to their names on the schedule.</p>
+    chance to perform!</p>
 
-    <p>Some porch hosts may pay their artists. Some porches may
-    provide a way to tip the artists performing.
-    Each of these is at the discretion of the host. Because Porchfest is free for everyone, we are grateful for any
-    donations you can afford. The money you donate is not tax-deductible, but it
-    does all go directly to making this community event possible.</p>
+    <p>Some porch hosts may pay their artists. Some porches may provide a way to tip the artists performing, via a tip jar and/or posting Venmo/Paypal links/QR codes. Hosts are encouraged to include artists' Venmo/Paypal links when adding their listings to the schedule.
+    Each of these is at the discretion of the host.</p>
 
     <h2>Can my Lambertville-based business participate in Porchfest?</h2>
     <p>Yes! For starters, you can participate as a porch host. You may also want to consider offering a
@@ -135,15 +115,13 @@
     performers.</p>
 
     <h2>Who puts on this event?</h2>
-    <p>This Porchfest is organized by volunteers within the community, hosts, and performers.</p>
+    <p>This Porchfest is organized by a decentralized group of volunteers within the community, as well as porch hosts and performers. Soupçon Salon hosts this website and provides basic support and logistics.</p>
 
     <h2>How do I get involved if I want to be part of making Lambertville Porchfest happen?</h2>
     <p>Porchfest is an all-volunteer effort and we would love to have your help!
     Flyering, organizational outreach, and design work are done by volunteers.
     If you would like to learn more about ways in which you can donate your time
-    to Porchfest, or if you are a local business that wants to provide a place for
-    attendees to pick up maps/schedules the day of the event, send an email to
-    LambertvillePorchfest@gmail.com.</p>
+    to Porchfest, send an email to LambertvillePorchfest@gmail.com.</p>
   </Layout>
 </template>
 
