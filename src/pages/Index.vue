@@ -4,8 +4,11 @@
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
     <!-- <g-image alt="Lambertville Porchfest, October 1, 2022, 12-6pm" src="~/porchfest-poster-2022.gif"/> -->
     <figure>
-      <img src="/images/porchfest-24.JPG" alt="Lambertville Porchfest, Sunday October 13, 2024, 12-6pm"/>
-      <figcaption>Photo: Corner of Chaos at Porchfest 2021</figcaption>
+      <img src="/images/2024-PORCHFEST-DESIGN.png" alt="Lambertville Porchfest Artwork, Sunday October 13, 2024, 12-6pm"/>
+      <figcaption>
+        Porchfest 2024 Artwork by Lambertville artist, Darren Francis McManus <br/>
+        T-Shirts will be on sale at the Mary Sheridan Park Gazebo on York Street.
+      </figcaption>
     </figure>
     <!-- <h2>Lambertville's 2nd Annual<br>
       <abbr title="do-it-yourself">DIY</abbr> Music Festival</h2> -->
