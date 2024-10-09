@@ -3,14 +3,15 @@ const c2 = () => import(/* webpackChunkName: "page--src--templates--porches-vue"
 const c3 = () => import(/* webpackChunkName: "page--src--pages--simple-schedule-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/SimpleSchedule.vue")
 const c4 = () => import(/* webpackChunkName: "page--src--pages--sched-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Sched.vue")
 const c5 = () => import(/* webpackChunkName: "page--src--pages--porches-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Porches.vue")
-const c6 = () => import(/* webpackChunkName: "page--src--pages--map-old-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Map_old.vue")
-const c7 = () => import(/* webpackChunkName: "page--src--pages--map-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Map.vue")
-const c8 = () => import(/* webpackChunkName: "page--src--pages--ida-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Ida.vue")
-const c9 = () => import(/* webpackChunkName: "page--src--pages--faq-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/FAQ.vue")
-const c10 = () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/About.vue")
-const c11 = () => import(/* webpackChunkName: "page--src--pages--artists-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Artists.vue")
-const c12 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/node_modules/gridsome/app/pages/404.vue")
-const c13 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Index.vue")
+const c6 = () => import(/* webpackChunkName: "page--src--pages--map-embedded-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Map-Embedded.vue")
+const c7 = () => import(/* webpackChunkName: "page--src--pages--map-old-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Map_old.vue")
+const c8 = () => import(/* webpackChunkName: "page--src--pages--map-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Map.vue")
+const c9 = () => import(/* webpackChunkName: "page--src--pages--ida-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Ida.vue")
+const c10 = () => import(/* webpackChunkName: "page--src--pages--faq-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/FAQ.vue")
+const c11 = () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/About.vue")
+const c12 = () => import(/* webpackChunkName: "page--src--pages--artists-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Artists.vue")
+const c13 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/node_modules/gridsome/app/pages/404.vue")
+const c14 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/Elliss/Development/lambertvilleporchfest/src/pages/Index.vue")
 
 export default [
   {
@@ -558,42 +559,46 @@ export default [
     component: c5
   },
   {
-    path: "/map-old/",
+    path: "/map-embedded/",
     component: c6
   },
   {
-    path: "/map/",
+    path: "/map-old/",
     component: c7
   },
   {
-    path: "/ida/",
+    path: "/map/",
     component: c8
   },
   {
-    path: "/faq/",
+    path: "/ida/",
     component: c9
   },
   {
-    path: "/about/",
+    path: "/faq/",
     component: c10
   },
   {
-    path: "/artists/",
+    path: "/about/",
     component: c11
+  },
+  {
+    path: "/artists/",
+    component: c12
   },
   {
     name: "404",
     path: "/404/",
-    component: c12
+    component: c13
   },
   {
     name: "home",
     path: "/",
-    component: c13
+    component: c14
   },
   {
     name: "*",
     path: "*",
-    component: c12
+    component: c13
   }
 ]
