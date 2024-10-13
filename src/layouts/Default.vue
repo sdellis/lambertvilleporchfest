@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
   <banner>
-    <h1>Announcement: Lambertville Porchfest will be held on Sunday, October 13, 2024!</h1>
+    <h1>Limited Edition Lambertville Porchfest 2024 T-Shirts on sale at 37 York Street!</h1>
   </banner>
   <div class="layout">
     <header class="header">
