@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
   <banner>
-    <h1>Limited Edition Lambertville Porchfest 2024 T-Shirts on sale at 37 York Street!</h1>
+    <img src="/images/footer-credits.png" height="100px" alt="Made Possible by the Hunterdon County Cultural Heritage Commission"/>
   </banner>
   <div class="layout">
     <header class="header">
